@@ -11,7 +11,7 @@ public class UnigramCreator
 	
 	public HashMap<String, Integer> unigramMapCreator(ArrayList<Sentence> arrayList)
 	{	
-		for(Sentence s:arrayList)
+		/*for(Sentence s:arrayList)
 		{
 			
 			for(Phrase p: s.getPhrases())
@@ -27,7 +27,7 @@ public class UnigramCreator
 			
 			
 			
-		}
+		}*/
 		
 		return unigramMap;
 	}

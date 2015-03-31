@@ -1,9 +1,21 @@
 package com.hindi.ssfreader;
 
-class Token {
+import com.hindi.sa.Value;
+
+public class Token {
 	public String word;
 	public String tag;
 	public String rootWord;
+	public Value scores;
+	
+
+	public Value getScores() {
+		return scores;
+	}
+
+	public void setScores(Value scores) {
+		this.scores = scores;
+	}
 
 	public String getWord() {
 		return word;
