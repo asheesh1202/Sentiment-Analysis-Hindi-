@@ -2,7 +2,7 @@ package com.hindi.ssfreader;
 
 import java.util.ArrayList;
 
-class Phrase {
+public class Phrase {
 
 	public String phraseTag;
 	public String phraseHead;

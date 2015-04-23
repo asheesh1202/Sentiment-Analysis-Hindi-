@@ -1,42 +1,67 @@
 package com.hindi.sa;
 
-import java.io.FileInputStream;
-import java.io.ObjectInputStream;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
-import java.util.Map.Entry;
 
 import com.hindi.ssfreader.SSFReader;
 import com.hindi.ssfreader.Sentence;
 
 public class Main 
 { 
-	static String path, posParsedPath, negParsedPath, polarityScoreFilePath;
+	static String path, testPosParsedPath, testNegParsedPath, trainPosParsedPath, trainNegParsedPath, polarityScoreFilePath;
 	static SSFReader ssfReaderPosObj, ssfReaderNegObj;
 	static public StopWordHandler stopWordHandlerObj;
-	static ArrayList<Sentence> posSSFSentences, negSSFSentences;
-	static UnigramCreator unigramCreatorObj;
+	static ArrayList<Sentence> testPosSSFSentences, testNegSSFSentences, trainPosSSFSentences, trainNegSSFSentences;
+	//static UnigramCreator unigramCreatorObj;
 	static PolarityScore polarityScoreObj;
+	static NGramMapCreator ngramCreatorObj;
+	static PolarityDecider polarityDeciderObj;
 	
 	public static void main(String args[])
 	{
 		path = args[0];
-		posParsedPath = path + "/ParsedReviews/PositiveParsed.txt";
-		negParsedPath = path + "/ParsedReviews/NegativeParsed.txt";
+		trainPosParsedPath = path + "/ParsedReviews/Train/PositiveParsed.txt";
+		trainNegParsedPath = path + "/ParsedReviews/Train/NegativeParsed.txt";
+		testPosParsedPath = path + "/ParsedReviews/Test/PositiveParsed.txt";
+		testNegParsedPath = path + "/ParsedReviews/Test/NegativeParsed.txt";
 		polarityScoreFilePath = path + "/Polarity Scores";
+		
 		stopWordHandlerObj = new StopWordHandler();
 		ssfReaderPosObj = new SSFReader();
 		ssfReaderNegObj = new SSFReader();
-		posSSFSentences = new ArrayList<Sentence>();
-		negSSFSentences = new ArrayList<Sentence>();
+		trainPosSSFSentences = new ArrayList<Sentence>();
+		trainNegSSFSentences = new ArrayList<Sentence>();
+		testPosSSFSentences = new ArrayList<Sentence>();
+		testNegSSFSentences = new ArrayList<Sentence>();
+		ngramCreatorObj = new NGramMapCreator();
+		polarityDeciderObj = new PolarityDecider();
+		polarityScoreObj = new PolarityScore();
+		
 		
 		stopWordHandlerObj.createStopWordSet(path);
-		polarityScoreObj=new PolarityScore();
 		polarityScoreObj.polarityScoreMapCreator(polarityScoreFilePath);
+		trainPosSSFSentences = ssfReaderPosObj.parseFile(trainPosParsedPath, true);
+		trainNegSSFSentences = ssfReaderNegObj.parseFile(trainNegParsedPath, true);
+		testPosSSFSentences = ssfReaderPosObj.parseFile(testPosParsedPath, true);
+		testNegSSFSentences = ssfReaderNegObj.parseFile(testNegParsedPath, true);
 		
 		
+		ngramCreatorObj.setStopWordSet(stopWordHandlerObj.stopWordSet);
+		ngramCreatorObj.createNGramMap(path, trainPosSSFSentences, 1, 0);
+		ngramCreatorObj.createNGramMap(path, trainNegSSFSentences, 1, 1);
+		ngramCreatorObj.storeProbabilities(path, trainPosSSFSentences, trainNegSSFSentences, 1);
+		
+		polarityDeciderObj.setStopWordSet(stopWordHandlerObj.stopWordSet);
+		polarityDeciderObj.mapPopulator(path);
+		polarityDeciderObj.polarityDecider(path, testPosSSFSentences, 1, 0);
+		polarityDeciderObj.polarityDecider(path, testNegSSFSentences, 1, 1);
+		
+		//polarityDeciderObj.polarityDecider(path, stopWordHandlerObj.stopWordSet);
+		
+		//unigramCreatorObj=new UnigramCreator();
+		
+		
+		
+		/*
 		try {
 			FileInputStream fin = new FileInputStream(polarityScoreFilePath
 					+ "/Scores/map1.ser");
@@ -72,15 +97,28 @@ public class Main
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		*/
 		
 		
 		
 		
+		/*TreeMap<String,FeatureValue> featuresMap=new TreeMap<String, FeatureValue>();
+		TreeMap<String,FeatureValue> tempMap=new TreeMap<String, FeatureValue>();
+		tempMap=unigramCreatorObj.unigramMapCreator(posSSFSentences);
+		featuresMap.putAll(tempMap);
+		System.out.println("temp size:"+tempMap.size());
 		
-		//posSSFSentences = ssfReaderPosObj.parseFile(posParsedPath, true);
-		//negSSFSentences = ssfReaderNegObj.parseFile(negParsedPath, true);
-		//unigramCreatorObj.unigramMapCreator(posSSFSentences);
-		
+		tempMap=unigramCreatorObj.unigramMapCreator(negSSFSentences);
+		System.out.println("temp size:"+tempMap.size());
+		featuresMap.putAll(tempMap);
+		System.out.println("featuremap size:"+featuresMap.size());
+		tempMap.clear();
+		*/
+		/*System.out.println("printing features:");
+		for(Entry e:featuresMap.entrySet())
+		{
+			System.out.println(e.getKey()+":"+e.getValue());
+		}*/
 	}
 	
 }

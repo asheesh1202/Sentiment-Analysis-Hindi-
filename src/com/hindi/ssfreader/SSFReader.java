@@ -38,7 +38,7 @@ public class SSFReader {
 						parsedSentence.setSentence(sCurrentLine);
 						sentenceRead=true;
 					}
-					else if(sCurrentLine.startsWith("<Sentence")||sCurrentLine.contains("SYM"))
+					else if(sCurrentLine.startsWith("<Sentence"))
 					{
 						continue;
 					}
@@ -86,6 +86,19 @@ public class SSFReader {
 					else
 					{
 						//extract token info
+						//System.out.println("curr line:"+sCurrentLine);
+						if(sCurrentLine.contains("SYM"))
+						{
+							parsedToken.setWord(",");
+							parsedToken.setTag("SYM");
+							parsedToken.setRootWord(",");
+							
+							parsedTokens.add(parsedToken);
+							parsedToken=new Token();
+								
+						}
+						else
+						{
 						StringTokenizer tokenizer =new  StringTokenizer(sCurrentLine);
 						tokenizer.nextToken();//line no
 						parsedToken.setWord(tokenizer.nextToken());
@@ -97,6 +110,7 @@ public class SSFReader {
 						
 						parsedTokens.add(parsedToken);
 						parsedToken=new Token();
+						}
 					}
 
 				}

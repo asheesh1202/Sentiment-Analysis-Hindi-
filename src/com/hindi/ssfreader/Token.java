@@ -2,7 +2,7 @@ package com.hindi.ssfreader;
 
 import com.hindi.sa.Value;
 
-public class Token {
+public class Token{
 	public String word;
 	public String tag;
 	public String rootWord;
@@ -41,6 +41,8 @@ public class Token {
 		this.rootWord = root;
 	}
 
+	
+	
 	@Override
 	public String toString() {
 
