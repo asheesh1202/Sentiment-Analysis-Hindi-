@@ -1,0 +1,41 @@
+<Sentence id="1">
+1	((	NP	<fs af='sapwAha,n,m,sg,3,d,0_kA_bAxa,0' head=sapwAha vpos="vib2_3_4">
+1.1	wIna	QC	<fs af='wIna,n,m,sg,3,d,0,0' name=wIna poslcat="NM">
+1.2	sapwAha	NN	<fs af='sapwAha,n,m,sg,3,d,0,0' name=sapwAha>
+	))		
+2	((	NP	<fs af='bEtarI,n,f,sg,3,d,0,0' head=bEtarI>
+2.1	bEtarI	NN	<fs af='bEtarI,n,f,sg,3,d,0,0' name=bEtarI>
+	))		
+3	((	JJP	<fs af='viPala,n,m,sg,3,d,0,0' poslcat="NM" head=viPala>
+3.1	viPala	JJ	<fs af='viPala,n,m,sg,3,d,0,0' poslcat="NM" name=viPala>
+	))		
+4	((	VGF	<fs af='raha,v,f,sg,2,,wA_hE,wA' head=rahawI vpos="tam1_2">
+4.1	rahawI	VM	<fs af='raha,v,f,sg,any,,wA,wA' name=rahawI>
+4.2	#	SYM	<fs af='&hash;,punc,,,,,,' name=#>
+	))		
+5	((	NP	<fs af='mEM,pn,any,sg,1,o,ne,ne' head=mEMne vpos="vib1">
+5.1	mEMne	PRP	<fs af='mEM,pn,any,sg,1,o,ne,ne' name=mEMne>
+	))		
+6	((	NP	<fs af='yaha,pn,any,sg,3,d,0,0' head=yaha>
+6.1	yaha	PRP	<fs af='yaha,pn,any,sg,3,d,0,0' name=yaha>
+	))		
+7	((	NP	<fs af='vAllmArta,unk,,,,,0_se,' head=vAllmArta poslcat="NM" vpos="vib1_2">
+7.1	vAllmArta	NN	<fs af='vAllmArta,unk,,,,,,' poslcat="NM" name=vAllmArta>
+	))		
+8	((	NP	<fs af='KarIxa,v,m,sg,any,,yA,yA' head=KZarIxA poslcat="NM" vpos="vib1">
+8.1	KZarIxA	NN	<fs af='KarIxa,v,m,sg,any,,yA,yA' poslcat="NM" name=KZarIxA>
+	))		
+9	((	NP	<fs af='jahAz,adv,,,,,,' poslcat="NM" head=jahAz>
+9.1	jahAz	PRP	<fs af='jahAz,adv,,,,,,' poslcat="NM" name=jahAz>
+	))		
+10	((	NP	<fs af='kama,adj,any,any,,any,,' head=kama>
+10.1	yaha	DEM	<fs af='yaha,pn,any,sg,3,d,0,0' name=yaha2>
+10.2	kama	QF	<fs af='kama,adj,any,any,,any,,' name=kama>
+	))		
+11	((	JJP	<fs af='KarcIlA,adj,m,sg,,d,,' head=KarcIlA>
+11.1	KarcIlA	JJ	<fs af='KarcIlA,adj,m,sg,,d,,' name=KarcIlA>
+	))		
+12	((	VGF	<fs af='hE,v,any,pl,1,,hE,hE' head=hEM>
+12.1	hEM	VM	<fs af='hE,v,any,pl,1,,hE,hE' name=hEM>
+	))		
+</Sentence>

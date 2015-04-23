@@ -1,0 +1,31 @@
+Readme File for the Hindi Subjective Lexicon version 1.0
+
+Purpose:
+--------
+The Hindi Subjective Lexicon version 1.0, copyright IIIT Hyderabad, has been developed for the purpose of
+facilitating Natural Language Processing applications.
+
+
+Contents:
+---------
+This Compressed file contains
+1. README
+2. HSL_Vx.y_ddmonthyear.txt  (x.y is the version released, ddmonthyear is the last date of update).
+
+
+Please CITE the following paper:
+Hindi Subjective Lexicon Generation using WordNet Graph Traversal
+by Akshat Bakliwal, Piyush Arora and Vasudeva Varma
+at CICLing 2012, New Delhi, India.
+
+
+DEVELOPED AT:
+-------------
+Search and Information Extraction Lab (SIEL),
+Language Technology Research Center (LTRC),
+IIIT Hyderabad,
+Gachibowli, Hyderabad. 500032.
+
+Send bug-reports, etc to:
+akshat.bakliwal[at]research.iiit.ac.in,   
+piyush.arora[at]research.iiit.ac.in

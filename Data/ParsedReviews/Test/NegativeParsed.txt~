@@ -1,0 +1,2949 @@
+आईपीएल के इस सीजन में टीम अभी तक संतुलित नहीं हो पाई है
+<Sentence id="1">
+1	((	NP	<fs af='आईपीएल,unk,,,,,0_का,' poslcat="NM"  vpos="vib1_2"  head='आईपीएल'>
+1.1	आईपीएल	NN	<fs af='आईपीएल,unk,,,,,,' name='आईपीएल'  poslcat="NM">
+	))		
+2	((	NP	<fs af='सीजन,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head='सीजन'>
+2.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+2.2	सीजन	NN	<fs af='सीजन,n,m,sg,3,d,0,0' name='सीजन'>
+	))		
+3	((	NP	<fs af='टीम,n,f,sg,3,d,0,0' head='टीम'>
+3.1	टीम	NN	<fs af='टीम,n,f,sg,3,d,0,0' name='टीम'>
+	))		
+4	((	NP	<fs af='अभी,adv,,,,,,' poslcat="NM"  head='अभी'>
+4.1	अभी	PRP	<fs af='अभी,adv,,,,,,' name='अभी'  poslcat="NM">
+4.2	तक	RP	<fs af='तक,avy,,,,,,' name='तक'>
+	))		
+5	((	JJP	<fs af='संतुलित,adj,any,any,,any,,' head='संतुलित'>
+5.1	संतुलित	JJ	<fs af='संतुलित,adj,any,any,,any,,' name='संतुलित'>
+	))		
+6	((	VGF	<fs af='हो,v,f,sg,2,,0_पा+या_है,0' vpos="tam2_3_4"  head='हो'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+</Sentence>			
+हमने कई प्रयोग किए लेकिन अभी तक सफलता नहीं मिली है
+<Sentence id="2">
+1	((	NP	<fs af='हमने,unk,,,,,,' head='हमने'  poslcat="NM">
+1.1	हमने	PRP	<fs af='हमने,unk,,,,,,' poslcat="NM"  name='हमने'>
+	))		
+2	((	NP	<fs af='प्रयोग,n,m,sg,3,d,0,0' head='प्रयोग'>
+2.1	कई	QF	<fs af='कई,adj,any,any,,d,,' name='कई'>
+2.2	प्रयोग	NN	<fs af='प्रयोग,n,m,sg,3,d,0,0' name='प्रयोग'>
+	))		
+3	((	VGF	<fs af='कर,v,m,pl,any,,या,yA' head='किए'>
+3.1	किए	VM	<fs af='कर,v,m,pl,any,,या,yA' name='किए'>
+	))		
+4	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+4.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+5	((	NP	<fs af='अभी,adv,,,,,,' head='अभी'  poslcat="NM">
+5.1	अभी	PRP	<fs af='अभी,adv,,,,,,' poslcat="NM"  name='अभी'>
+5.2	तक	RP	<fs af='तक,avy,,,,,,' name='तक'>
+	))		
+6	((	NP	<fs af='सफलता,n,f,sg,3,d,0,0' head='सफलता'>
+6.1	सफलता	NN	<fs af='सफलता,n,f,sg,3,d,0,0' name='सफलता'>
+	))		
+7	((	VGF	<fs af='मिल,v,f,sg,2,,या_है,yA' vpos="tam2_3"  head='मिली'>
+7.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+7.2	मिली	VM	<fs af='मिल,v,f,sg,any,,या,yA' name='मिली'>
+	))		
+</Sentence>			
+शुक्रवार को चेन्नई के खिलाफ भी मुंबई यह मैच छह विकेट से हार गई थी
+<Sentence id="3">
+1	((	NP	<fs af='शुक्रवार,n,m,sg,3,d,0_को,0' vpos="vib1_2"  head='शुक्रवार'>
+1.1	शुक्रवार	NN	<fs af='शुक्रवार,n,m,sg,3,d,0,0' name='शुक्रवार'>
+	))		
+2	((	NP	<fs af='चेन्नई,n,m,sg,3,d,0_का,0' head='चेन्नई'  vpos="vib1_2_RP">
+2.1	चेन्नई	NN	<fs af='चेन्नई,n,m,sg,3,d,0,0' name='चेन्नई'>
+2.2	खिलाफ	PSP:?	<fs af='खिलाफ,psp,,,,,,' name='खिलाफ'  poslcat="NM">
+2.3	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+3	((	NP	<fs af='मुंबई,n,m,sg,3,d,0,0' head='मुंबई'>
+3.1	मुंबई	NNP	<fs af='मुंबई,n,m,sg,3,d,0,0' name='मुंबई'>
+	))		
+4	((	NP	<fs af='मैच,n,m,sg,3,d,0,0' head='मैच'>
+4.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+4.2	मैच	NN	<fs af='मैच,n,m,sg,3,d,0,0' name='मैच'>
+	))		
+5	((	NP	<fs af='विकेट,n,m,sg,3,d,0_से,0' vpos="vib2_3"  head='विकेट'>
+5.1	छह	QC	<fs af='छह,adj,any,any,,any,,' name='छह'>
+5.2	विकेट	NN	<fs af='विकेट,n,m,sg,3,d,0,0' name='विकेट'>
+	))		
+6	((	NP	<fs af='हार,n,m,sg,3,d,0,0' head='हार'>
+6.1	हार	NN	<fs af='हार,n,m,sg,3,d,0,0' name='हार'>
+	))		
+7	((	VGF	<fs af='गई,unk,,sg,any,,0_था,' head='गई'  poslcat="NM"  vpos="tam1_2">
+7.1	गई	VM	<fs af='गई,unk,,,,,,' name='गई'  poslcat="NM">
+	))		
+</Sentence>			
+अभी तक हम सेटेल नहीं हो पाए हैं
+<Sentence id="4">
+1	((	NP	<fs af='अभी,adv,,,,,,' head='अभी'  poslcat="NM">
+1.1	अभी	PRP	<fs af='अभी,adv,,,,,,' name='अभी'  poslcat="NM">
+1.2	तक	RP	<fs af='तक,avy,,,,,,' name='तक'>
+	))		
+2	((	NP	<fs af='हम,unk,,,,,,' poslcat="NM"  head='हम'>
+2.1	हम	PRP	<fs af='हम,unk,,,,,,' poslcat="NM"  name='हम'>
+	))		
+3	((	NP	<fs af='सेटेल,unk,,,,,,' poslcat="NM"  head='सेटेल'>
+3.1	सेटेल	NN	<fs af='सेटेल,unk,,,,,,' poslcat="NM"  name='सेटेल'>
+	))		
+4	((	VGF	<fs af='हो,v,any,pl,1,,0_पा+एं_है,0' vpos="tam2_3_4"  head='हो'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+</Sentence>			
+मुझे समझ नहीं आ रहा कि हम कहां गलती कर रहे हैं
+<Sentence id="5">
+1	((	NP	<fs af='मुझे,unk,,,,,,' head='मुझे'  poslcat="NM">
+1.1	मुझे	PRP	<fs af='मुझे,unk,,,,,,' poslcat="NM"  name='मुझे'>
+	))		
+2	((	NP	<fs af='समझ,n,f,sg,3,d,0,0' head='समझ'>
+2.1	समझ	NN	<fs af='समझ,n,f,sg,3,d,0,0' name='समझ'>
+	))		
+3	((	VGF	<fs af='आ,v,any,sg,any,,0_रह+या,0' vpos="tam2_3"  head='आ'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	आ	VM	<fs af='आ,v,any,any,any,,0,0' name='आ'>
+	))		
+4	((	CCP	<fs af='कि,avy,,,,,,' head='कि'>
+4.1	कि	CC	<fs af='कि,avy,,,,,,' name='कि'>
+	))		
+5	((	NP	<fs af='हम,unk,,,,,,' head='हम'  poslcat="NM">
+5.1	हम	PRP	<fs af='हम,unk,,,,,,' name='हम'  poslcat="NM">
+	))		
+6	((	NP	<fs af='कहाँ,adv,,,,,,' poslcat="NM"  head='कहां'>
+6.1	कहां	WQ	<fs af='कहाँ,adv,,,,,,' poslcat="NM"  name='कहां'>
+	))		
+7	((	NP	<fs af='गलती,n,f,sg,3,d,0,0' head='गलती'>
+7.1	गलती	NN	<fs af='गलती,n,f,sg,3,d,0,0' name='गलती'>
+	))		
+8	((	VGF	<fs af='कर,v,any,pl,1,,0_रह+एं_है,0' vpos="tam1_2_3"  head='कर'>
+8.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+</Sentence>			
+लेकिन कोई फायदा नहीं हुआ
+<Sentence id="6">
+1	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+1.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+2	((	NP	<fs af='फायदा,n,m,sg,3,d,0,0' head='फायदा'>
+2.1	कोई	PRP	<fs af='कोई,pn,any,sg,3,d,0,0' name='कोई'>
+2.2	फायदा	NN	<fs af='फायदा,n,m,sg,3,d,0,0' name='फायदा'>
+	))		
+3	((	NEGP	<fs af='हो,v,m,sg,any,,या,yA' head='हुआ'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	हुआ	VAUX	<fs af='हो,v,m,sg,any,,या,yA' name='हुआ'>
+	))		
+</Sentence>			
+हम शुरुआती ओवर्स में विपक्षी टीम पर दबाव नहीं बना पाते
+<Sentence id="7">
+1	((	NP	<fs af='हम,unk,,,,,,' poslcat="NM"  head='हम'>
+1.1	हम	PRP	<fs af='हम,unk,,,,,,' name='हम'  poslcat="NM">
+	))		
+2	((	NP	<fs af='शुरुआती,n,f,sg,3,d,0,0' head='शुरुआती'>
+2.1	शुरुआती	NN	<fs af='शुरुआती,n,f,sg,3,d,0,0' name='शुरुआती'>
+	))		
+3	((	NP	<fs af='ओवर्स,unk,,,,,0_में,' head='ओवर्स'  poslcat="NM"  vpos="vib1_2">
+3.1	ओवर्स	NN	<fs af='ओवर्स,unk,,,,,,' poslcat="NM"  name='ओवर्स'>
+	))		
+4	((	NP	<fs af='टीम,n,f,sg,3,d,0_पर,0' head='टीम'  vpos="vib2_3">
+4.1	विपक्षी	JJ	<fs af='विपक्षी,n,f,sg,3,d,0,0' name='विपक्षी'  poslcat="NM">
+4.2	टीम	NN	<fs af='टीम,n,f,sg,3,d,0,0' name='टीम'>
+	))		
+5	((	NP	<fs af='दबाव,n,m,sg,3,d,0,0' head='दबाव'>
+5.1	दबाव	NN	<fs af='दबाव,n,m,sg,3,d,0,0' name='दबाव'>
+	))		
+6	((	VGF	<fs af='बना,v,any,pl,any,,0_पा+ता,0' vpos="tam2_3"  head='बना'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	बना	VM	<fs af='बना,v,any,any,any,,0,0' name='बना'>
+	))		
+</Sentence>			
+गौरतलब है कि मुंबई इंडियन्स की ओपनिंग जोड़ी अब तक तय नहीं हो पाई है
+<Sentence id="8">
+1	((	NP	<fs af='गौरतलब,n,m,sg,3,d,0,0' head='गौरतलब'>
+1.1	गौरतलब	NN	<fs af='गौरतलब,n,m,sg,3,d,0,0' name='गौरतलब'>
+	))		
+2	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+2.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+3	((	CCP	<fs af='कि,avy,,,,,,' head='कि'>
+3.1	कि	CC	<fs af='कि,avy,,,,,,' name='कि'>
+	))		
+4	((	NP	<fs af='मुंबई,n,m,sg,3,d,0,0' head='मुंबई'>
+4.1	मुंबई	NNP	<fs af='मुंबई,n,m,sg,3,d,0,0' name='मुंबई'>
+	))		
+5	((	NP	<fs af='इंडियन्स,unk,,,,,0_का,' poslcat="NM"  vpos="vib1_2"  head='इंडियन्स'>
+5.1	इंडियन्स	NN	<fs af='इंडियन्स,unk,,,,,,' name='इंडियन्स'  poslcat="NM">
+	))		
+6	((	NP	<fs af='जोडी,n,f,sg,,d,0,0' head='जोड़ी'>
+6.1	ओपनिंग	XC	<fs af='ओपनिंग,n,m,sg,3,d,0,0' poslcat="NM"  name='ओपनिंग'>
+6.2	जोड़ी	NN	<fs af='जोडी,n,f,sg,,d,0,0' name='जोड़ी'>
+	))		
+7	((	NP	<fs af='अब,adv,,,,,,' poslcat="NM"  head='अब'>
+7.1	अब	PRP	<fs af='अब,adv,,,,,,' name='अब'  poslcat="NM">
+7.2	तक	RP	<fs af='तक,avy,,,,,,' name='तक'>
+	))		
+8	((	JJP	<fs af='तय,n,m,sg,3,d,0,0' head='तय'  poslcat="NM">
+8.1	तय	JJ	<fs af='तय,n,m,sg,3,d,0,0' name='तय'  poslcat="NM">
+	))		
+9	((	VGF	<fs af='हो,v,f,sg,2,,0_पा+या_है,0' vpos="tam2_3_4"  head='हो'>
+9.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+9.2	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+</Sentence>			
+शुरुआती छह ओवर्स में ही हमने काफी रन लुटा दिया थे
+<Sentence id="9">
+1	((	NP	<fs af='शुरुआती,n,f,sg,3,d,0,0' head='शुरुआती'>
+1.1	शुरुआती	NN	<fs af='शुरुआती,n,f,sg,3,d,0,0' name='शुरुआती'>
+	))		
+2	((	NP	<fs af='ओवर्स,unk,,,,,0_में,' poslcat="NM"  head='ओवर्स'  vpos="vib2_3_RP">
+2.1	छह	QC	<fs af='छह,adj,any,any,,any,,' name='छह'>
+2.2	ओवर्स	NN	<fs af='ओवर्स,unk,,,,,,' name='ओवर्स'  poslcat="NM">
+2.3	ही	RP	<fs af='ही,adv,,,,,,' name='ही'  poslcat="NM">
+	))		
+3	((	NP	<fs af='हमने,unk,,,,,,' head='हमने'  poslcat="NM">
+3.1	हमने	PRP	<fs af='हमने,unk,,,,,,' poslcat="NM"  name='हमने'>
+	))		
+4	((	NP	<fs af='रन,unk,,,,,,' head='रन'  poslcat="NM">
+4.1	काफी	QF	<fs af='काफी,adj,any,any,,any,,' name='काफी'>
+4.2	रन	NN	<fs af='रन,unk,,,,,,' poslcat="NM"  name='रन'>
+	))		
+5	((	VGF	<fs af='लुटा,v,m,pl,any,,0_दे+या_था,0' vpos="tam1_2_3"  head='लुटा'>
+5.1	लुटा	VM	<fs af='लुटा,v,any,any,any,,0,0' name='लुटा'>
+	))		
+</Sentence>			
+लेकिन चेन्नई के ओपनर्स ने उससे भी अच्छी बॉलिंग कर हमसे मैच छीन लिया
+<Sentence id="10">
+1	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+1.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+2	((	NP	<fs af='चेन्नई,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head='चेन्नई'>
+2.1	चेन्नई	NN	<fs af='चेन्नई,n,m,sg,3,d,0,0' name='चेन्नई'>
+	))		
+3	((	NP	<fs af='ओपनर्स,unk,,,,,0_ने,' poslcat="NM"  head='ओपनर्स'  vpos="vib1_2">
+3.1	ओपनर्स	NN	<fs af='ओपनर्स,unk,,,,,,' name='ओपनर्स'  poslcat="NM">
+	))		
+4	((	NP	<fs af='वह,pn,any,sg,3,o,से,se' head='उससे'  vpos="vib1_RP">
+4.1	उससे	PRP	<fs af='वह,pn,any,sg,3,o,से,se' name='उससे'>
+4.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+5	((	NP	<fs af='बॉलिंग,unk,,,,,,' head='बॉलिंग'  poslcat="NM">
+5.1	अच्छी	JJ	<fs af='अच्छी,adj,f,any,,any,,' name='अच्छी'>
+5.2	बॉलिंग	NN	<fs af='बॉलिंग,unk,,,,,,' name='बॉलिंग'  poslcat="NM">
+	))		
+6	((	VGNF	<fs af='कर,v,any,any,any,,0,0' head='कर'>
+6.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+7	((	NP	<fs af='हमसे,unk,,,,,,' head='हमसे'  poslcat="NM">
+7.1	हमसे	PRP	<fs af='हमसे,unk,,,,,,' name='हमसे'  poslcat="NM">
+	))		
+8	((	NP	<fs af='मैच,n,m,sg,3,d,0,0' head='मैच'>
+8.1	मैच	NN	<fs af='मैच,n,m,sg,3,d,0,0' name='मैच'>
+	))		
+9	((	VGF	<fs af='छीन,v,any,sg,any,,0_ले+या,0' vpos="tam1_2"  head='छीन'>
+9.1	छीन	VM	<fs af='छीन,v,any,any,any,,0,0' name='छीन'>
+	))		
+</Sentence>			
+जिसकी वजह से उनकी परेशानी बड़ी है
+<Sentence id="11">
+1	((	NP	<fs af='जो,pn,f,sg,3,d,का,kA' head='जिसकी'  vpos="vib1">
+1.1	जिसकी	PRP	<fs af='जो,pn,f,sg,3,d,का,kA' name='जिसकी'>
+	))		
+2	((	NP	<fs af='वजह,n,f,sg,3,d,0_से,0' vpos="vib1_2"  head='वजह'>
+2.1	वजह	NN	<fs af='वजह,n,f,sg,3,d,0,0' name='वजह'>
+	))		
+3	((	NP	<fs af='परेशानी,n,f,sg,3,d,0,0' head='परेशानी'>
+3.1	उनकी	PRP	<fs af='उनकी,unk,,,,,,' name='उनकी'  poslcat="NM">
+3.2	परेशानी	NN	<fs af='परेशानी,n,f,sg,3,d,0,0' name='परेशानी'>
+	))		
+4	((	JJP	<fs af='बडी,adj,f,any,,any,,' head='बड़ी'>
+4.1	बड़ी	JJ	<fs af='बडी,adj,f,any,,any,,' name='बड़ी'>
+	))		
+5	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+5.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+संन्यास का फैसला बदलने का उनका कोई इरादा नहीं है
+<Sentence id="12">
+1	((	NP	<fs af='संन्यास,n,m,sg,3,d,0_का,0' head='संन्यास'  vpos="vib1_2">
+1.1	संन्यास	NN	<fs af='संन्यास,n,m,sg,3,d,0,0' name='संन्यास'>
+	))		
+2	((	NP	<fs af='फैसला,n,m,sg,3,d,0,0' head='फैसला'>
+2.1	फैसला	NN	<fs af='फैसला,n,m,sg,3,d,0,0' name='फैसला'>
+	))		
+3	((	VGNN	<fs af='बदल,v,m,sg,any,,ना_का,nA' vpos="tam1_2"  head='बदलने'>
+3.1	बदलने	VM	<fs af='बदल,v,m,pl,any,,ना,nA' name='बदलने'>
+	))		
+4	((	NP	<fs af='उनका,unk,,,,,,' head='उनका'  poslcat="NM">
+4.1	उनका	PRP	<fs af='उनका,unk,,,,,,' name='उनका'  poslcat="NM">
+	))		
+5	((	NP	<fs af='इरादा,n,m,sg,3,d,0,0' head='इरादा'>
+5.1	कोई	PRP	<fs af='कोई,pn,any,sg,3,d,0,0' name='कोई'>
+5.2	इरादा	NN	<fs af='इरादा,n,m,sg,3,d,0,0' name='इरादा'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+विश्व कप के बाद 50 ओवरों के क्रिकेट को अलविदा कह दिया था
+<Sentence id="13">
+1	((	NP	<fs af='कप,n,m,sg,3,d,0_का_बाद,0' head='कप'  vpos="vib2_3_4">
+1.1	विश्व	XC	<fs af='विश्व,n,m,sg,3,d,0,0' poslcat="NM"  name='विश्व'>
+1.2	कप	NN	<fs af='कप,n,m,sg,3,d,0,0' name='कप'>
+	))		
+2	((	NP	<fs af='ओवरों,unk,,,,,0_का,' poslcat="NM"  head='ओवरों'  vpos="vib2_3">
+2.1	50	QC	<fs af='50,num,,,,,,' name='50'>
+2.2	ओवरों	NN	<fs af='ओवरों,unk,,,,,,' name='ओवरों'  poslcat="NM">
+	))		
+3	((	NP	<fs af='क्रिकेट,n,m,sg,3,d,0_को,0' vpos="vib1_2"  head='क्रिकेट'>
+3.1	क्रिकेट	NN	<fs af='क्रिकेट,n,m,sg,3,d,0,0' name='क्रिकेट'>
+	))		
+4	((	JJP	<fs af='अलविदा,adv,,,,,,' poslcat="NM"  head='अलविदा'>
+4.1	अलविदा	JJ	<fs af='अलविदा,adv,,,,,,' poslcat="NM"  name='अलविदा'>
+	))		
+5	((	VGF	<fs af='कह,v,m,sg,any,,0_दे+या_था,0' head='कह'  vpos="tam1_2_3">
+5.1	कह	VM	<fs af='कह,v,any,any,any,,0,0' name='कह'>
+	))		
+</Sentence>			
+हमने लगभग 20 रन कम बनाए
+<Sentence id="14">
+1	((	NP	<fs af='हमने,unk,,,,,,' head='हमने'  poslcat="NM">
+1.1	हमने	PRP	<fs af='हमने,unk,,,,,,' poslcat="NM"  name='हमने'>
+	))		
+2	((	RBP	<fs af='लगभग,adv,,,,,,' head='लगभग'>
+2.1	लगभग	RB	<fs af='लगभग,adv,,,,,,' name='लगभग'>
+	))		
+3	((	NP	<fs af='रन,unk,,,,,,' poslcat="NM"  head='रन'>
+3.1	20	QC	<fs af='20,num,,,,,,' name='20'>
+3.2	रन	NN	<fs af='रन,unk,,,,,,' name='रन'  poslcat="NM">
+	))		
+4	((	NP	<fs af='कम,adj,any,any,,any,,' head='कम'>
+4.1	कम	QF	<fs af='कम,adj,any,any,,any,,' name='कम'>
+	))		
+5	((	VGF	<fs af='बना,v,any,sg,2,,एं,e' head='बनाए'>
+5.1	बनाए	VM	<fs af='बना,v,any,sg,2,,एं,e' name='बनाए'>
+	))		
+</Sentence>			
+दिल्ली के विकेट को देखते हुए 170 से अधिक का स्कोर प्रतिस्पर्धी होता लेकिन हम इससे पीछे रह गए
+<Sentence id="15">
+1	((	NP	<fs af='दिल्ली,n,f,sg,3,d,0_का,0' head='दिल्ली'  vpos="vib1_2">
+1.1	दिल्ली	NNP	<fs af='दिल्ली,n,f,sg,3,d,0,0' name='दिल्ली'>
+	))		
+2	((	NP	<fs af='विकेट,n,m,sg,3,d,0_को,0' vpos="vib1_2"  head='विकेट'>
+2.1	विकेट	NN	<fs af='विकेट,n,m,sg,3,d,0,0' name='विकेट'>
+	))		
+3	((	VGNF	<fs af='देख,v,m,pl,any,,ता_हो+या,wA' head='देखते'  vpos="tam1_2">
+3.1	देखते	VM	<fs af='देख,v,m,pl,any,,ता,wA' name='देखते'>
+	))		
+4	((	NP	<fs af='अधिक,adj,any,any,,any,0_से_का,' head='अधिक'  vpos="2_vib3_4">
+4.1	170	QC	<fs af='170,num,,,,,,' name='170'>
+4.2	अधिक	QF	<fs af='अधिक,adj,any,any,,any,,' name='अधिक'>
+	))		
+5	((	NP	<fs af='स्कोर,n,m,sg,3,d,0,0' head='स्कोर'>
+5.1	स्कोर	NN	<fs af='स्कोर,n,m,sg,3,d,0,0' name='स्कोर'>
+	))		
+6	((	JJP	<fs af='प्रतिस्पर्धी,n,f,sg,3,d,0,0' poslcat="NM"  head='प्रतिस्पर्धी'>
+6.1	प्रतिस्पर्धी	JJ	<fs af='प्रतिस्पर्धी,n,f,sg,3,d,0,0' name='प्रतिस्पर्धी'  poslcat="NM">
+	))		
+7	((	VGF	<fs af='हो,v,m,sg,any,,ता,wA' head='होता'>
+7.1	होता	VM	<fs af='हो,v,m,sg,any,,ता,wA' name='होता'>
+	))		
+8	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+8.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+9	((	NP	<fs af='हम,unk,,,,,,' head='हम'  poslcat="NM">
+9.1	हम	PRP	<fs af='हम,unk,,,,,,' name='हम'  poslcat="NM">
+	))		
+10	((	NP	<fs af='यह,pn,any,sg,3,o,से_पीछे,se' vpos="vib1_2"  head='इससे'>
+10.1	इससे	PRP	<fs af='यह,pn,any,sg,3,o,से,se' name='इससे'>
+	))		
+11	((	VGF	<fs af='रह,v,any,any,any,,0_गए,0' vpos="tam1_2"  head='रह'>
+11.1	रह	VM	<fs af='रह,v,any,any,any,,0,0' name='रह'>
+	))		
+</Sentence>			
+लेकिन दुर्भावना से की गई थी
+<Sentence id="16">
+1	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+1.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+2	((	NP	<fs af='दुर्भावना,n,f,sg,3,d,0_से,0' head='दुर्भावना'  vpos="vib1_2">
+2.1	दुर्भावना	NN	<fs af='दुर्भावना,n,f,sg,3,d,0,0' name='दुर्भावना'>
+	))		
+3	((	VGF	<fs af='कर,v,f,sg,any,,या_गई_था,yA' vpos="tam1_2_3"  head='की'>
+3.1	की	VM	<fs af='कर,v,f,sg,any,,या,yA' name='की'>
+	))		
+</Sentence>			
+डीज़ल कारों को बढ़ावा देकर बड़ी गलती हो गई
+<Sentence id="17">
+1	((	NP	<fs af='डीजल,n,m,sg,,d,0,0' head='डीज़ल'>
+1.1	डीज़ल	NN	<fs af='डीजल,n,m,sg,,d,0,0' name='डीज़ल'>
+	))		
+2	((	NP	<fs af='कार,n,f,pl,3,o,0_को,0' head='कारों'  vpos="vib1_2">
+2.1	कारों	NN	<fs af='कार,n,f,pl,3,o,0,0' name='कारों'>
+	))		
+3	((	NP	<fs af='बढावा,n,m,sg,,d,0,0' head='बढ़ावा'>
+3.1	बढ़ावा	NN	<fs af='बढावा,n,m,sg,,d,0,0' name='बढ़ावा'>
+	))		
+4	((	VGNF	<fs af='दे,v,any,any,any,,कर,kara' head='देकर'>
+4.1	देकर	VM	<fs af='दे,v,any,any,any,,कर,kara' name='देकर'>
+	))		
+5	((	NP	<fs af='गलती,n,f,sg,3,d,0,0' head='गलती'>
+5.1	बड़ी	JJ	<fs af='बडी,adj,f,any,,any,,' name='बड़ी'>
+5.2	गलती	NN	<fs af='गलती,n,f,sg,3,d,0,0' name='गलती'>
+	))		
+6	((	VGF	<fs af='हो,v,any,any,any,,0_गई,0' vpos="tam1_2"  head='हो'>
+6.1	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+</Sentence>			
+जो मैंने कहा उसमें ट्रक संघों, डीज़ल कार निर्माताओं के पक्ष नहीं हैं
+<Sentence id="18">
+1	((	NP	<fs af='जो,pn,any,sg,3,d,0,0' head='जो'>
+1.1	जो	PRP	<fs af='जो,pn,any,sg,3,d,0,0' name='जो'>
+	))		
+2	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' vpos="vib1"  head='मैंने'>
+2.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+3	((	VGNF	<fs af='कह,v,m,sg,any,,या,yA' head='कहा'>
+3.1	कहा	VM	<fs af='कह,v,m,sg,any,,या,yA' name='कहा'>
+	))		
+4	((	NP	<fs af='वह,pn,any,sg,3,o,में,meM' vpos="vib1"  head='उसमें'>
+4.1	उसमें	PRP	<fs af='वह,pn,any,sg,3,o,में,meM' name='उसमें'>
+	))		
+5	((	NP	<fs af='ट्रक,n,m,sg,3,d,0,0' head='ट्रक'>
+5.1	ट्रक	NN	<fs af='ट्रक,n,m,sg,3,d,0,0' name='ट्रक'>
+	))		
+6	((	NP	<fs af='संघ,n,m,pl,3,o,0,0' head='संघों'>
+6.1	संघों	NN	<fs af='संघ,n,m,pl,3,o,0,0' name='संघों'>
+6.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+7	((	NP	<fs af='कार,n,f,sg,3,d,0,0' head='कार'>
+7.1	डीज़ल	XC	<fs af='डीजल,n,m,sg,,d,0,0' poslcat="NM"  name='डीज़ल'>
+7.2	कार	NN	<fs af='कार,n,f,sg,3,d,0,0' name='कार'>
+	))		
+8	((	NP	<fs af='निर्माता,n,m,pl,3,o,0_का,0' head='निर्माताओं'  vpos="vib1_2">
+8.1	निर्माताओं	NN	<fs af='निर्माता,n,m,pl,3,o,0,0' name='निर्माताओं'>
+	))		
+9	((	NP	<fs af='पक्ष,n,m,sg,3,d,0,0' head='पक्ष'>
+9.1	पक्ष	NN	<fs af='पक्ष,n,m,sg,3,d,0,0' name='पक्ष'>
+	))		
+10	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+10.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+10.2	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+	))		
+</Sentence>			
+भारत में ऐसे उद्यमी नहीं है कि वे भारत में ऐसे क़ाग़ज़ बना सकें
+<Sentence id="19">
+1	((	NP	<fs af='भारत,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head='भारत'>
+1.1	भारत	NNP	<fs af='भारत,n,m,sg,3,d,0,0' name='भारत'>
+	))		
+2	((	NP	<fs af='उद्यमी,adj,f,any,,any,,' poslcat="NM"  head='उद्यमी'>
+2.1	ऐसे	DEM	<fs af='ऐसे,adv,,,,,,' poslcat="NM"  name='ऐसे'>
+2.2	उद्यमी	NN	<fs af='उद्यमी,adj,f,any,,any,,' poslcat="NM"  name='उद्यमी'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+4	((	CCP	<fs af='कि,avy,,,,,,' head='कि'>
+4.1	कि	CC	<fs af='कि,avy,,,,,,' name='कि'>
+	))		
+5	((	NP	<fs af='वह,pn,any,pl,3,d,0,0' head='वे'>
+5.1	वे	PRP	<fs af='वह,pn,any,pl,3,d,0,0' name='वे'>
+	))		
+6	((	NP	<fs af='भारत,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head='भारत2'>
+6.1	भारत	NNP	<fs af='भारत,n,m,sg,3,d,0,0' name='भारत2'>
+	))		
+7	((	NP	<fs af='कागज,n,m,sg,,d,0,0' head='क़ाग़ज़'>
+7.1	ऐसे	DEM	<fs af='ऐसे,adv,,,,,,' name='ऐसे2'  poslcat="NM">
+7.2	क़ाग़ज़	NN	<fs af='कागज,n,m,sg,,d,0,0' name='क़ाग़ज़'>
+	))		
+8	((	VGF	<fs af='बना,v,any,pl,1,,0_सक+एं,0' vpos="tam1_2"  head='बना'>
+8.1	बना	VM	<fs af='बना,v,any,any,any,,0,0' name='बना'>
+	))		
+</Sentence>			
+ऐसा कर वे भारत में नकली मुद्रा फैला देते हैं
+<Sentence id="20">
+1	((	NP	<fs af='ऐसा,adv,,,,,,' head='ऐसा'  poslcat="NM">
+1.1	ऐसा	PRP	<fs af='ऐसा,adv,,,,,,' poslcat="NM"  name='ऐसा'>
+	))		
+2	((	VGNF	<fs af='कर,v,any,any,any,,0,0' head='कर'>
+2.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+3	((	NP	<fs af='वह,pn,any,pl,3,d,0,0' head='वे'>
+3.1	वे	PRP	<fs af='वह,pn,any,pl,3,d,0,0' name='वे'>
+	))		
+4	((	NP	<fs af='भारत,n,m,sg,3,d,0_में,0' head='भारत'  vpos="vib1_2">
+4.1	भारत	NNP	<fs af='भारत,n,m,sg,3,d,0,0' name='भारत'>
+	))		
+5	((	NP	<fs af='मुद्रा,n,f,sg,3,d,0,0' head='मुद्रा'>
+5.1	नकली	JJ	<fs af='नकली,adj,f,any,,any,,' name='नकली'>
+5.2	मुद्रा	NN	<fs af='मुद्रा,n,f,sg,3,d,0,0' name='मुद्रा'>
+	))		
+6	((	VGF	<fs af='फैला,v,m,pl,1,,0_दे+ता_है,0' head='फैला'  vpos="tam1_2_3">
+6.1	फैला	VM	<fs af='फैला,v,any,any,any,,0,0' name='फैला'>
+	))		
+</Sentence>			
+सिर्फ रोशनी में ऊपर नीचे करके इसका सही मूल्यांकन नहीं किया जा सकता है
+<Sentence id="21">
+1	((	RBP	<fs af='सिर्फ,adj,any,any,,any,,' head='सिर्फ'  poslcat="NM">
+1.1	सिर्फ	RB	<fs af='सिर्फ,adj,any,any,,any,,' name='सिर्फ'  poslcat="NM">
+	))		
+2	((	NP	<fs af='रोशनी,n,f,sg,3,d,0_में_ऊपर,0' head='रोशनी'  vpos="vib1_2_3">
+2.1	रोशनी	NN	<fs af='रोशनी,n,f,sg,3,d,0,0' name='रोशनी'>
+	))		
+3	((	NP	<fs af='नीचे,adv,,,,,,' head='नीचे'>
+3.1	नीचे	NST	<fs af='नीचे,adv,,,,,,' name='नीचे'>
+	))		
+4	((	VGNF	<fs af='कर,v,any,any,any,,कर,kara' head='करके'>
+4.1	करके	VM	<fs af='कर,v,any,any,any,,कर,kara' name='करके'>
+	))		
+5	((	NP	<fs af='यह,pn,m,sg,3,d,का,kA' vpos="vib1"  head='इसका'>
+5.1	इसका	PRP	<fs af='यह,pn,m,sg,3,d,का,kA' name='इसका'>
+	))		
+6	((	NP	<fs af='मूल्यांकन,n,m,sg,3,d,0,0' head='मूल्यांकन'>
+6.1	सही	JJ	<fs af='सह,v,f,sg,any,,या,yA' poslcat="NM"  name='सही'>
+6.2	मूल्यांकन	NN	<fs af='मूल्यांकन,n,m,sg,3,d,0,0' name='मूल्यांकन'>
+	))		
+7	((	VGF	<fs af='कर,v,m,sg,2,,या_जा_सक+ता_है,yA' vpos="tam2_3_4_5"  head='किया'>
+7.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+7.2	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+	))		
+</Sentence>			
+एक सामान्य हिन्दुस्तानी समझ नहीं सकता कि उसके हाथ में कौन सा नोट असली है या नकली
+<Sentence id="22">
+1	((	NP	<fs af='समझ,n,f,sg,3,d,0,0' head='समझ'>
+1.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+1.2	सामान्य	JJ	<fs af='सामान्य,adj,any,any,,any,,' name='सामान्य'>
+1.3	हिन्दुस्तानी	JJ	<fs af='हिंदुस्तानी,n,m,sg,,d,0,0' poslcat="NM"  name='हिन्दुस्तानी'>
+1.4	समझ	NN	<fs af='समझ,n,f,sg,3,d,0,0' name='समझ'>
+	))		
+2	((	VGF	<fs af='सक,v,m,sg,any,,ता,wA' head='सकता'>
+2.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+2.2	सकता	VAUX	<fs af='सक,v,m,sg,any,,ता,wA' name='सकता'>
+	))		
+3	((	CCP	<fs af='कि,avy,,,,,,' head='कि'>
+3.1	कि	CC	<fs af='कि,avy,,,,,,' name='कि'>
+	))		
+4	((	NP	<fs af='हाथ,n,m,sg,3,d,0_में,0' head='हाथ'  vpos="vib2_3">
+4.1	उसके	PRP	<fs af='उसके,unk,,,,,,' poslcat="NM"  name='उसके'>
+4.2	हाथ	NN	<fs af='हाथ,n,m,sg,3,d,0,0' name='हाथ'>
+	))		
+5	((	NP	<fs af='नोट,n,m,sg,3,d,0,0' head='नोट'>
+5.1	कौन	WQ	<fs af='कौन,pn,any,sg,3,d,0,0' name='कौन'>
+5.2	सा	RP	<fs af='सा,psp,,,,,,' name='सा'  poslcat="NM">
+5.3	नोट	NN	<fs af='नोट,n,m,sg,3,d,0,0' name='नोट'>
+	))		
+6	((	JJP	<fs af='असली,adj,f,any,,any,,' head='असली'>
+6.1	असली	JJ	<fs af='असली,adj,f,any,,any,,' name='असली'>
+	))		
+7	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+7.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+8	((	CCP	<fs af='या,avy,,,,,,' head='या'>
+8.1	या	CC	<fs af='या,avy,,,,,,' name='या'>
+	))		
+9	((	JJP	<fs af='नकली,adj,f,any,,any,,' head='नकली'>
+9.1	नकली	JJ	<fs af='नकली,adj,f,any,,any,,' name='नकली'>
+	))		
+</Sentence>			
+सामान्य मशीन भी इस बारीक अंतर को पकड़ने में सक्षम नहीं होती है
+<Sentence id="23">
+1	((	NP	<fs af='मशीन,n,f,sg,3,d,0,0' head='मशीन'>
+1.1	सामान्य	JJ	<fs af='सामान्य,adj,any,any,,any,,' name='सामान्य'>
+1.2	मशीन	NN	<fs af='मशीन,n,f,sg,3,d,0,0' name='मशीन'>
+1.3	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+2	((	NP	<fs af='अंतर,n,m,sg,3,d,0_को,0' head='अंतर'  vpos="vib3_4">
+2.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+2.2	बारीक	JJ	<fs af='बारीक,adj,any,any,,any,,' name='बारीक'>
+2.3	अंतर	NN	<fs af='अंतर,n,m,sg,3,d,0,0' name='अंतर'>
+	))		
+3	((	VGNN	<fs af='पकड,v,m,pl,any,,ना_में,nA' head='पकड़ने'  vpos="tam1_2">
+3.1	पकड़ने	VM	<fs af='पकड,v,m,pl,any,,ना,nA' name='पकड़ने'>
+	))		
+4	((	JJP	<fs af='सक्षम,adj,any,any,,any,,' head='सक्षम'>
+4.1	सक्षम	JJ	<fs af='सक्षम,adj,any,any,,any,,' name='सक्षम'>
+	))		
+5	((	VGF	<fs af='हो,v,f,sg,2,,ता_है,wA' vpos="tam2_3"  head='होती'>
+5.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+5.2	होती	VM	<fs af='हो,v,f,sg,any,,ता,wA' name='होती'>
+	))		
+</Sentence>			
+हमने तब विवेक की बातचीत तो अनसुना कर दिया था
+<Sentence id="24">
+1	((	NP	<fs af='हमने,unk,,,,,,' poslcat="NM"  head='हमने'>
+1.1	हमने	PRP	<fs af='हमने,unk,,,,,,' name='हमने'  poslcat="NM">
+	))		
+2	((	NP	<fs af='तब,adv,,,,,,' head='तब'  poslcat="NM">
+2.1	तब	PRP	<fs af='तब,adv,,,,,,' poslcat="NM"  name='तब'>
+	))		
+3	((	NP	<fs af='विवेक,n,m,sg,3,d,0_का,0' head='विवेक'  vpos="vib1_2">
+3.1	विवेक	NN	<fs af='विवेक,n,m,sg,3,d,0,0' name='विवेक'>
+	))		
+4	((	NP	<fs af='बातचीत,n,f,sg,3,d,0,0' head='बातचीत'>
+4.1	बातचीत	NN	<fs af='बातचीत,n,f,sg,3,d,0,0' name='बातचीत'>
+4.2	तो	RP	<fs af='तो,avy,,,,,,' name='तो'>
+	))		
+5	((	JJP	<fs af='अनसुना,adj,m,sg,,d,,' head='अनसुना'>
+5.1	अनसुना	JJ	<fs af='अनसुना,adj,m,sg,,d,,' name='अनसुना'>
+	))		
+6	((	VGF	<fs af='कर,v,m,sg,any,,0_दे+या_था,0' vpos="tam1_2_3"  head='कर'>
+6.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+</Sentence>			
+हम हर विषय को समझने की क्षमता नहीं रखते हैं
+<Sentence id="25">
+1	((	NP	<fs af='हम,unk,,,,,,' poslcat="NM"  head='हम'>
+1.1	हम	PRP	<fs af='हम,unk,,,,,,' poslcat="NM"  name='हम'>
+	))		
+2	((	NP	<fs af='विषय,n,m,sg,3,d,0_को,0' head='विषय'  vpos="vib2_3">
+2.1	हर	QF	<fs af='हर,adj,any,any,,any,,' name='हर'>
+2.2	विषय	NN	<fs af='विषय,n,m,sg,3,d,0,0' name='विषय'>
+	))		
+3	((	VGNN	<fs af='समझ,v,m,sg,any,,ना_का,nA' head='समझने'  vpos="tam1_2">
+3.1	समझने	VM	<fs af='समझ,v,m,pl,any,,ना,nA' name='समझने'>
+	))		
+4	((	NP	<fs af='क्षमता,n,f,sg,3,d,0,0' head='क्षमता'>
+4.1	क्षमता	NN	<fs af='क्षमता,n,f,sg,3,d,0,0' name='क्षमता'>
+	))		
+5	((	VGF	<fs af='रख,v,m,pl,1,,ता_है,wA' vpos="tam2_3"  head='रखते'>
+5.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+5.2	रखते	VM	<fs af='रख,v,m,pl,any,,ता,wA' name='रखते'>
+	))		
+</Sentence>			
+ठोकरें भी खाता है और हताशा का शिकार होता हुआ कई बार मार भी दिया जाता है
+<Sentence id="26">
+1	((	NP	<fs af='ठोकर,n,f,pl,3,d,0,0' head='ठोकरें'>
+1.1	ठोकरें	NN	<fs af='ठोकर,n,f,pl,3,d,0,0' name='ठोकरें'>
+1.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+2	((	VGF	<fs af='खा,v,m,sg,2,,ता_है,wA' vpos="tam1_2"  head='खाता'>
+2.1	खाता	VM	<fs af='खा,v,m,sg,any,,ता,wA' name='खाता'>
+	))		
+3	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+3.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+	))		
+4	((	NP	<fs af='हताशा,n,m,sg,3,d,0_का,0' head='हताशा'  vpos="vib1_2">
+4.1	हताशा	NN	<fs af='हताशा,n,m,sg,3,d,0,0' name='हताशा'>
+	))		
+5	((	NP	<fs af='शिकार,n,m,sg,3,d,0,0' head='शिकार'>
+5.1	शिकार	NN	<fs af='शिकार,n,m,sg,3,d,0,0' name='शिकार'>
+	))		
+6	((	VGNF	<fs af='हो,v,m,sg,any,,ता_हो+या,wA' vpos="tam1_2"  head='होता'>
+6.1	होता	VM	<fs af='हो,v,m,sg,any,,ता,wA' name='होता'>
+	))		
+7	((	NP	<fs af='बार,n,f,sg,3,d,0,0' poslcat="NM"  head='बार'>
+7.1	कई	QF	<fs af='कई,adj,any,any,,d,,' name='कई'>
+7.2	बार	RP	<fs af='बार,n,f,sg,3,d,0,0' name='बार'  poslcat="NM">
+	))		
+8	((	VGNF	<fs af='मार,v,any,any,any,,0,0' head='मार'>
+8.1	मार	VM	<fs af='मार,v,any,any,any,,0,0' name='मार'>
+8.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी2'>
+	))		
+9	((	VGF	<fs af='दे,v,m,sg,2,,या_जा+ता_है,yA' vpos="tam1_2_3"  head='दिया'>
+9.1	दिया	VM	<fs af='दे,v,m,sg,any,,या,yA' name='दिया'>
+	))		
+</Sentence>			
+तबादले के कारणों की ठोस जानकारी पब्लिक में नहीं है
+<Sentence id="27">
+1	((	NP	<fs af='तबादला,n,m,pl,3,d,0_का,0' vpos="vib1_2"  head='तबादले'>
+1.1	तबादले	NN	<fs af='तबादला,n,m,pl,3,d,0,0' name='तबादले'>
+	))		
+2	((	NP	<fs af='कारण,n,m,pl,3,o,0_का,0' vpos="vib1_2"  head='कारणों'>
+2.1	कारणों	NN	<fs af='कारण,n,m,pl,3,o,0,0' name='कारणों'>
+	))		
+3	((	NP	<fs af='जानकारी,n,f,sg,3,d,0,0' head='जानकारी'>
+3.1	ठोस	JJ	<fs af='ठोस,adj,any,any,,any,,' name='ठोस'>
+3.2	जानकारी	NN	<fs af='जानकारी,n,f,sg,3,d,0,0' name='जानकारी'>
+	))		
+4	((	NP	<fs af='पब्लिक,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head='पब्लिक'>
+4.1	पब्लिक	NN	<fs af='पब्लिक,n,m,sg,3,d,0,0' name='पब्लिक'>
+	))		
+5	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+5.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+5.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+कुल मिलाकर ऐसा बताया जाने लगा कि ईमानदार होना ही सबसे बड़ी या एकमात्र योग्यता नहीं है
+<Sentence id="28">
+1	((	NP	<fs af='कुल,adj,any,any,,any,,' head='कुल'>
+1.1	कुल	QF	<fs af='कुल,adj,any,any,,any,,' name='कुल'>
+	))		
+2	((	VGNF	<fs af='मिला,v,any,any,any,,कर,kara' head='मिलाकर'>
+2.1	मिलाकर	VM	<fs af='मिला,v,any,any,any,,कर,kara' name='मिलाकर'>
+	))		
+3	((	NP	<fs af='ऐसा,adv,,,,,,' poslcat="NM"  head='ऐसा'>
+3.1	ऐसा	PRP	<fs af='ऐसा,adv,,,,,,' poslcat="NM"  name='ऐसा'>
+	))		
+4	((	VGF	<fs af='बता,v,any,any,any,,या_जान+एं_लगा,yA' head='बताया'  vpos="tam1_2_3">
+4.1	बताया	VM	<fs af='बता,v,m,sg,any,,या,yA' name='बताया'>
+	))		
+5	((	CCP	<fs af='कि,avy,,,,,,' head='कि'>
+5.1	कि	CC	<fs af='कि,avy,,,,,,' name='कि'>
+	))		
+6	((	JJP	<fs af='ईमानदार,adj,any,any,,any,,' head='ईमानदार'>
+6.1	ईमानदार	JJ	<fs af='ईमानदार,adj,any,any,,any,,' name='ईमानदार'>
+	))		
+7	((	VGNF	<fs af='हो,v,m,sg,any,,ना,nA' head='होना'>
+7.1	होना	VM	<fs af='हो,v,m,sg,any,,ना,nA' name='होना'>
+7.2	ही	RP	<fs af='ही,adv,,,,,,' poslcat="NM"  name='ही'>
+	))		
+8	((	JJP	<fs af='बडी,adj,f,any,,any,,' head='बड़ी'>
+8.1	सबसे	INTF	<fs af='सबसे,adj,any,any,,any,,' name='सबसे'>
+8.2	बड़ी	JJ	<fs af='बडी,adj,f,any,,any,,' name='बड़ी'>
+	))		
+9	((	CCP	<fs af='या,avy,,,,,,' head='या'>
+9.1	या	CC	<fs af='या,avy,,,,,,' name='या'>
+	))		
+10	((	NP	<fs af='योग्यता,n,f,sg,3,d,0,0' head='योग्यता'>
+10.1	एकमात्र	JJ	<fs af='एकमात्र,adj,any,any,,any,,' name='एकमात्र'>
+10.2	योग्यता	NN	<fs af='योग्यता,n,f,sg,3,d,0,0' name='योग्यता'>
+	))		
+11	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+11.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+11.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+ट्रांसपोर्ट विभाग की लौबी से लोहा लेने की ज़रूरत नहीं है
+<Sentence id="29">
+1	((	NP	<fs af='विभाग,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head='विभाग'>
+1.1	ट्रांसपोर्ट	XC	<fs af='ट्रांसपोर्ट,n,m,sg,3,d,0,0' name='ट्रांसपोर्ट'  poslcat="NM">
+1.2	विभाग	NN	<fs af='विभाग,n,m,sg,3,d,0,0' name='विभाग'>
+	))		
+2	((	NP	<fs af='लौबी,unk,,,,,0_से,' poslcat="NM"  vpos="vib1_2"  head='लौबी'>
+2.1	लौबी	NN	<fs af='लौबी,unk,,,,,,' name='लौबी'  poslcat="NM">
+	))		
+3	((	NP	<fs af='लोहा,n,m,sg,3,d,0,0' head='लोहा'>
+3.1	लोहा	NN	<fs af='लोहा,n,m,sg,3,d,0,0' name='लोहा'>
+	))		
+4	((	VGNN	<fs af='ले,v,m,sg,any,,ना_का,nA' vpos="tam1_2"  head='लेने'>
+4.1	लेने	VM	<fs af='ले,v,m,pl,any,,ना,nA' name='लेने'>
+	))		
+5	((	NP	<fs af='जरूरत,n,f,sg,,d,0,0' head='ज़रूरत'>
+5.1	ज़रूरत	NN	<fs af='जरूरत,n,f,sg,,d,0,0' name='ज़रूरत'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+इसका जवाब आप किसी के दोहरेपन को उजागर कर हासिल नहीं कर सकते
+<Sentence id="30">
+1	((	NP	<fs af='जवाब,n,m,sg,3,d,0,0' head='जवाब'>
+1.1	इसका	PRP	<fs af='यह,pn,m,sg,3,d,का,kA' name='इसका'>
+1.2	जवाब	NN	<fs af='जवाब,n,m,sg,3,d,0,0' name='जवाब'>
+	))		
+2	((	NP	<fs af='आप,pn,any,any,any,o,0,0' head='आप'>
+2.1	आप	PRP	<fs af='आप,pn,any,any,any,o,0,0' name='आप'>
+	))		
+3	((	NP	<fs af='किसी,unk,,,,,0_का,' head='किसी'  poslcat="NM"  vpos="vib1_2">
+3.1	किसी	PRP	<fs af='किसी,unk,,,,,,' poslcat="NM"  name='किसी'>
+	))		
+4	((	NP	<fs af='दोहरेपन,unk,,,,,0_को,' poslcat="NM"  vpos="vib1_2"  head='दोहरेपन'>
+4.1	दोहरेपन	NN	<fs af='दोहरेपन,unk,,,,,,' name='दोहरेपन'  poslcat="NM">
+	))		
+5	((	VGNF	<fs af='उजागर,adj,any,any,any,any,0_कर,' vpos="tam1_2"  poslcat="NM"  head='उजागर'>
+5.1	उजागर	VM	<fs af='उजागर,adj,any,any,,any,,' name='उजागर'  poslcat="NM">
+	))		
+6	((	NP	<fs af='हासिल,n,m,sg,3,d,0,0' head='हासिल'>
+6.1	हासिल	NN	<fs af='हासिल,n,m,sg,3,d,0,0' name='हासिल'>
+	))		
+7	((	VGF	<fs af='कर,v,any,pl,any,,0_सक+ता,0' head='कर2'  vpos="tam2_3">
+7.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+7.2	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर2'>
+	))		
+</Sentence>			
+जांच रिपोर्ट या न्यायालय के फैसले तक इसकी रिपोर्ट पर भरोसा मत करो
+<Sentence id="31">
+1	((	NP	<fs af='जांच,n,f,sg,3,d,0,0' head='जांच'>
+1.1	जांच	NN	<fs af='जांच,n,f,sg,3,d,0,0' name='जांच'>
+	))		
+2	((	NP	<fs af='रिपोर्ट,n,f,sg,3,d,0,0' head='रिपोर्ट'>
+2.1	रिपोर्ट	NN	<fs af='रिपोर्ट,n,f,sg,3,d,0,0' name='रिपोर्ट'>
+	))		
+3	((	CCP	<fs af='या,avy,,,,,,' head='या'>
+3.1	या	CC	<fs af='या,avy,,,,,,' name='या'>
+	))		
+4	((	NP	<fs af='न्यायालय,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head='न्यायालय'>
+4.1	न्यायालय	NN	<fs af='न्यायालय,n,m,sg,3,d,0,0' name='न्यायालय'>
+	))		
+5	((	NP	<fs af='फैसला,n,m,pl,3,d,0,0' head='फैसले'>
+5.1	फैसले	NN	<fs af='फैसला,n,m,pl,3,d,0,0' name='फैसले'>
+5.2	तक	RP	<fs af='तक,avy,,,,,,' name='तक'>
+	))		
+6	((	NP	<fs af='रिपोर्ट,n,f,sg,3,d,0_पर,0' head='रिपोर्ट2'  vpos="vib2_3">
+6.1	इसकी	PRP	<fs af='यह,pn,f,sg,3,d,का,kA' name='इसकी'>
+6.2	रिपोर्ट	NN	<fs af='रिपोर्ट,n,f,sg,3,d,0,0' name='रिपोर्ट2'>
+	))		
+7	((	NP	<fs af='भरोसा,n,m,sg,3,d,0,0' head='भरोसा'>
+7.1	भरोसा	NN	<fs af='भरोसा,n,m,sg,3,d,0,0' name='भरोसा'>
+	))		
+8	((	VGF	<fs af='कर,v,any,pl,2,,ओ,o' head='करो'>
+8.1	मत	NEG	<fs af='मत,adv,,,,,,' name='मत'>
+8.2	करो	VM	<fs af='कर,v,any,pl,2,,ओ,o' name='करो'>
+	))		
+</Sentence>			
+खाना काम मिलता है महंगा ज्यादा है
+<Sentence id="32">
+1	((	NP	<fs af='खाना,n,m,sg,3,d,0,0' head='खाना'>
+1.1	खाना	NN	<fs af='खाना,n,m,sg,3,d,0,0' name='खाना'>
+	))		
+2	((	NP	<fs af='काम,n,m,sg,3,d,0,0' head='काम'>
+2.1	काम	NN	<fs af='काम,n,m,sg,3,d,0,0' name='काम'>
+	))		
+3	((	VGF	<fs af='मिल,v,m,sg,2,,ता_है,wA' vpos="tam1_2"  head='मिलता'>
+3.1	मिलता	VM	<fs af='मिल,v,m,sg,any,,ता,wA' name='मिलता'>
+	))		
+4	((	NP	<fs af='ज्यादा,adj,m,sg,,d,,' head='ज्यादा'>
+4.1	महंगा	JJ	<fs af='महंगा,adj,m,sg,,d,,' name='महंगा'>
+4.2	ज्यादा	QF	<fs af='ज्यादा,adj,m,sg,,d,,' name='ज्यादा'>
+	))		
+5	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है2'>
+5.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है2'>
+	))		
+</Sentence>			
+परोसने वाला ठीक से काम नहीं कर रहा था
+<Sentence id="33">
+1	((	VGNN	<fs af='परोस,v,m,pl,any,,ना_वाला,nA' head='परोसने'  vpos="tam1_2">
+1.1	परोसने	VM	<fs af='परोस,v,m,pl,any,,ना,nA' name='परोसने'>
+	))		
+2	((	RBP	<fs af='ठीक,adv,,,,,0_से,' vpos="vib1_2"  head='ठीक'>
+2.1	ठीक	RB	<fs af='ठीक,adv,,,,,,' name='ठीक'>
+	))		
+3	((	NP	<fs af='काम,n,m,sg,3,d,0,0' head='काम'>
+3.1	काम	NN	<fs af='काम,n,m,sg,3,d,0,0' name='काम'>
+	))		
+4	((	VGF	<fs af='कर,v,m,sg,any,,0_रह+या_था,0' vpos="tam2_3_4"  head='कर'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+</Sentence>			
+परोसने वाला कुछ ज्यादा ही अकड़ रहा था
+<Sentence id="34">
+1	((	VGNN	<fs af='परोस,v,m,pl,any,,ना_वाला,nA' vpos="tam1_2"  head='परोसने'>
+1.1	परोसने	VM	<fs af='परोस,v,m,pl,any,,ना,nA' name='परोसने'>
+	))		
+2	((	NP	<fs af='कुछ,pn,any,sg,3,d,0,0' head='कुछ'>
+2.1	कुछ	PRP	<fs af='कुछ,pn,any,sg,3,d,0,0' name='कुछ'>
+2.2	ज्यादा	QF	<fs af='ज्यादा,adj,m,sg,,d,,' name='ज्यादा'>
+2.3	ही	RP	<fs af='ही,adv,,,,,,' poslcat="NM"  name='ही'>
+	))		
+3	((	VGF	<fs af='अकड,v,m,sg,any,o,0_रह+या_था,0' vpos="tam1_2_3"  head='अकड़'>
+3.1	अकड़	VM	<fs af='अकड,v,any,any,any,o,0,0' name='अकड़'>
+	))		
+</Sentence>			
+कबाब बहुत ही सूखा हुआ था
+<Sentence id="35">
+1	((	NP	<fs af='कबाब,n,m,sg,3,d,0,0' head='कबाब'>
+1.1	कबाब	NN	<fs af='कबाब,n,m,sg,3,d,0,0' name='कबाब'>
+	))		
+2	((	NP	<fs af='ही,adv,,,,,,' head='ही'  poslcat="NM">
+2.1	बहुत	QF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+2.2	ही	RP	<fs af='ही,adv,,,,,,' name='ही'  poslcat="NM">
+	))		
+3	((	VGF	<fs af='सूख,v,m,sg,any,,या_हो+या_था,yA' vpos="tam1_2_3"  head='सूखा'>
+3.1	सूखा	VM	<fs af='सूख,v,m,sg,any,,या,yA' name='सूखा'>
+	))		
+</Sentence>			
+आइसक्रीम में ठोस कुछ नहीं था
+<Sentence id="36">
+1	((	NP	<fs af='आइसक्रीम,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head='आइसक्रीम'>
+1.1	आइसक्रीम	NN	<fs af='आइसक्रीम,n,m,sg,3,d,0,0' name='आइसक्रीम'>
+	))		
+2	((	NP	<fs af='ठोस,adj,any,any,,any,,' poslcat="NM"  head='ठोस'>
+2.1	ठोस	NN	<fs af='ठोस,adj,any,any,,any,,' name='ठोस'  poslcat="NM">
+	))		
+3	((	NP	<fs af='कुछ,pn,any,sg,3,d,0,0' head='कुछ'>
+3.1	कुछ	PRP	<fs af='कुछ,pn,any,sg,3,d,0,0' name='कुछ'>
+	))		
+4	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))		
+</Sentence>			
+कितना तेज़ नमक है
+<Sentence id="37">
+1	((	NP	<fs af='नमक,n,m,sg,3,d,0,0' head='नमक'>
+1.1	कितना	QF	<fs af='कितना,adj,m,sg,,d,,' name='कितना'>
+1.2	तेज़	JJ	<fs af='तेज़,unk,,,,,,' poslcat="NM"  name='तेज़'>
+1.3	नमक	NN	<fs af='नमक,n,m,sg,3,d,0,0' name='नमक'>
+	))		
+2	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+2.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+कितना फ़ीखा है ये
+<Sentence id="38">
+1	((	NP	<fs af='फ़ीखा,unk,,,,,,' poslcat="NM"  head='फ़ीखा'>
+1.1	कितना	QF	<fs af='कितना,adj,m,sg,,d,,' name='कितना'>
+1.2	फ़ीखा	NN	<fs af='फ़ीखा,unk,,,,,,' name='फ़ीखा'  poslcat="NM">
+	))		
+2	((	VGF	<fs af='है,v,any,pl,3,,है_यह,hE' vpos="tam1_2"  head='है'>
+2.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+मन कर रहा है की इस जलेबी को फेंक दू
+<Sentence id="39">
+1	((	NP	<fs af='मन,n,m,sg,3,d,0,0' head='मन'>
+1.1	मन	NN	<fs af='मन,n,m,sg,3,d,0,0' name='मन'>
+	))		
+2	((	VGF	<fs af='कर,v,any,sg,any,,0_रह+या_है_का,0' vpos="tam1_2_3_4"  head='कर'>
+2.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+3	((	NP	<fs af='जलेबी,n,f,sg,3,d,0_को,0' vpos="vib2_3"  head='जलेबी'>
+3.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+3.2	जलेबी	NN	<fs af='जलेबी,n,f,sg,3,d,0,0' name='जलेबी'>
+	))		
+4	((	VGF	<fs af='फेंक,v,any,any,any,,0_दू,0' head='फेंक'  vpos="tam1_2">
+4.1	फेंक	VM	<fs af='फेंक,v,any,any,any,,0,0' name='फेंक'>
+	))		
+</Sentence>			
+नमक के नाम पर कुछ नहीं था
+<Sentence id="40">
+1	((	NP	<fs af='नमक,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head='नमक'>
+1.1	नमक	NN	<fs af='नमक,n,m,sg,3,d,0,0' name='नमक'>
+	))		
+2	((	NP	<fs af='नाम,n,m,sg,3,d,0_पर,0' vpos="vib1_2"  head='नाम'>
+2.1	नाम	NN	<fs af='नाम,n,m,sg,3,d,0,0' name='नाम'>
+	))		
+3	((	NP	<fs af='कुछ,pn,any,sg,3,d,0,0' head='कुछ'>
+3.1	कुछ	PRP	<fs af='कुछ,pn,any,sg,3,d,0,0' name='कुछ'>
+	))		
+4	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))		
+</Sentence>			
+दिल्ली की कुल्फी के नाम पर दाग था
+<Sentence id="41">
+1	((	NP	<fs af='दिल्ली,n,f,sg,3,d,0_का,0' head='दिल्ली'  vpos="vib1_2">
+1.1	दिल्ली	NNP	<fs af='दिल्ली,n,f,sg,3,d,0,0' name='दिल्ली'>
+	))		
+2	((	NP	<fs af='कुल्फी,n,f,sg,3,d,0_का,0' vpos="vib1_2"  head='कुल्फी'>
+2.1	कुल्फी	NN	<fs af='कुल्फी,n,f,sg,3,d,0,0' name='कुल्फी'>
+	))		
+3	((	NP	<fs af='नाम,n,m,sg,3,d,0_पर,0' vpos="vib1_2"  head='नाम'>
+3.1	नाम	NN	<fs af='नाम,n,m,sg,3,d,0,0' name='नाम'>
+	))		
+4	((	NP	<fs af='दाग,n,m,sg,3,d,0,0' head='दाग'>
+4.1	दाग	NN	<fs af='दाग,n,m,sg,3,d,0,0' name='दाग'>
+	))		
+5	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+5.1	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))		
+</Sentence>			
+करणवीर शर्मा का अभिनय निराशाजनक है
+<Sentence id="42">
+1	((	NP	<fs af='शर्मा,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head='शर्मा'>
+1.1	करणवीर	XC	<fs af='करणवीर,unk,,,,,,' name='करणवीर'  poslcat="NM">
+1.2	शर्मा	NNP	<fs af='शर्मा,n,m,sg,3,d,0,0' name='शर्मा'>
+	))		
+2	((	NP	<fs af='अभिनय,n,m,sg,3,d,0,0' head='अभिनय'>
+2.1	अभिनय	NN	<fs af='अभिनय,n,m,sg,3,d,0,0' name='अभिनय'>
+	))		
+3	((	VGF	<fs af='निराशाजनक,n,m,sg,2,d,0_है,0' head='निराशाजनक'  poslcat="NM"  vpos="tam1_2">
+3.1	निराशाजनक	VM	<fs af='निराशाजनक,n,m,sg,3,d,0,0' name='निराशाजनक'  poslcat="NM">
+	))		
+</Sentence>			
+उन्होंने जमकर ओवर एक्टिंग की है
+<Sentence id="43">
+1	((	NP	<fs af='उन्होंने,unk,,,,,,' head='उन्होंने'  poslcat="NM">
+1.1	उन्होंने	PRP	<fs af='उन्होंने,unk,,,,,,' name='उन्होंने'  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='जम,v,any,any,any,,कर,kara' head='जमकर'>
+2.1	जमकर	VM	<fs af='जम,v,any,any,any,,कर,kara' name='जमकर'>
+	))		
+3	((	NP	<fs af='ओवर,unk,,,,,,' head='ओवर'  poslcat="NM">
+3.1	ओवर	NST	<fs af='ओवर,unk,,,,,,' name='ओवर'  poslcat="NM">
+	))		
+4	((	NP	<fs af='एक्टिंग,unk,,,,,,' poslcat="NM"  head='एक्टिंग'>
+4.1	एक्टिंग	NN	<fs af='एक्टिंग,unk,,,,,,' poslcat="NM"  name='एक्टिंग'>
+	))		
+5	((	VGF	<fs af='कर,v,f,sg,2,,या_है,yA' head='की'  vpos="tam1_2">
+5.1	की	VM	<fs af='कर,v,f,sg,any,,या,yA' name='की'>
+	))		
+</Sentence>			
+लेकिन 'उंगली' में उन्होंने बेहद निराश किया है
+<Sentence id="44">
+1	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+1.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+2	((	NP	<fs af='उंगली,n,f,sg,3,d,0_में,0' vpos="vib2_4"  head='उंगली'>
+2.2	उंगली	NN	<fs af='उंगली,n,f,sg,3,d,0,0' name='उंगली'>
+	))		
+3	((	NP	<fs af='उन्होंने,unk,,,,,,' head='उन्होंने'  poslcat="NM">
+3.1	उन्होंने	PRP	<fs af='उन्होंने,unk,,,,,,' name='उन्होंने'  poslcat="NM">
+	))		
+4	((	NP	<fs af='निराश,n,m,sg,3,d,0,0' head='निराश'>
+4.1	बेहद	JJ	<fs af='बेहद,adj,any,any,,any,,' name='बेहद'>
+4.2	निराश	NN	<fs af='निराश,n,m,sg,3,d,0,0' name='निराश'>
+	))		
+5	((	VGF	<fs af='कर,v,m,sg,2,,या_है,yA' vpos="tam1_2"  head='किया'>
+5.1	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+	))		
+</Sentence>			
+उनकी लिखी स्क्रिप्ट में कई कमजोर दृश्य हैं
+<Sentence id="45">
+1	((	NP	<fs af='उनकी,unk,,,,,,' head='उनकी'  poslcat="NM">
+1.1	उनकी	PRP	<fs af='उनकी,unk,,,,,,' name='उनकी'  poslcat="NM">
+	))		
+2	((	VGNF	<fs af='लिख,v,f,sg,any,,या,yA' head='लिखी'>
+2.1	लिखी	VM	<fs af='लिख,v,f,sg,any,,या,yA' name='लिखी'>
+	))		
+3	((	NP	<fs af='स्क्रिप्ट,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head='स्क्रिप्ट'>
+3.1	स्क्रिप्ट	NN	<fs af='स्क्रिप्ट,n,m,sg,3,d,0,0' name='स्क्रिप्ट'>
+	))		
+4	((	NP	<fs af='दृश्य,n,m,sg,3,d,0,0' head='दृश्य'>
+4.1	कई	QF	<fs af='कई,adj,any,any,,d,,' name='कई'>
+4.2	कमजोर	JJ	<fs af='कमजोर,adj,any,any,,any,,' name='कमजोर'>
+4.3	दृश्य	NN	<fs af='दृश्य,n,m,sg,3,d,0,0' name='दृश्य'>
+	))		
+5	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+5.1	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+	))		
+</Sentence>			
+निर्देशक के रूप में वे ड्रामे में विश्वसनीयता का पुट नहीं डाल पाए हैं
+<Sentence id="46">
+1	((	NP	<fs af='निर्देशक,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head='निर्देशक'>
+1.1	निर्देशक	NN	<fs af='निर्देशक,n,m,sg,3,d,0,0' name='निर्देशक'>
+	))		
+2	((	NP	<fs af='रूप,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head='रूप'>
+2.1	रूप	NN	<fs af='रूप,n,m,sg,3,d,0,0' name='रूप'>
+	))		
+3	((	NP	<fs af='वह,pn,any,pl,3,d,0,0' head='वे'>
+3.1	वे	PRP	<fs af='वह,pn,any,pl,3,d,0,0' name='वे'>
+	))		
+4	((	NP	<fs af='ड्रामा,n,m,pl,3,d,0_में,0' vpos="vib1_2"  head='ड्रामे'>
+4.1	ड्रामे	NN	<fs af='ड्रामा,n,m,pl,3,d,0,0' name='ड्रामे'>
+	))		
+5	((	NP	<fs af='विश्वसनीयता,n,m,sg,3,d,0_का,0' head='विश्वसनीयता'  vpos="vib1_2">
+5.1	विश्वसनीयता	NN	<fs af='विश्वसनीयता,n,m,sg,3,d,0,0' name='विश्वसनीयता'>
+	))		
+6	((	NP	<fs af='पुट,n,m,sg,3,d,0,0' head='पुट'>
+6.1	पुट	NN	<fs af='पुट,n,m,sg,3,d,0,0' name='पुट'>
+	))		
+7	((	VGF	<fs af='डाल,v,any,pl,1,,0_पा+एं_है,0' head='डाल'  vpos="tam2_3_4">
+7.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+7.2	डाल	VM	<fs af='डाल,v,any,any,any,,0,0' name='डाल'>
+	))		
+</Sentence>			
+लेखन फिल्म की बहुत बड़ी कमजोरी है
+<Sentence id="47">
+1	((	NP	<fs af='लेखन,n,m,sg,3,d,0,0' head='लेखन'>
+1.1	लेखन	NN	<fs af='लेखन,n,m,sg,3,d,0,0' name='लेखन'>
+	))		
+2	((	NP	<fs af='फिल्म,n,f,sg,3,d,0_का,0' head='फिल्म'  vpos="vib1_2">
+2.1	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+3	((	NP	<fs af='कमजोरी,n,f,sg,3,d,0,0' head='कमजोरी'>
+3.1	बहुत	INTF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+3.2	बड़ी	JJ	<fs af='बडी,adj,f,any,,any,,' name='बड़ी'>
+3.3	कमजोरी	NN	<fs af='कमजोरी,n,f,sg,3,d,0,0' name='कमजोरी'>
+	))		
+4	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+4.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+उंगली गैंग जिस आसानी से काम करती है उस पर यकीन करना मुश्किल है
+<Sentence id="48">
+1	((	NP	<fs af='उंगली,n,f,sg,3,d,0,0' head='उंगली'>
+1.1	उंगली	NN	<fs af='उंगली,n,f,sg,3,d,0,0' name='उंगली'>
+	))		
+2	((	NP	<fs af='गैंग,unk,,,,,,' head='गैंग'  poslcat="NM">
+2.1	गैंग	NN	<fs af='गैंग,unk,,,,,,' poslcat="NM"  name='गैंग'>
+	))		
+3	((	NP	<fs af='जो,pn,any,sg,3,o,0,0' head='जिस'>
+3.1	जिस	PRP	<fs af='जो,pn,any,sg,3,o,0,0' name='जिस'>
+	))		
+4	((	NP	<fs af='आसानी,n,f,sg,3,d,0_से,0' head='आसानी'  vpos="vib1_2">
+4.1	आसानी	NN	<fs af='आसानी,n,f,sg,3,d,0,0' name='आसानी'>
+	))		
+5	((	NP	<fs af='काम,n,m,sg,3,d,0,0' head='काम'>
+5.1	काम	NN	<fs af='काम,n,m,sg,3,d,0,0' name='काम'>
+	))		
+6	((	VGF	<fs af='कर,v,f,sg,2,,ता_है,wA' head='करती'  vpos="tam1_2">
+6.1	करती	VM	<fs af='कर,v,f,sg,any,,ता,wA' name='करती'>
+	))		
+7	((	NP	<fs af='वह,pn,any,sg,3,o,0_पर,0' head='उस'  vpos="vib1_2">
+7.1	उस	PRP	<fs af='वह,pn,any,sg,3,o,0,0' name='उस'>
+	))		
+8	((	NP	<fs af='यकीन,n,m,sg,3,d,0,0' head='यकीन'>
+8.1	यकीन	NN	<fs af='यकीन,n,m,sg,3,d,0,0' name='यकीन'>
+	))		
+9	((	VGNN	<fs af='कर,v,m,sg,any,,ना,nA' head='करना'>
+9.1	करना	VM	<fs af='कर,v,m,sg,any,,ना,nA' name='करना'>
+	))		
+10	((	NP	<fs af='मुश्किल,n,f,sg,3,d,0,0' head='मुश्किल'>
+10.1	मुश्किल	NN	<fs af='मुश्किल,n,f,sg,3,d,0,0' name='मुश्किल'>
+	))		
+11	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है2'>
+11.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है2'>
+	))		
+</Sentence>			
+दर्शकों को जोड़ने में वे विफल रहे हैं
+<Sentence id="49">
+1	((	NP	<fs af='दर्शक,n,m,pl,3,o,0_को,0' head='दर्शकों'  vpos="vib1_2">
+1.1	दर्शकों	NN	<fs af='दर्शक,n,m,pl,3,o,0,0' name='दर्शकों'>
+	))		
+2	((	VGNN	<fs af='जोड,v,m,pl,any,,ना_में,nA' vpos="tam1_2"  head='जोड़ने'>
+2.1	जोड़ने	VM	<fs af='जोड,v,m,pl,any,,ना,nA' name='जोड़ने'>
+	))		
+3	((	NP	<fs af='वह,pn,any,pl,3,d,0,0' head='वे'>
+3.1	वे	PRP	<fs af='वह,pn,any,pl,3,d,0,0' name='वे'>
+	))		
+4	((	JJP	<fs af='विफल,n,m,sg,3,d,0,0' head='विफल'  poslcat="NM">
+4.1	विफल	JJ	<fs af='विफल,n,m,sg,3,d,0,0' name='विफल'  poslcat="NM">
+	))		
+5	((	VGF	<fs af='रह,v,any,pl,1,,एं_है,e' vpos="tam1_2"  head='रहे'>
+5.1	रहे	VM	<fs af='रह,v,any,sg,2,,एं,e' name='रहे'>
+	))		
+</Sentence>			
+निर्देशक के रूप में भी रेंसिल निराश करते हैं
+<Sentence id="50">
+1	((	NP	<fs af='निर्देशक,n,m,sg,3,d,0_का,0' head='निर्देशक'  vpos="vib1_2">
+1.1	निर्देशक	NN	<fs af='निर्देशक,n,m,sg,3,d,0,0' name='निर्देशक'>
+	))		
+2	((	NP	<fs af='रूप,n,m,sg,3,d,0_में,0' vpos="vib1_2_RP"  head='रूप'>
+2.1	रूप	NN	<fs af='रूप,n,m,sg,3,d,0,0' name='रूप'>
+2.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+3	((	NP	<fs af='निराश,n,m,sg,3,d,0,0' head='निराश'>
+3.1	रेंसिल	JJ	<fs af='रेंसिल,unk,,,,,,' name='रेंसिल'  poslcat="NM">
+3.2	निराश	NN	<fs af='निराश,n,m,sg,3,d,0,0' name='निराश'>
+	))		
+4	((	VGF	<fs af='कर,v,m,pl,1,,ता_है,wA' head='करते'  vpos="tam1_2">
+4.1	करते	VM	<fs af='कर,v,m,pl,any,,ता,wA' name='करते'>
+	))		
+</Sentence>			
+ड्रामे को विश्वसनीय बनाने में तो वे असफल रहे ही हैं
+<Sentence id="51">
+1	((	NP	<fs af='ड्रामा,n,m,pl,3,d,0_को,0' head='ड्रामे'  vpos="vib1_2">
+1.1	ड्रामे	NN	<fs af='ड्रामा,n,m,pl,3,d,0,0' name='ड्रामे'>
+	))		
+2	((	JJP	<fs af='विश्वसनीय,n,m,sg,3,d,0,0' head='विश्वसनीय'  poslcat="NM">
+2.1	विश्वसनीय	JJ	<fs af='विश्वसनीय,n,m,sg,3,d,0,0' name='विश्वसनीय'  poslcat="NM">
+	))		
+3	((	VGNN	<fs af='बना,v,m,pl,any,,ना_में,nA' vpos="tam1_2"  head='बनाने'>
+3.1	बनाने	VM	<fs af='बना,v,m,pl,any,,ना,nA' name='बनाने'>
+3.2	तो	RP	<fs af='तो,avy,,,,,,' name='तो'>
+	))		
+4	((	NP	<fs af='वह,pn,any,pl,3,d,0,0' head='वे'>
+4.1	वे	PRP	<fs af='वह,pn,any,pl,3,d,0,0' name='वे'>
+	))		
+5	((	JJP	<fs af='असफल,adj,any,any,,any,,' head='असफल'>
+5.1	असफल	JJ	<fs af='असफल,adj,any,any,,any,,' name='असफल'>
+	))		
+6	((	VGF	<fs af='रह,v,any,pl,1,,एं_है,e' vpos="tam1_3"  head='रहे'>
+6.1	रहे	VM	<fs af='रह,v,any,sg,2,,एं,e' name='रहे'>
+6.2	ही	RP	<fs af='ही,adv,,,,,,' name='ही'  poslcat="NM">
+	))		
+</Sentence>			
+मनोरंजन की तलाश में आए दर्शकों को भी घोर निराशा हाथ लगती है
+<Sentence id="52">
+1	((	NP	<fs af='मनोरंजन,n,m,sg,3,d,0_का,0' head='मनोरंजन'  vpos="vib1_2">
+1.1	मनोरंजन	NN	<fs af='मनोरंजन,n,m,sg,3,d,0,0' name='मनोरंजन'>
+	))		
+2	((	NP	<fs af='तलाश,n,f,sg,3,d,0_में,0' vpos="vib1_2"  head='तलाश'>
+2.1	तलाश	NN	<fs af='तलाश,n,f,sg,3,d,0,0' name='तलाश'>
+	))		
+3	((	VGNF	<fs af='आ,v,any,sg,2,,एं,e' head='आए'>
+3.1	आए	VM	<fs af='आ,v,any,sg,2,,एं,e' name='आए'>
+	))		
+4	((	NP	<fs af='दर्शक,n,m,pl,3,o,0_को,0' head='दर्शकों'  vpos="vib1_2_RP">
+4.1	दर्शकों	NN	<fs af='दर्शक,n,m,pl,3,o,0,0' name='दर्शकों'>
+4.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+5	((	NP	<fs af='निराशा,n,f,sg,3,d,0,0' head='निराशा'>
+5.1	घोर	JJ	<fs af='घोर,adj,any,any,,any,,' name='घोर'>
+5.2	निराशा	NN	<fs af='निराशा,n,f,sg,3,d,0,0' name='निराशा'>
+	))		
+6	((	NP	<fs af='हाथ,n,m,sg,3,d,0,0' head='हाथ'>
+6.1	हाथ	NN	<fs af='हाथ,n,m,sg,3,d,0,0' name='हाथ'>
+	))		
+7	((	VGF	<fs af='लग,v,f,sg,2,,ता_है,wA' vpos="tam1_2"  head='लगती'>
+7.1	लगती	VM	<fs af='लग,v,f,sg,any,,ता,wA' name='लगती'>
+	))		
+</Sentence>			
+पूरी फिल्म बोरियत से भरी है
+<Sentence id="53">
+1	((	NP	<fs af='फिल्म,n,f,sg,3,d,0,0' head='फिल्म'>
+1.1	पूरी	JJ	<fs af='पूरी,adj,any,any,,any,,' name='पूरी'>
+1.2	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+2	((	NP	<fs af='बोरियत,unk,,,,,0_से,' poslcat="NM"  head='बोरियत'  vpos="vib1_2">
+2.1	बोरियत	NN	<fs af='बोरियत,unk,,,,,,' poslcat="NM"  name='बोरियत'>
+	))		
+3	((	VGF	<fs af='भर,v,f,sg,2,,या_है,yA' vpos="tam1_2"  head='भरी'>
+3.1	भरी	VM	<fs af='भर,v,f,sg,any,,या,yA' name='भरी'>
+	))		
+</Sentence>			
+फिल्म में ढेर सारे स्टार कलाकार हैं, जिनका सही उपयोग कर पाने में भी रेंसिल असफल रहे हैं
+<Sentence id="54">
+1	((	NP	<fs af='फिल्म,n,f,sg,3,d,0_में,0' head='फिल्म'  vpos="vib1_2">
+1.1	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+2	((	JJP	<fs af='ढेर,adj,any,any,,any,,' head='ढेर'>
+2.1	ढेर	JJ	<fs af='ढेर,adj,any,any,,any,,' name='ढेर'>
+	))		
+3	((	NP	<fs af='कलाकार,n,m,sg,3,d,0,0' head='कलाकार'>
+3.1	सारे	QF	<fs af='सारा,adj,m,sg,,o,,' name='सारे'>
+3.2	स्टार	XC	<fs af='स्टार,n,m,sg,3,d,0,0' name='स्टार'  poslcat="NM">
+3.3	कलाकार	NN	<fs af='कलाकार,n,m,sg,3,d,0,0' name='कलाकार'>
+	))		
+4	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+4.1	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+4.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+5	((	NP	<fs af='जो,pn,m,sg,3,d,का,kA' vpos="vib1"  head='जिनका'>
+5.1	जिनका	PRP	<fs af='जो,pn,m,sg,3,d,का,kA' name='जिनका'>
+	))		
+6	((	NP	<fs af='उपयोग,n,m,sg,3,d,0,0' head='उपयोग'>
+6.1	सही	JJ	<fs af='सह,v,f,sg,any,,या,yA' poslcat="NM"  name='सही'>
+6.2	उपयोग	NN	<fs af='उपयोग,n,m,sg,3,d,0,0' name='उपयोग'>
+	))		
+7	((	VGNN	<fs af='कर,v,m,any,any,,0_पा+ना_में,0' vpos="tam1_2_3"  head='कर'>
+7.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+7.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+8	((	NP	<fs af='रेंसिल,unk,,,,,,' head='रेंसिल'  poslcat="NM">
+8.1	रेंसिल	NN	<fs af='रेंसिल,unk,,,,,,' poslcat="NM"  name='रेंसिल'>
+	))		
+9	((	JJP	<fs af='असफल,adj,any,any,,any,,' head='असफल'>
+9.1	असफल	JJ	<fs af='असफल,adj,any,any,,any,,' name='असफल'>
+	))		
+10	((	VGF	<fs af='रह,v,any,pl,1,,एं_है,e' head='रहे'  vpos="tam1_2">
+10.1	रहे	VM	<fs af='रह,v,any,sg,2,,एं,e' name='रहे'>
+	))		
+</Sentence>			
+फिल्म में गाने ठूंसे गए हैं जो अखरते हैं
+<Sentence id="55">
+1	((	NP	<fs af='फिल्म,n,f,sg,3,d,0_में,0' vpos="vib1_2"  head='फिल्म'>
+1.1	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+2	((	VGF	<fs af='गा,v,m,pl,1,,ना_ठूँस+एं_गए_है,nA' vpos="tam1_2_3_4"  head='गाने'>
+2.1	गाने	VM	<fs af='गा,v,m,pl,any,,ना,nA' name='गाने'>
+	))		
+3	((	NP	<fs af='जो,pn,any,sg,3,d,0,0' head='जो'>
+3.1	जो	PRP	<fs af='जो,pn,any,sg,3,d,0,0' name='जो'>
+	))		
+4	((	VGF	<fs af='अखर,v,m,pl,1,,ता_है,wA' vpos="tam1_2"  head='अखरते'>
+4.1	अखरते	VM	<fs af='अखर,v,m,pl,any,,ता,wA' name='अखरते'>
+	))		
+</Sentence>			
+फिल्म के कलाकारों ने अनमने तरीके से काम किया है
+<Sentence id="56">
+1	((	NP	<fs af='फिल्म,n,f,sg,3,d,0_का,0' head='फिल्म'  vpos="vib1_2">
+1.1	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+2	((	NP	<fs af='कलाकार,n,m,pl,3,o,0_ने,0' vpos="vib1_2"  head='कलाकारों'>
+2.1	कलाकारों	NN	<fs af='कलाकार,n,m,pl,3,o,0,0' name='कलाकारों'>
+	))		
+3	((	NP	<fs af='तरीका,n,m,pl,3,d,0_से,0' vpos="vib2_3"  head='तरीके'>
+3.1	अनमने	JJ	<fs af='अनमना,adj,m,sg,,o,,' name='अनमने'>
+3.2	तरीके	NN	<fs af='तरीका,n,m,pl,3,d,0,0' name='तरीके'>
+	))		
+4	((	NP	<fs af='काम,n,m,sg,3,d,0,0' head='काम'>
+4.1	काम	NN	<fs af='काम,n,m,sg,3,d,0,0' name='काम'>
+	))		
+5	((	VGF	<fs af='कर,v,m,sg,2,,या_है,yA' head='किया'  vpos="tam1_2">
+5.1	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+	))		
+</Sentence>			
+इमरान हाशमी के स्टारडम का ठीक से उपयोग नहीं किया गया है
+<Sentence id="57">
+1	((	NP	<fs af='हाशमी,unk,,,,,0_का,' poslcat="NM"  vpos="vib2_3"  head='हाशमी'>
+1.1	इमरान	JJ	<fs af='इमरान,unk,,,,,,' name='इमरान'  poslcat="NM">
+1.2	हाशमी	NN	<fs af='हाशमी,unk,,,,,,' poslcat="NM"  name='हाशमी'>
+	))		
+2	((	NP	<fs af='स्टारडम,unk,,,,,0_का,' poslcat="NM"  vpos="vib1_2"  head='स्टारडम'>
+2.1	स्टारडम	NN	<fs af='स्टारडम,unk,,,,,,' poslcat="NM"  name='स्टारडम'>
+	))		
+3	((	RBP	<fs af='ठीक,adv,,,,,0_से,' head='ठीक'  vpos="vib1_2">
+3.1	ठीक	RB	<fs af='ठीक,adv,,,,,,' name='ठीक'>
+	))		
+4	((	NP	<fs af='उपयोग,n,m,sg,3,d,0,0' head='उपयोग'>
+4.1	उपयोग	NN	<fs af='उपयोग,n,m,sg,3,d,0,0' name='उपयोग'>
+	))		
+5	((	VGF	<fs af='कर,v,m,sg,2,,या_गया_है,yA' head='किया'  vpos="tam2_3_4">
+5.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+5.2	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+	))		
+</Sentence>			
+और न ही उन्हें ज्यादा फुटेज मिला है
+<Sentence id="58">
+1	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+1.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+	))		
+2	((	NEGP	<fs af='ही,adv,,,,,,' poslcat="NM"  head='ही'>
+2.1	न	NEG	<fs af='न,adv,,,,,,' name='न'>
+2.2	ही	RP	<fs af='ही,adv,,,,,,' poslcat="NM"  name='ही'>
+	))		
+3	((	NP	<fs af='उन्हें,unk,,,,,,' head='उन्हें'  poslcat="NM">
+3.1	उन्हें	PRP	<fs af='उन्हें,unk,,,,,,' name='उन्हें'  poslcat="NM">
+	))		
+4	((	NP	<fs af='फुटेज,unk,,,,,,' head='फुटेज'  poslcat="NM">
+4.1	ज्यादा	QF	<fs af='ज्यादा,adj,m,sg,,d,,' name='ज्यादा'>
+4.2	फुटेज	NN	<fs af='फुटेज,unk,,,,,,' name='फुटेज'  poslcat="NM">
+	))		
+5	((	VGF	<fs af='मिला,v,any,sg,2,,0_है,0' head='मिला'  vpos="tam1_2">
+5.1	मिला	VM	<fs af='मिला,v,any,any,any,,0,0' name='मिला'>
+	))		
+</Sentence>			
+इमरान ने अपनी ओर से पूरी कोशिश की है, लेकिन स्क्रिप्ट का साथ उन्हें नहीं मिला
+<Sentence id="59">
+1	((	NP	<fs af='इमरान,unk,,,,,0_ने,' head='इमरान'  vpos="vib1_2"  poslcat="NM">
+1.1	इमरान	NN	<fs af='इमरान,unk,,,,,,' name='इमरान'  poslcat="NM">
+	))		
+2	((	NP	<fs af='अपनी,pn,any,any,any,o,0_ओर_से,0' vpos="vib1_2_3"  head='अपनी'>
+2.1	अपनी	PRP	<fs af='अपनी,pn,any,any,any,o,0,0' name='अपनी'>
+	))		
+3	((	NP	<fs af='कोशिश,n,f,sg,3,d,0_का,0' vpos="vib2_3"  head='कोशिश'>
+3.1	पूरी	JJ	<fs af='पूरी,adj,any,any,,any,,' name='पूरी'>
+3.2	कोशिश	NN	<fs af='कोशिश,n,f,sg,3,d,0,0' name='कोशिश'>
+	))		
+4	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+4.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+4.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+5	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+5.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+6	((	NP	<fs af='स्क्रिप्ट,n,m,sg,3,d,0_का_साथ,0' head='स्क्रिप्ट'  vpos="vib1_2_3">
+6.1	स्क्रिप्ट	NN	<fs af='स्क्रिप्ट,n,m,sg,3,d,0,0' name='स्क्रिप्ट'>
+	))		
+7	((	NP	<fs af='उन्हें,unk,,,,,,' poslcat="NM"  head='उन्हें'>
+7.1	उन्हें	PRP	<fs af='उन्हें,unk,,,,,,' name='उन्हें'  poslcat="NM">
+	))		
+8	((	VGF	<fs af='मिला,v,any,any,any,,0,0' head='मिला'>
+8.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+8.2	मिला	VM	<fs af='मिला,v,any,any,any,,0,0' name='मिला'>
+	))		
+</Sentence>			
+सबकी प्रतिभा का उपयोग नहीं हो सका है
+<Sentence id="60">
+1	((	NP	<fs af='प्रतिभा,n,f,sg,3,d,0_का,0' head='प्रतिभा'  vpos="vib2_3">
+1.1	सबकी	QF	<fs af='सबकी,adj,any,any,,any,,' name='सबकी'>
+1.2	प्रतिभा	NN	<fs af='प्रतिभा,n,f,sg,3,d,0,0' name='प्रतिभा'>
+	))		
+2	((	NP	<fs af='उपयोग,n,m,sg,3,d,0,0' head='उपयोग'>
+2.1	उपयोग	NN	<fs af='उपयोग,n,m,sg,3,d,0,0' name='उपयोग'>
+	))		
+3	((	VGF	<fs af='हो,v,m,sg,2,,0_सक+या_है,0' head='हो'  vpos="tam2_3_4">
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+</Sentence>			
+टेलिकॉम कंपनियां इसे खत्म करना चाहती हैं
+<Sentence id="61">
+1	((	NP	<fs af='टेलिकॉम,unk,,,,,,' poslcat="NM"  head='टेलिकॉम'>
+1.1	टेलिकॉम	NN	<fs af='टेलिकॉम,unk,,,,,,' name='टेलिकॉम'  poslcat="NM">
+	))		
+2	((	NP	<fs af='कंपनियां,unk,,,,,,' head='कंपनियां'  poslcat="NM">
+2.1	कंपनियां	NN	<fs af='कंपनियां,unk,,,,,,' name='कंपनियां'  poslcat="NM">
+	))		
+3	((	NP	<fs af='यह,pn,any,sg,3,o,को,ko' vpos="vib1"  head='इसे'>
+3.1	इसे	PRP	<fs af='यह,pn,any,sg,3,o,को,ko' name='इसे'>
+	))		
+4	((	NP	<fs af='खत्म,n,m,sg,3,d,0,0' head='खत्म'>
+4.1	खत्म	NN	<fs af='खत्म,n,m,sg,3,d,0,0' name='खत्म'>
+	))		
+5	((	VGF	<fs af='कर,v,f,pl,1,,ना_चाह+ता_है,nA' vpos="tam1_2_3"  head='करना'>
+5.1	करना	VM	<fs af='कर,v,m,sg,any,,ना,nA' name='करना'>
+	))		
+</Sentence>			
+इसका कैमरा अच्छा नहीं है
+<Sentence id="62">
+1	((	NP	<fs af='यह,pn,m,sg,3,d,का,kA' head='इसका'  vpos="vib1">
+1.1	इसका	PRP	<fs af='यह,pn,m,sg,3,d,का,kA' name='इसका'>
+	))		
+2	((	NP	<fs af='कैमरा,n,m,sg,3,d,0,0' head='कैमरा'>
+2.1	कैमरा	NN	<fs af='कैमरा,n,m,sg,3,d,0,0' name='कैमरा'>
+	))		
+3	((	JJP	<fs af='अच्छा,adj,m,sg,,d,,' head='अच्छा'>
+3.1	अच्छा	JJ	<fs af='अच्छा,adj,m,sg,,d,,' name='अच्छा'>
+	))		
+4	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+इसके टच में प्रॉब्लम है
+<Sentence id="63">
+1	((	NP	<fs af='टच,unk,,,,,0_में,' head='टच'  poslcat="NM"  vpos="vib2_3">
+1.1	इसके	PRP	<fs af='यह,pn,m,pl,3,d,का,kA' name='इसके'>
+1.2	टच	NN	<fs af='टच,unk,,,,,,' poslcat="NM"  name='टच'>
+	))		
+2	((	NP	<fs af='प्रॉब्लम,unk,,,,,,' poslcat="NM"  head='प्रॉब्लम'>
+2.1	प्रॉब्लम	NN	<fs af='प्रॉब्लम,unk,,,,,,' poslcat="NM"  name='प्रॉब्लम'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+टोर्च लाइट होता तो अच्छा होता
+<Sentence id="64">
+1	((	NP	<fs af='टोर्च,unk,,,,,,' head='टोर्च'  poslcat="NM">
+1.1	टोर्च	NN	<fs af='टोर्च,unk,,,,,,' name='टोर्च'  poslcat="NM">
+	))		
+2	((	NP	<fs af='लाइट,n,f,sg,3,d,0,0' head='लाइट'>
+2.1	लाइट	NN	<fs af='लाइट,n,f,sg,3,d,0,0' name='लाइट'>
+	))		
+3	((	VGF	<fs af='हो,v,m,sg,any,,ता,wA' head='होता'>
+3.1	होता	VM	<fs af='हो,v,m,sg,any,,ता,wA' name='होता'>
+	))		
+4	((	CCP	<fs af='तो,avy,,,,,,' head='तो'>
+4.1	तो	CC	<fs af='तो,avy,,,,,,' name='तो'>
+	))		
+5	((	JJP	<fs af='अच्छा,adj,m,sg,,d,,' head='अच्छा'>
+5.1	अच्छा	JJ	<fs af='अच्छा,adj,m,sg,,d,,' name='अच्छा'>
+	))		
+6	((	VGF	<fs af='हो,v,m,sg,any,,ता,wA' head='होता2'>
+6.1	होता	VM	<fs af='हो,v,m,sg,any,,ता,wA' name='होता2'>
+	))		
+</Sentence>			
+काफी महंगा मोबाइल है
+<Sentence id="65">
+1	((	NP	<fs af='मोबाइल,n,m,sg,3,d,0,0' head='मोबाइल'>
+1.1	काफी	QF	<fs af='काफी,adj,any,any,,any,,' name='काफी'>
+1.2	महंगा	JJ	<fs af='महंगा,adj,m,sg,,d,,' name='महंगा'>
+1.3	मोबाइल	NN	<fs af='मोबाइल,n,m,sg,3,d,0,0' name='मोबाइल'>
+	))		
+2	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+2.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+आमतौर पर ये मोबाइल इतना महंगा नहीं होता है
+<Sentence id="66">
+1	((	NP	<fs af='आमतौर,n,m,sg,3,d,0_पर,0' vpos="vib1_2"  head='आमतौर'>
+1.1	आमतौर	NN	<fs af='आमतौर,n,m,sg,3,d,0,0' name='आमतौर'>
+	))		
+2	((	NP	<fs af='मोबाइल,n,m,sg,3,d,0,0' head='मोबाइल'>
+2.1	ये	DEM	<fs af='यह,pn,any,pl,3,d,0,0' name='ये'>
+2.2	मोबाइल	NN	<fs af='मोबाइल,n,m,sg,3,d,0,0' name='मोबाइल'>
+	))		
+3	((	JJP	<fs af='महंगा,adj,m,sg,,d,,' head='महंगा'>
+3.1	इतना	QF	<fs af='इतना,adj,m,sg,,d,,' name='इतना'>
+3.2	महंगा	JJ	<fs af='महंगा,adj,m,sg,,d,,' name='महंगा'>
+	))		
+4	((	VGF	<fs af='हो,v,m,sg,2,,ता_है,wA' head='होता'  vpos="tam2_3">
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	होता	VM	<fs af='हो,v,m,sg,any,,ता,wA' name='होता'>
+	))		
+</Sentence>			
+ये उतना बेहतर नहीं है
+<Sentence id="67">
+1	((	NP	<fs af='उतना,adv,,,,,,' head='उतना'  poslcat="NM">
+1.1	ये	DEM	<fs af='यह,pn,any,pl,3,d,0,0' name='ये'>
+1.2	उतना	QF	<fs af='उतना,adv,,,,,,' poslcat="NM"  name='उतना'>
+	))		
+2	((	JJP	<fs af='बेहतर,adj,any,any,,any,,' head='बेहतर'>
+2.1	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+कैमरा और भी साफ़ होना चाहिए था
+<Sentence id="68">
+1	((	NP	<fs af='कैमरा,n,m,sg,3,d,0,0' head='कैमरा'>
+1.1	कैमरा	NN	<fs af='कैमरा,n,m,sg,3,d,0,0' name='कैमरा'>
+	))		
+2	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+2.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+2.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+3	((	JJP	<fs af='साफ,n,m,sg,,d,0,0' head='साफ़'  poslcat="NM">
+3.1	साफ़	JJ	<fs af='साफ,n,m,sg,,d,0,0' poslcat="NM"  name='साफ़'>
+	))		
+4	((	VGF	<fs af='हो,v,any,sg,any,,ना_चाह+इए_था,nA' head='होना'  vpos="tam1_2_3">
+4.1	होना	VM	<fs af='हो,v,m,sg,any,,ना,nA' name='होना'>
+	))		
+</Sentence>			
+कीबोर्ड टाइप के लिए सुविधाजनक नहीं है
+<Sentence id="69">
+1	((	NP	<fs af='टाइप,n,m,sg,3,d,0_का_लिए,0' vpos="vib2_3_4"  head='टाइप'>
+1.1	कीबोर्ड	JJ	<fs af='कीबोर्ड,n,m,sg,3,d,0,0' name='कीबोर्ड'  poslcat="NM">
+1.2	टाइप	NN	<fs af='टाइप,n,m,sg,3,d,0,0' name='टाइप'>
+	))		
+2	((	NP	<fs af='सुविधाजनक,n,m,sg,3,d,0,0' head='सुविधाजनक'>
+2.1	सुविधाजनक	NN	<fs af='सुविधाजनक,n,m,sg,3,d,0,0' name='सुविधाजनक'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+फिरेफोक्स उतना तेज़ नहीं है
+<Sentence id="70">
+1	((	NP	<fs af='फिरेफोक्स,unk,,,,,,' head='फिरेफोक्स'  poslcat="NM">
+1.1	फिरेफोक्स	NN	<fs af='फिरेफोक्स,unk,,,,,,' poslcat="NM"  name='फिरेफोक्स'>
+	))		
+2	((	NP	<fs af='तेज़,unk,,,,,,' poslcat="NM"  head='तेज़'>
+2.1	उतना	QF	<fs af='उतना,adv,,,,,,' poslcat="NM"  name='उतना'>
+2.2	तेज़	NN	<fs af='तेज़,unk,,,,,,' poslcat="NM"  name='तेज़'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+हुंडई में गति नहीं है उतनी
+<Sentence id="71">
+1	((	NP	<fs af='हुंडई,unk,,,,,0_में,' vpos="vib1_2"  head='हुंडई'  poslcat="NM">
+1.1	हुंडई	NN	<fs af='हुंडई,unk,,,,,,' name='हुंडई'  poslcat="NM">
+	))		
+2	((	NP	<fs af='गति,n,f,sg,3,d,0,0' head='गति'>
+2.1	गति	NN	<fs af='गति,n,f,sg,3,d,0,0' name='गति'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+3.3	उतनी	QF	<fs af='उतनी,adj,f,any,,any,,' name='उतनी'>
+	))		
+</Sentence>			
+सहारा की सर्विस बेहतर नहीं है
+<Sentence id="72">
+1	((	NP	<fs af='सहारा,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head='सहारा'>
+1.1	सहारा	NN	<fs af='सहारा,n,m,sg,3,d,0,0' name='सहारा'>
+	))		
+2	((	NP	<fs af='सर्विस,n,f,sg,3,d,0,0' head='सर्विस'>
+2.1	सर्विस	NN	<fs af='सर्विस,n,f,sg,3,d,0,0' name='सर्विस'>
+	))		
+3	((	JJP	<fs af='बेहतर,adj,any,any,,any,,' head='बेहतर'>
+3.1	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+	))		
+4	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+मोबाइल स्वस्थ के लिए नुकसानदायक है
+<Sentence id="73">
+1	((	NP	<fs af='स्वस्थ,n,m,sg,3,d,0_का_लिए,0' head='स्वस्थ'  vpos="vib2_3_4">
+1.1	मोबाइल	JJ	<fs af='मोबाइल,n,m,sg,3,d,0,0' name='मोबाइल'  poslcat="NM">
+1.2	स्वस्थ	NN	<fs af='स्वस्थ,n,m,sg,3,d,0,0' name='स्वस्थ'>
+	))		
+2	((	JJP	<fs af='नुकसानदायक,unk,,,,,,' head='नुकसानदायक'  poslcat="NM">
+2.1	नुकसानदायक	JJ	<fs af='नुकसानदायक,unk,,,,,,' poslcat="NM"  name='नुकसानदायक'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+फेसबुक पर एप्प्स और बेहतर होने चाहिए
+<Sentence id="74">
+1	((	NP	<fs af='फेसबुक,unk,,,,,0_पर,' head='फेसबुक'  vpos="vib1_2"  poslcat="NM">
+1.1	फेसबुक	NN	<fs af='फेसबुक,unk,,,,,,' name='फेसबुक'  poslcat="NM">
+	))		
+2	((	NP	<fs af='एप्प्स,unk,,,,,,' poslcat="NM"  head='एप्प्स'>
+2.1	एप्प्स	NN	<fs af='एप्प्स,unk,,,,,,' poslcat="NM"  name='एप्प्स'>
+	))		
+3	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+3.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+	))		
+4	((	JJP	<fs af='बेहतर,adj,any,any,,any,,' head='बेहतर'>
+4.1	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+	))		
+5	((	VGF	<fs af='हो,v,m,sg,2h,,ना_चाह+इए,nA' vpos="tam1_2"  head='होने'>
+5.1	होने	VM	<fs af='हो,v,m,pl,any,,ना,nA' name='होने'>
+	))		
+</Sentence>			
+लैपटॉप की बैटरी बहुत संतोषजनक नहीं है
+<Sentence id="75">
+1	((	NP	<fs af='लैपटॉप,n,m,sg,3,d,0_का,0' vpos="vib1_2"  head='लैपटॉप'>
+1.1	लैपटॉप	NN	<fs af='लैपटॉप,n,m,sg,3,d,0,0' name='लैपटॉप'>
+	))		
+2	((	NP	<fs af='बैटरी,n,f,sg,3,d,0,0' head='बैटरी'>
+2.1	बैटरी	NN	<fs af='बैटरी,n,f,sg,3,d,0,0' name='बैटरी'>
+	))		
+3	((	JJP	<fs af='संतोषजनक,n,m,sg,3,d,0,0' head='संतोषजनक'  poslcat="NM">
+3.1	बहुत	INTF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+3.2	संतोषजनक	JJ	<fs af='संतोषजनक,n,m,sg,3,d,0,0' name='संतोषजनक'  poslcat="NM">
+	))		
+4	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+इस चटाई पर बहुत फिसलन हो जाती है और सरल चाल भी निशान बनाती है      #  हम एक अलग चटाई की सिफारिश करेंगे     #
+<Sentence id="76">
+1	((	NP	<fs af='चटाई,n,f,sg,3,d,0_पर,0' vpos="vib2_3"  head='चटाई'>
+1.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+1.2	चटाई	NN	<fs af='चटाई,n,f,sg,3,d,0,0' name='चटाई'>
+	))		
+2	((	JJP	<fs af='फिसलन,n,f,sg,3,d,0,0' head='फिसलन'  poslcat="NM">
+2.1	बहुत	INTF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+2.2	फिसलन	JJ	<fs af='फिसलन,n,f,sg,3,d,0,0' poslcat="NM"  name='फिसलन'>
+	))		
+3	((	VGF	<fs af='हो,v,f,sg,2,,0_जा+ता_है,0' head='हो'  vpos="tam1_2_3">
+3.1	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+4	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+4.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+	))		
+5	((	NP	<fs af='चाल,n,f,sg,3,d,0,0' head='चाल'>
+5.1	सरल	JJ	<fs af='सरल,adj,any,any,,any,,' name='सरल'>
+5.2	चाल	NN	<fs af='चाल,n,f,sg,3,d,0,0' name='चाल'>
+5.3	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+6	((	NP	<fs af='निशान,n,m,sg,3,d,0,0' head='निशान'>
+6.1	निशान	NN	<fs af='निशान,n,m,sg,3,d,0,0' name='निशान'>
+	))		
+7	((	VGF	<fs af='बना,v,f,sg,2,,ता_है,wA' head='बनाती'  vpos="tam1_2">
+7.1	बनाती	VM	<fs af='बना,v,f,sg,any,,ता,wA' name='बनाती'>
+	))		
+8	((	NP	<fs af='हम,unk,,,,,,' poslcat="NM"  head='हम'>
+8.1	हम	PRP	<fs af='हम,unk,,,,,,' name='हम'  poslcat="NM">
+	))		
+9	((	NP	<fs af='चटाई,n,f,sg,3,d,0_का,0' head='चटाई2'  vpos="vib3_4">
+9.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+9.2	अलग	JJ	<fs af='अलग,adj,any,any,,any,,' name='अलग'>
+9.3	चटाई	NN	<fs af='चटाई,n,f,sg,3,d,0,0' name='चटाई2'>
+	))		
+10	((	NP	<fs af='सिफारिश,n,f,sg,3,d,0,0' head='सिफारिश'>
+10.1	सिफारिश	NN	<fs af='सिफारिश,n,f,sg,3,d,0,0' name='सिफारिश'>
+	))		
+11	((	VGF	<fs af='कर,v,m,pl,1,,गा,gA' head='करेंगे'>
+11.1	करेंगे	VM	<fs af='कर,v,m,pl,1,,गा,gA' name='करेंगे'>
+	))		
+</Sentence>			
+प्रत्यक्ष सूर्य के साथ विंडो में होना चाहिए      #  सस्ते में बनाया हैं , बहुत कम हवा खीचता हैं      #
+<Sentence id="77">
+1	((	NP	<fs af='सूर्य,n,m,sg,3,d,0_का_साथ,0' vpos="vib2_3_4"  head='सूर्य'>
+1.1	प्रत्यक्ष	JJ	<fs af='प्रत्यक्ष,adj,any,any,,any,,' name='प्रत्यक्ष'>
+1.2	सूर्य	NN	<fs af='सूर्य,n,m,sg,3,d,0,0' name='सूर्य'>
+	))		
+2	((	NP	<fs af='विंडो,unk,,,,,0_में,' poslcat="NM"  head='विंडो'  vpos="vib1_2">
+2.1	विंडो	NN	<fs af='विंडो,unk,,,,,,' name='विंडो'  poslcat="NM">
+	))		
+3	((	VGF	<fs af='हो,v,m,sg,2h,,ना_चाह+इए,nA' head='होना'  vpos="tam1_2">
+3.1	होना	VM	<fs af='हो,v,m,sg,any,,ना,nA' name='होना'>
+	))		
+4	((	NP	<fs af='सस्ता,adj,m,sg,,o,0_में,' vpos="vib1_2"  head='सस्ते'  poslcat="NM">
+4.1	सस्ते	NN	<fs af='सस्ता,adj,m,sg,,o,,' poslcat="NM"  name='सस्ते'>
+	))		
+5	((	VGF	<fs af='बना,v,m,pl,1,,या_है,yA' vpos="tam1_2"  head='बनाया'>
+5.1	बनाया	VM	<fs af='बना,v,m,sg,any,,या,yA' name='बनाया'>
+5.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+6	((	NP	<fs af='हवा,n,f,sg,3,d,0,0' head='हवा'>
+6.1	बहुत	INTF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+6.2	कम	QF	<fs af='कम,adj,any,any,,any,,' name='कम'>
+6.3	हवा	NN	<fs af='हवा,n,f,sg,3,d,0,0' name='हवा'>
+	))		
+7	((	VGF	<fs af='खीच,v,m,pl,1,,ता_है,wA' vpos="tam1_2"  head='खीचता'>
+7.1	खीचता	VM	<fs af='खीच,v,m,sg,any,,ता,wA' name='खीचता'>
+	))		
+</Sentence>			
+लुश द्वारा उत्पाद ज्यादा बेहतर  रहे हैं     #
+<Sentence id="78">
+1	((	NP	<fs af='लुश,unk,,,,,0_द्वारा,' head='लुश'  vpos="vib1_2"  poslcat="NM">
+1.1	लुश	NN	<fs af='लुश,unk,,,,,,' poslcat="NM"  name='लुश'>
+	))		
+2	((	NP	<fs af='उत्पाद,n,m,sg,3,d,0,0' head='उत्पाद'>
+2.1	उत्पाद	NN	<fs af='उत्पाद,n,m,sg,3,d,0,0' name='उत्पाद'>
+	))		
+3	((	JJP	<fs af='बेहतर,adj,any,any,,any,,' head='बेहतर'>
+3.1	ज्यादा	QF	<fs af='ज्यादा,adj,m,sg,,d,,' name='ज्यादा'>
+3.2	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+	))		
+4	((	VGF	<fs af='रह,v,any,pl,1,,एं_है,e' vpos="tam1_2"  head='रहे'>
+4.1	रहे	VM	<fs af='रह,v,any,sg,2,,एं,e' name='रहे'>
+	))		
+</Sentence>			
+मैं बिल्कुल इस समीक्षा के साथ सहमत हूँ  "आप अपने पैसे की रक़म के लायक नहीं हैं
+<Sentence id="79">
+1	((	NP	<fs af='मैं,pn,any,sg,1,d,0,0' head='मैं'>
+1.1	मैं	PRP	<fs af='मैं,pn,any,sg,1,d,0,0' name='मैं'>
+	))		
+2	((	RBP	<fs af='बिल्कुल,adv,,,,,,' head='बिल्कुल'>
+2.1	बिल्कुल	RB	<fs af='बिल्कुल,adv,,,,,,' name='बिल्कुल'>
+	))		
+3	((	NP	<fs af='समीक्षा,n,f,sg,3,d,0_का_साथ,0' vpos="vib2_3_4"  head='समीक्षा'>
+3.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+3.2	समीक्षा	NN	<fs af='समीक्षा,n,f,sg,3,d,0,0' name='समीक्षा'>
+	))		
+4	((	JJP	<fs af='सहमत,n,m,sg,3,d,0,0' poslcat="NM"  head='सहमत'>
+4.1	सहमत	JJ	<fs af='सहमत,n,m,sg,3,d,0,0' poslcat="NM"  name='सहमत'>
+	))		
+5	((	VGF	<fs af='है,v,any,sg,1,,है,hE' head='हूँ'>
+5.1	हूँ	VM	<fs af='है,v,any,sg,1,,है,hE' name='हूँ'>
+	))		
+6	((	NP	<fs af='आप,pn,any,any,any,o,0,0' head='आप'>
+6.1	आप	PRP	<fs af='आप,pn,any,any,any,o,0,0' name='आप'>
+	))		
+7	((	NP	<fs af='पैसा,n,m,pl,3,d,0_का,0' vpos="vib2_3"  head='पैसे'>
+7.1	अपने	PRP	<fs af='अपना,adj,m,sg,,o,,' poslcat="NM"  name='अपने'>
+7.2	पैसे	NN	<fs af='पैसा,n,m,pl,3,d,0,0' name='पैसे'>
+	))		
+8	((	NP	<fs af='रकम,n,f,sg,,d,0_का,0' vpos="vib1_2"  head='रक़म'>
+8.1	रक़म	NN	<fs af='रकम,n,f,sg,,d,0,0' name='रक़म'>
+	))		
+9	((	JJP	<fs af='लायक,adj,any,any,,any,,' head='लायक'>
+9.1	लायक	JJ	<fs af='लायक,adj,any,any,,any,,' name='लायक'>
+	))		
+10	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+10.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+10.2	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+	))		
+</Sentence>			
+एक महान उत्पाद हो सकता है      #  यकीन नहीं किया जा सकता है      #  क्योंकि, यह कोई निर्देश के साथ नहीं आया था     #
+<Sentence id="80">
+1	((	NP	<fs af='उत्पाद,n,m,sg,3,d,0,0' head='उत्पाद'>
+1.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+1.2	महान	JJ	<fs af='महान,n,m,sg,3,d,0,0' poslcat="NM"  name='महान'>
+1.3	उत्पाद	NN	<fs af='उत्पाद,n,m,sg,3,d,0,0' name='उत्पाद'>
+	))		
+2	((	VGF	<fs af='हो,v,m,sg,2,,0_सक+ता_है,0' head='हो'  vpos="tam1_2_3">
+2.1	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+3	((	NP	<fs af='यकीन,n,m,sg,3,d,0,0' head='यकीन'>
+3.1	यकीन	NN	<fs af='यकीन,n,m,sg,3,d,0,0' name='यकीन'>
+	))		
+4	((	VGF	<fs af='कर,v,m,sg,2,,या_जा_सक+ता_है,yA' head='किया'  vpos="tam2_3_4_5">
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+	))		
+5	((	CCP	<fs af='क्योंकि,avy,,,,,,' head='क्योंकि'>
+5.1	क्योंकि	CC	<fs af='क्योंकि,avy,,,,,,' name='क्योंकि'>
+5.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+6	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+6.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+7	((	NP	<fs af='निर्देश,n,m,sg,3,d,0_का_साथ,0' vpos="vib2_3_4"  head='निर्देश'>
+7.1	कोई	PRP	<fs af='कोई,pn,any,sg,3,d,0,0' name='कोई'>
+7.2	निर्देश	NN	<fs af='निर्देश,n,m,sg,3,d,0,0' name='निर्देश'>
+	))		
+8	((	VGF	<fs af='आ,v,m,sg,any,,या_था,yA' head='आया'  vpos="tam2_3">
+8.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं2'>
+8.2	आया	VM	<fs af='आ,v,m,sg,any,,या,yA' name='आया'>
+	))		
+</Sentence>			
+"दी एंड  ऑफ देमोक्रेक्र्य " (2003) इस सिद्धांत के लिए सबसे अच्छा जवाब है
+<Sentence id="81">
+1	((	BLK	<fs af='दे,v,f,sg,any,,या,yA' head='दी'  poslcat="NM">
+1.2	दी	QC	<fs af='दे,v,f,sg,any,,या,yA' poslcat="NM"  name='दी'>
+	))		
+2	((	NP	<fs af='देमोक्रेक्र्य,unk,,,,,,' poslcat="NM"  head='देमोक्रेक्र्य'>
+2.1	एंड	XC	<fs af='एंड,adv,,,,,,' name='एंड'  poslcat="NM">
+2.2	ऑफ	XC	<fs af='ऑफ,n,m,sg,3,d,0,0' name='ऑफ'  poslcat="NM">
+2.3	देमोक्रेक्र्य	NNP	<fs af='देमोक्रेक्र्य,unk,,,,,,' name='देमोक्रेक्र्य'  poslcat="NM">
+	))		
+3	((	NP	<fs af='&ल्च्ब्र्स्;,punc,,,,,,' head=')'>
+3.2	2003	QC	<fs af='2003,num,,,,,,' name='2003'>
+	))		
+4	((	NP	<fs af='सिद्धांत,n,m,sg,3,d,0_का_लिए,0' head='सिद्धांत'  vpos="vib2_3_4">
+4.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+4.2	सिद्धांत	NN	<fs af='सिद्धांत,n,m,sg,3,d,0,0' name='सिद्धांत'>
+	))		
+5	((	NP	<fs af='जवाब,n,m,sg,3,d,0,0' head='जवाब'>
+5.1	सबसे	INTF	<fs af='सबसे,adj,any,any,,any,,' name='सबसे'>
+5.2	अच्छा	JJ	<fs af='अच्छा,adj,m,sg,,d,,' name='अच्छा'>
+5.3	जवाब	NN	<fs af='जवाब,n,m,sg,3,d,0,0' name='जवाब'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+बहुत ही निराशाजनक है, और उबाऊ!!
+<Sentence id="82">
+1	((	JJP	<fs af='निराशाजनक,n,m,sg,3,d,0,0' poslcat="NM"  head='निराशाजनक'>
+1.1	बहुत	QF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+1.2	ही	RP	<fs af='ही,adv,,,,,,' poslcat="NM"  name='ही'>
+1.3	निराशाजनक	JJ	<fs af='निराशाजनक,n,m,sg,3,d,0,0' poslcat="NM"  name='निराशाजनक'>
+	))		
+2	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+2.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+2.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+3	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+3.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+	))		
+4	((	JJP	<fs af='उबाऊ,n,f,sg,3,d,0,0' head='उबाऊ'  poslcat="NM">
+4.1	उबाऊ	JJ	<fs af='उबाऊ,n,f,sg,3,d,0,0' poslcat="NM"  name='उबाऊ'>
+	))		
+</Sentence>			
+प्रीमियम वाहन पावर अभियोक्ता संगत नहीं था      #  मैंने इसे लोटा दिया
+<Sentence id="83">
+1	((	NP	<fs af='पावर,n,m,sg,3,d,0,0' head='पावर'>
+1.1	प्रीमियम	XC	<fs af='प्रीमियम,unk,,,,,,' name='प्रीमियम'  poslcat="NM">
+1.2	वाहन	XC	<fs af='वाहन,n,m,sg,3,d,0,0' name='वाहन'  poslcat="NM">
+1.3	पावर	NN	<fs af='पावर,n,m,sg,3,d,0,0' name='पावर'>
+	))		
+2	((	NP	<fs af='अभियोक्ता,n,m,sg,3,d,0,0' head='अभियोक्ता'>
+2.1	अभियोक्ता	NN	<fs af='अभियोक्ता,n,m,sg,3,d,0,0' name='अभियोक्ता'>
+	))		
+3	((	JJP	<fs af='संगत,n,f,sg,3,d,0,0' head='संगत'  poslcat="NM">
+3.1	संगत	JJ	<fs af='संगत,n,f,sg,3,d,0,0' name='संगत'  poslcat="NM">
+	))		
+4	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))		
+5	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1">
+5.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+6	((	NP	<fs af='यह,pn,any,sg,3,o,को,ko' vpos="vib1"  head='इसे'>
+6.1	इसे	PRP	<fs af='यह,pn,any,sg,3,o,को,ko' name='इसे'>
+	))		
+7	((	VGF	<fs af='लोट,v,m,sg,any,,या_दे+या,yA' vpos="tam1_2"  head='लोटा'>
+7.1	लोटा	VM	<fs af='लोट,v,m,sg,any,,या,yA' name='लोटा'>
+	))		
+</Sentence>			
+मैंने  इसे दो सितारे दिये क्योंकि यह बहुत अच्छा था         #    परन्तु यह काम नहीं किया     #
+<Sentence id="84">
+1	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1">
+1.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+2	((	NP	<fs af='यह,pn,any,sg,3,o,को,ko' head='इसे'  vpos="vib1">
+2.1	इसे	PRP	<fs af='यह,pn,any,sg,3,o,को,ko' name='इसे'>
+	))		
+3	((	NP	<fs af='दो,n,m,sg,3,d,0,0' head='दो'  poslcat="NM">
+3.1	दो	QC	<fs af='दो,n,m,sg,3,d,0,0' name='दो'  poslcat="NM">
+	))		
+4	((	VGF	<fs af='सितारा,n,m,pl,any,d,0_दे+या,0' vpos="tam1_2"  poslcat="NM"  head='सितारे'>
+4.1	सितारे	VM	<fs af='सितारा,n,m,pl,3,d,0,0' name='सितारे'  poslcat="NM">
+	))		
+5	((	CCP	<fs af='क्योंकि,avy,,,,,,' head='क्योंकि'>
+5.1	क्योंकि	CC	<fs af='क्योंकि,avy,,,,,,' name='क्योंकि'>
+	))		
+6	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+6.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+7	((	JJP	<fs af='अच्छा,adj,m,sg,,d,,' head='अच्छा'>
+7.1	बहुत	INTF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+7.2	अच्छा	JJ	<fs af='अच्छा,adj,m,sg,,d,,' name='अच्छा'>
+	))		
+8	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+8.1	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))		
+9	((	CCP	<fs af='परंतु,avy,,,,,,' head='परन्तु'>
+9.1	परन्तु	CC	<fs af='परंतु,avy,,,,,,' name='परन्तु'>
+	))		
+10	((	NP	<fs af='काम,n,m,sg,3,d,0,0' head='काम'>
+10.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह2'>
+10.2	काम	NN	<fs af='काम,n,m,sg,3,d,0,0' name='काम'>
+	))		
+11	((	VGF	<fs af='कर,v,m,sg,any,,या,yA' head='किया'>
+11.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+11.2	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+	))		
+</Sentence>			
+मेरी उम्मीदे अच्छी थी , जब मैंने यह डीवीडी खरीदी      #
+<Sentence id="85">
+1	((	NP	<fs af='उम्मीदे,unk,,,,,,' poslcat="NM"  head='उम्मीदे'>
+1.1	मेरी	PRP	<fs af='मैं,pn,f,sg,1,d,का,kA' name='मेरी'>
+1.2	उम्मीदे	NN	<fs af='उम्मीदे,unk,,,,,,' poslcat="NM"  name='उम्मीदे'>
+	))		
+2	((	JJP	<fs af='अच्छी,adj,f,any,,any,,' head='अच्छी'>
+2.1	अच्छी	JJ	<fs af='अच्छी,adj,f,any,,any,,' name='अच्छी'>
+	))		
+3	((	VGF	<fs af='था,v,f,sg,any,,था,WA' head='थी'>
+3.1	थी	VM	<fs af='था,v,f,sg,any,,था,WA' name='थी'>
+3.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+4	((	NP	<fs af='जब,adv,,,,,,' head='जब'  poslcat="NM">
+4.1	जब	PRP	<fs af='जब,adv,,,,,,' poslcat="NM"  name='जब'>
+	))		
+5	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1">
+5.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+6	((	NP	<fs af='डीवीडी,unk,,,,,,' head='डीवीडी'  poslcat="NM">
+6.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+6.2	डीवीडी	NN	<fs af='डीवीडी,unk,,,,,,' name='डीवीडी'  poslcat="NM">
+	))		
+7	((	VGF	<fs af='खरीद,v,f,sg,any,,या,yA' head='खरीदी'>
+7.1	खरीदी	VM	<fs af='खरीद,v,f,sg,any,,या,yA' name='खरीदी'>
+	))		
+</Sentence>			
+सबसे निराशाजनक फिल्म जो मैंने कभी देखि है उनमे  से एक "खुशी की सभा" है     #
+<Sentence id="86">
+1	((	NP	<fs af='फिल्म,n,f,sg,3,d,0,0' head='फिल्म'>
+1.1	सबसे	INTF	<fs af='सबसे,adj,any,any,,any,,' name='सबसे'>
+1.2	निराशाजनक	JJ	<fs af='निराशाजनक,n,m,sg,3,d,0,0' name='निराशाजनक'  poslcat="NM">
+1.3	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+2	((	NP	<fs af='जो,pn,any,sg,3,d,0,0' head='जो'>
+2.1	जो	PRP	<fs af='जो,pn,any,sg,3,d,0,0' name='जो'>
+	))		
+3	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1">
+3.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+4	((	NP	<fs af='कभी,adv,,,,,,' head='कभी'  poslcat="NM">
+4.1	कभी	PRP	<fs af='कभी,adv,,,,,,' name='कभी'  poslcat="NM">
+	))		
+5	((	VGF	<fs af='देखि,unk,,sg,2,,0_है,' head='देखि'  vpos="tam1_2"  poslcat="NM">
+5.1	देखि	VM	<fs af='देखि,unk,,,,,,' name='देखि'  poslcat="NM">
+	))		
+6	((	NP	<fs af='उनमे,unk,,,,,0_से,' head='उनमे'  poslcat="NM"  vpos="vib1_2">
+6.1	उनमे	PRP	<fs af='उनमे,unk,,,,,,' name='उनमे'  poslcat="NM">
+	))		
+7	((	NP	<fs af='खुशी,n,f,sg,3,d,0_का,0' vpos="vib3_4"  head='खुशी'>
+7.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+7.3	खुशी	NN	<fs af='खुशी,n,f,sg,3,d,0,0' name='खुशी'>
+	))		
+8	((	NP	<fs af='सभा,n,f,sg,3,d,0,0' head='सभा'>
+8.1	सभा	NN	<fs af='सभा,n,f,sg,3,d,0,0' name='सभा'>
+	))		
+9	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है2'>
+9.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है2'>
+	))		
+</Sentence>			
+अच्छा उत्पाद, सेवा के बारे में भूल जाओ      #  मैं मेरे दोषपूर्ण प्रोजेक्टर के बारे में जनवरी 2005 से 8वि बार ई मेल भेजा
+<Sentence id="87">
+1	((	NP	<fs af='उत्पाद,n,m,sg,3,d,0,0' head='उत्पाद'>
+1.1	अच्छा	JJ	<fs af='अच्छा,adj,m,sg,,d,,' name='अच्छा'>
+1.2	उत्पाद	NN	<fs af='उत्पाद,n,m,sg,3,d,0,0' name='उत्पाद'>
+1.3	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+2	((	NP	<fs af='सेवा,n,f,sg,3,d,0_का_बारे_में,0' vpos="vib1_2_3_4"  head='सेवा'>
+2.1	सेवा	NN	<fs af='सेवा,n,f,sg,3,d,0,0' name='सेवा'>
+	))		
+3	((	NP	<fs af='भूल,n,f,sg,3,d,0,0' head='भूल'>
+3.1	भूल	NN	<fs af='भूल,n,f,sg,3,d,0,0' name='भूल'>
+	))		
+4	((	VGF	<fs af='जा,v,any,pl,2,,ओ,o' head='जाओ'>
+4.1	जाओ	VM	<fs af='जा,v,any,pl,2,,ओ,o' name='जाओ'>
+	))		
+5	((	NP	<fs af='मैं,pn,any,sg,1,d,0,0' head='मैं'>
+5.1	मैं	PRP	<fs af='मैं,pn,any,sg,1,d,0,0' name='मैं'>
+	))		
+6	((	NP	<fs af='मेरे,unk,,,,,,' head='मेरे'  poslcat="NM">
+6.1	मेरे	PRP	<fs af='मेरे,unk,,,,,,' poslcat="NM"  name='मेरे'>
+	))		
+7	((	NP	<fs af='प्रोजेक्टर,n,m,sg,3,d,0_का_बारे_में,0' vpos="vib2_3_4_5"  head='प्रोजेक्टर'>
+7.1	दोषपूर्ण	JJ	<fs af='दोषपूर्ण,unk,,,,,,' name='दोषपूर्ण'  poslcat="NM">
+7.2	प्रोजेक्टर	NN	<fs af='प्रोजेक्टर,n,m,sg,3,d,0,0' name='प्रोजेक्टर'>
+	))		
+8	((	NP	<fs af='2005,num,,,,,0_से,' vpos="vib2_3"  head='2005'  poslcat="NM">
+8.1	जनवरी	JJ	<fs af='जनवरी,n,f,sg,3,d,0,0' name='जनवरी'  poslcat="NM">
+8.2	2005	NN	<fs af='2005,num,,,,,,' name='2005'  poslcat="NM">
+	))		
+9	((	NP	<fs af='8वि,unk,,,,,,' poslcat="NM"  head='8वि'>
+9.1	8वि	NN	<fs af='8वि,unk,,,,,,' name='8वि'  poslcat="NM">
+9.2	बार	RP	<fs af='बार,n,f,sg,3,d,0,0' name='बार'  poslcat="NM">
+	))		
+10	((	NP	<fs af='मेल,n,m,sg,3,d,0,0' head='मेल'>
+10.2	मेल	NN	<fs af='मेल,n,m,sg,3,d,0,0' name='मेल'>
+	))		
+11	((	VGF	<fs af='भेज,v,m,sg,any,,या,yA' head='भेजा'>
+11.1	भेजा	VM	<fs af='भेज,v,m,sg,any,,या,yA' name='भेजा'>
+	))		
+</Sentence>			
+इस उत्पाद के साथ बहुत खुश नहीं हूँ     #
+<Sentence id="88">
+1	((	NP	<fs af='उत्पाद,n,m,sg,3,d,0_का_साथ,0' vpos="vib2_3_4"  head='उत्पाद'>
+1.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+1.2	उत्पाद	NN	<fs af='उत्पाद,n,m,sg,3,d,0,0' name='उत्पाद'>
+	))		
+2	((	JJP	<fs af='खुश,adj,any,any,,any,,' head='खुश'>
+2.1	बहुत	QF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+2.2	खुश	JJ	<fs af='खुश,adj,any,any,,any,,' name='खुश'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,1,,है,hE' head='हूँ'>
+3.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+3.2	हूँ	VM	<fs af='है,v,any,sg,1,,है,hE' name='हूँ'>
+	))		
+</Sentence>			
+सब शीर्षक यह कहते हैं      #  एक बेहतर किताब कर सकते हैं
+<Sentence id="89">
+1	((	NP	<fs af='शीर्षक,n,m,sg,3,d,0,0' head='शीर्षक'>
+1.1	सब	QF	<fs af='सब,adj,any,any,,any,,' name='सब'>
+1.2	शीर्षक	NN	<fs af='शीर्षक,n,m,sg,3,d,0,0' name='शीर्षक'>
+	))		
+2	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+2.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+3	((	VGF	<fs af='कह,v,m,pl,1,,ता_है,wA' vpos="tam1_2"  head='कहते'>
+3.1	कहते	VM	<fs af='कह,v,m,pl,any,,ता,wA' name='कहते'>
+	))		
+4	((	NP	<fs af='किताब,n,f,sg,3,d,0,0' head='किताब'>
+4.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+4.2	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+4.3	किताब	NN	<fs af='किताब,n,f,sg,3,d,0,0' name='किताब'>
+	))		
+5	((	VGF	<fs af='कर,v,m,pl,1,,0_सक+ता_है,0' head='कर'  vpos="tam1_2_3">
+5.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+</Sentence>			
+कैनन आईस के साथ 28-135mm (छवि स्थिरता) पैसे के लिए एक बेहतर विकल्प नहीं है
+<Sentence id="90">
+1	((	NP	<fs af='आईस,unk,,,,,0_का_साथ,' vpos="vib2_3_4"  poslcat="NM"  head='आईस'>
+1.1	कैनन	XC	<fs af='कैनन,unk,,,,,,' poslcat="NM"  name='कैनन'>
+1.2	आईस	NN	<fs af='आईस,unk,,,,,,' name='आईस'  poslcat="NM">
+	))		
+2	((	NP	<fs af='28-135म्म्,unk,,,,,,' poslcat="NM"  head='28-135म्म्'>
+2.1	28-135म्म्	NN	<fs af='28-135म्म्,unk,,,,,,' name='28-135म्म्'  poslcat="NM">
+	))		
+3	((	NP	<fs af='स्थिरता,n,m,sg,3,d,0,0' head='स्थिरता'>
+3.2	छवि	XC	<fs af='छवि,n,m,sg,3,d,0,0' poslcat="NM"  name='छवि'>
+3.3	स्थिरता	NN	<fs af='स्थिरता,n,m,sg,3,d,0,0' name='स्थिरता'>
+	))		
+4	((	NP	<fs af='पैसा,n,m,pl,3,d,0_का_लिए,0' vpos="vib1_2_3"  head='पैसे'>
+4.1	पैसे	NN	<fs af='पैसा,n,m,pl,3,d,0,0' name='पैसे'>
+	))		
+5	((	NP	<fs af='विकल्प,n,m,sg,3,d,0,0' head='विकल्प'>
+5.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+5.2	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+5.3	विकल्प	NN	<fs af='विकल्प,n,m,sg,3,d,0,0' name='विकल्प'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+मैं इस जिगा डिजिटल फ़्रेम पर डिजिटल चित्रों की गुणवत्ता से संतुष्ट नहीं था      #  मैंने  इसे लौटा दिया
+<Sentence id="91">
+1	((	NP	<fs af='मैं,pn,any,sg,1,d,0,0' head='मैं'>
+1.1	मैं	PRP	<fs af='मैं,pn,any,sg,1,d,0,0' name='मैं'>
+	))		
+2	((	NP	<fs af='फ़्रेम,unk,,,,,0_पर,' poslcat="NM"  head='फ़्रेम'  vpos="vib4_5">
+2.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+2.2	जिगा	XC	<fs af='जिगा,unk,,,,,,' poslcat="NM"  name='जिगा'>
+2.3	डिजिटल	XC	<fs af='डिजिटल,unk,,,,,,' name='डिजिटल'  poslcat="NM">
+2.4	फ़्रेम	NNP	<fs af='फ़्रेम,unk,,,,,,' poslcat="NM"  name='फ़्रेम'>
+	))		
+3	((	NP	<fs af='चित्रों,unk,,,,,0_का,' poslcat="NM"  head='चित्रों'  vpos="vib2_3">
+3.1	डिजिटल	XC	<fs af='डिजिटल,unk,,,,,,' name='डिजिटल2'  poslcat="NM">
+3.2	चित्रों	NN	<fs af='चित्रों,unk,,,,,,' name='चित्रों'  poslcat="NM">
+	))		
+4	((	NP	<fs af='गुणवत्ता,n,m,sg,3,d,0_से,0' vpos="vib1_2"  head='गुणवत्ता'>
+4.1	गुणवत्ता	NN	<fs af='गुणवत्ता,n,m,sg,3,d,0,0' name='गुणवत्ता'>
+	))		
+5	((	JJP	<fs af='संतुष्ट,n,m,sg,3,d,0,0' head='संतुष्ट'  poslcat="NM">
+5.1	संतुष्ट	JJ	<fs af='संतुष्ट,n,m,sg,3,d,0,0' name='संतुष्ट'  poslcat="NM">
+	))		
+6	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))		
+7	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1">
+7.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+8	((	NP	<fs af='यह,pn,any,sg,3,o,को,ko' head='इसे'  vpos="vib1">
+8.1	इसे	PRP	<fs af='यह,pn,any,sg,3,o,को,ko' name='इसे'>
+	))		
+9	((	VGF	<fs af='लौटा,v,any,sg,any,,0_दे+या,0' vpos="tam1_2"  head='लौटा'>
+9.1	लौटा	VM	<fs af='लौटा,v,any,any,any,,0,0' name='लौटा'>
+	))		
+</Sentence>			
+यह खगोल विज्ञान में आरंभ करने के सबसे अच्छा तरीका नहीं है     #
+<Sentence id="92">
+1	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+1.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+2	((	NP	<fs af='विज्ञान,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head='विज्ञान'>
+2.1	खगोल	JJ	<fs af='खगोल,n,m,sg,3,d,0,0' poslcat="NM"  name='खगोल'>
+2.2	विज्ञान	NN	<fs af='विज्ञान,n,m,sg,3,d,0,0' name='विज्ञान'>
+	))		
+3	((	NP	<fs af='आरम्भ,n,m,sg,,d,0,0' head='आरंभ'>
+3.1	आरंभ	NN	<fs af='आरम्भ,n,m,sg,,d,0,0' name='आरंभ'>
+	))		
+4	((	VGNN	<fs af='कर,v,m,sg,any,,ना_का,nA' head='करने'  vpos="tam1_2">
+4.1	करने	VM	<fs af='कर,v,m,pl,any,,ना,nA' name='करने'>
+	))		
+5	((	NP	<fs af='तरीका,n,m,sg,3,d,0,0' head='तरीका'>
+5.1	सबसे	INTF	<fs af='सबसे,adj,any,any,,any,,' name='सबसे'>
+5.2	अच्छा	JJ	<fs af='अच्छा,adj,m,sg,,d,,' name='अच्छा'>
+5.3	तरीका	NN	<fs af='तरीका,n,m,sg,3,d,0,0' name='तरीका'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+मेरे बच्चे इस "दूरबीन" से बेहतर एक टॉयलेट पेपर रोल के माध्यम से देख सकते हैं      #
+<Sentence id="93">
+1	((	NP	<fs af='बच्चा,n,m,pl,3,d,0,0' head='बच्चे'>
+1.1	मेरे	PRP	<fs af='मेरे,unk,,,,,,' poslcat="NM"  name='मेरे'>
+1.2	बच्चे	NN	<fs af='बच्चा,n,m,pl,3,d,0,0' name='बच्चे'>
+	))		
+2	((	NP	<fs af='दूरबीन,n,f,sg,3,d,0_से,0' vpos="vib3_5"  head='दूरबीन'>
+2.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+2.3	दूरबीन	NNP	<fs af='दूरबीन,n,f,sg,3,d,0,0' name='दूरबीन'>
+	))		
+3	((	NP	<fs af='टॉयलेट,unk,,,,,,' head='टॉयलेट'  poslcat="NM">
+3.1	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+3.2	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+3.3	टॉयलेट	NN	<fs af='टॉयलेट,unk,,,,,,' name='टॉयलेट'  poslcat="NM">
+	))		
+4	((	NP	<fs af='रोल,n,m,sg,3,d,0_का,0' head='रोल'  vpos="vib2_3">
+4.1	पेपर	JJ	<fs af='पेपर,n,m,sg,3,d,0,0' name='पेपर'  poslcat="NM">
+4.2	रोल	NN	<fs af='रोल,n,m,sg,3,d,0,0' name='रोल'>
+	))		
+5	((	NP	<fs af='माध्यम,n,m,sg,3,d,0_से,0' head='माध्यम'  vpos="vib1_2">
+5.1	माध्यम	NN	<fs af='माध्यम,n,m,sg,3,d,0,0' name='माध्यम'>
+	))		
+6	((	VGF	<fs af='देख,v,m,pl,1,,0_सक+ता_है,0' vpos="tam1_2_3"  head='देख'>
+6.1	देख	VM	<fs af='देख,v,any,any,any,,0,0' name='देख'>
+	))		
+</Sentence>			
+मैंने एक साल में सिंगुलर के साथ 4 फोन बदले  अपने पैसे के लायक नहीं
+<Sentence id="94">
+1	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1">
+1.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+2	((	NP	<fs af='साल,n,m,sg,3,d,0_में,0' vpos="vib2_3"  head='साल'>
+2.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+2.2	साल	NN	<fs af='साल,n,m,sg,3,d,0,0' name='साल'>
+	))		
+3	((	NP	<fs af='सिंगुलर,unk,,,,,0_का_साथ,' head='सिंगुलर'  vpos="vib1_2_3"  poslcat="NM">
+3.1	सिंगुलर	NNP	<fs af='सिंगुलर,unk,,,,,,' poslcat="NM"  name='सिंगुलर'>
+	))		
+4	((	NP	<fs af='फोन,n,m,sg,3,d,0,0' head='फोन'>
+4.1	4	QC	<fs af='4,num,,,,,,' name='4'>
+4.2	फोन	NN	<fs af='फोन,n,m,sg,3,d,0,0' name='फोन'>
+	))		
+5	((	VGNF	<fs af='बदल,v,any,sg,2,,एं,e' head='बदले'>
+5.1	बदले	VM	<fs af='बदल,v,any,sg,2,,एं,e' name='बदले'>
+	))		
+6	((	NP	<fs af='पैसा,n,m,pl,3,d,0_का,0' head='पैसे'  vpos="vib2_3">
+6.1	अपने	PRP	<fs af='अपना,adj,m,sg,,o,,' poslcat="NM"  name='अपने'>
+6.2	पैसे	NN	<fs af='पैसा,n,m,pl,3,d,0,0' name='पैसे'>
+	))		
+7	((	JJP	<fs af='लायक,adj,any,any,,any,,' head='लायक'>
+7.1	लायक	JJ	<fs af='लायक,adj,any,any,,any,,' name='लायक'>
+	))		
+8	((	NEGP	<fs af='नहीं,adv,,,,,,' head='नहीं'>
+8.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+	))		
+</Sentence>			
+इस फिल्म की पहली छमाही में बाहर होनहार शुरू होता है, 2 आधा इतना अच्छा नहीं है     #
+<Sentence id="95">
+1	((	NP	<fs af='फिल्म,n,f,sg,3,d,0_का,0' head='फिल्म'  vpos="vib2_3">
+1.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+1.2	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+2	((	NP	<fs af='छमाही,n,f,sg,3,d,0_में,0' vpos="vib2_3"  head='छमाही'>
+2.1	पहली	QO	<fs af='पहली,adj,f,any,,any,,' name='पहली'>
+2.2	छमाही	NN	<fs af='छमाही,n,f,sg,3,d,0,0' name='छमाही'>
+	))		
+3	((	NP	<fs af='होनहार,adj,any,any,,any,,' poslcat="NM"  head='होनहार'>
+3.1	बाहर	NST	<fs af='बाहर,psp,,,,,,' name='बाहर'  poslcat="NM">
+3.2	होनहार	NN	<fs af='होनहार,adj,any,any,,any,,' poslcat="NM"  name='होनहार'>
+	))		
+4	((	NP	<fs af='शुरू,avy,,,,,,' head='शुरू'  poslcat="NM">
+4.1	शुरू	NN	<fs af='शुरू,avy,,,,,,' name='शुरू'  poslcat="NM">
+	))		
+5	((	VGF	<fs af='हो,v,m,sg,2,,ता_है,wA' head='होता'  vpos="tam1_2">
+5.1	होता	VM	<fs af='हो,v,m,sg,any,,ता,wA' name='होता'>
+5.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+6	((	NP	<fs af='आधा,n,m,sg,3,d,0,0' head='आधा'>
+6.1	2	QC	<fs af='2,num,,,,,,' name='2'>
+6.2	आधा	NN	<fs af='आधा,n,m,sg,3,d,0,0' name='आधा'>
+	))		
+7	((	JJP	<fs af='अच्छा,adj,m,sg,,d,,' head='अच्छा'>
+7.1	इतना	QF	<fs af='इतना,adj,m,sg,,d,,' name='इतना'>
+7.2	अच्छा	JJ	<fs af='अच्छा,adj,m,sg,,d,,' name='अच्छा'>
+	))		
+8	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है2'>
+8.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+8.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है2'>
+	))		
+</Sentence>			
+यह जेन आयर के कई संस्करणों में से मेरा सबसे कम पसंदीदा संस्करण है        #        #
+<Sentence id="96">
+1	((	NP	<fs af='जेन,n,m,sg,3,d,0,0' head='जेन'>
+1.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+1.2	जेन	NN	<fs af='जेन,n,m,sg,3,d,0,0' name='जेन'>
+	))		
+2	((	NP	<fs af='आयर,unk,,,,,0_का,' head='आयर'  poslcat="NM"  vpos="vib1_2">
+2.1	आयर	NN	<fs af='आयर,unk,,,,,,' poslcat="NM"  name='आयर'>
+	))		
+3	((	NP	<fs af='संस्करण,n,m,pl,3,o,0_में_से,0' vpos="vib2_3_4"  head='संस्करणों'>
+3.1	कई	QF	<fs af='कई,adj,any,any,,d,,' name='कई'>
+3.2	संस्करणों	NN	<fs af='संस्करण,n,m,pl,3,o,0,0' name='संस्करणों'>
+	))		
+4	((	NP	<fs af='मेरा,unk,,,,,,' poslcat="NM"  head='मेरा'>
+4.1	मेरा	PRP	<fs af='मेरा,unk,,,,,,' name='मेरा'  poslcat="NM">
+	))		
+5	((	NP	<fs af='संस्करण,n,m,sg,3,d,0,0' head='संस्करण'>
+5.1	सबसे	INTF	<fs af='सबसे,adj,any,any,,any,,' name='सबसे'>
+5.2	कम	QF	<fs af='कम,adj,any,any,,any,,' name='कम'>
+5.3	पसंदीदा	JJ	<fs af='पसंदीदा,adj,m,sg,,d,,' name='पसंदीदा'>
+5.4	संस्करण	NN	<fs af='संस्करण,n,m,sg,3,d,0,0' name='संस्करण'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+मेरे पहनने पर दूसरे पैर की अंगुली के माध्यम से टूट गया  घटिया उत्पाद
+<Sentence id="97">
+1	((	NP	<fs af='मेरे,unk,,,,,,' poslcat="NM"  head='मेरे'>
+1.1	मेरे	PRP	<fs af='मेरे,unk,,,,,,' name='मेरे'  poslcat="NM">
+	))		
+2	((	VGNN	<fs af='पहन,v,m,pl,any,,ना_पर,nA' vpos="tam1_2"  head='पहनने'>
+2.1	पहनने	VM	<fs af='पहन,v,m,pl,any,,ना,nA' name='पहनने'>
+	))		
+3	((	NP	<fs af='पैर,n,m,sg,3,d,0_का,0' head='पैर'  vpos="vib2_3">
+3.1	दूसरे	QO	<fs af='दूसरे,adj,any,any,,any,,' name='दूसरे'>
+3.2	पैर	NN	<fs af='पैर,n,m,sg,3,d,0,0' name='पैर'>
+	))		
+4	((	NP	<fs af='अंगुली,n,f,sg,3,d,0_का,0' vpos="vib1_2"  head='अंगुली'>
+4.1	अंगुली	NN	<fs af='अंगुली,n,f,sg,3,d,0,0' name='अंगुली'>
+	))		
+5	((	NP	<fs af='माध्यम,n,m,sg,3,d,0_से,0' vpos="vib1_2"  head='माध्यम'>
+5.1	माध्यम	NN	<fs af='माध्यम,n,m,sg,3,d,0,0' name='माध्यम'>
+	))		
+6	((	VGNF	<fs af='टूट,v,any,any,any,,0_गया,0' head='टूट'  vpos="tam1_2">
+6.1	टूट	VM	<fs af='टूट,v,any,any,any,,0,0' name='टूट'>
+	))		
+7	((	NP	<fs af='उत्पाद,n,m,sg,3,d,0,0' head='उत्पाद'>
+7.1	घटिया	JJ	<fs af='घटिया,adj,m,sg,,d,,' name='घटिया'>
+7.2	उत्पाद	NN	<fs af='उत्पाद,n,m,sg,3,d,0,0' name='उत्पाद'>
+	))		
+</Sentence>			
+मैं यह डीवीडी देखने  की कोशिश कर रहा था, लेकिन यह नहीं खुला क्योंकि देश कोड गलत था
+<Sentence id="98">
+1	((	NP	<fs af='मैं,pn,any,sg,1,d,0,0' head='मैं'>
+1.1	मैं	PRP	<fs af='मैं,pn,any,sg,1,d,0,0' name='मैं'>
+	))		
+2	((	NP	<fs af='डीवीडी,unk,,,,,,' poslcat="NM"  head='डीवीडी'>
+2.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+2.2	डीवीडी	NN	<fs af='डीवीडी,unk,,,,,,' name='डीवीडी'  poslcat="NM">
+	))		
+3	((	VGNN	<fs af='देख,v,m,sg,any,,ना_का,nA' head='देखने'  vpos="tam1_2">
+3.1	देखने	VM	<fs af='देख,v,m,pl,any,,ना,nA' name='देखने'>
+	))		
+4	((	NP	<fs af='कोशिश,n,f,sg,3,d,0,0' head='कोशिश'>
+4.1	कोशिश	NN	<fs af='कोशिश,n,f,sg,3,d,0,0' name='कोशिश'>
+	))		
+5	((	VGF	<fs af='कर,v,m,sg,any,,0_रह+या_था,0' vpos="tam1_2_3"  head='कर'>
+5.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+5.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+6	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+6.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+7	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह2'>
+7.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह2'>
+	))		
+8	((	VGF	<fs af='खुल,v,m,sg,any,,या,yA' head='खुला'>
+8.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+8.2	खुला	VM	<fs af='खुल,v,m,sg,any,,या,yA' name='खुला'>
+	))		
+9	((	CCP	<fs af='क्योंकि,avy,,,,,,' head='क्योंकि'>
+9.1	क्योंकि	CC	<fs af='क्योंकि,avy,,,,,,' name='क्योंकि'>
+	))		
+10	((	NP	<fs af='देश,n,m,sg,3,d,0_कोड,0' vpos="vib1_2"  head='देश'>
+10.1	देश	NN	<fs af='देश,n,m,sg,3,d,0,0' name='देश'>
+	))		
+11	((	JJP	<fs af='गलत,adj,any,any,,any,,' head='गलत'>
+11.1	गलत	JJ	<fs af='गलत,adj,any,any,,any,,' name='गलत'>
+	))		
+12	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था2'>
+12.1	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था2'>
+	))		
+</Sentence>			
+मैंने गलत मद प्राप्त किया है, लेकिन वहाँ उस के बाद कोई सेवा नहीं था
+<Sentence id="99">
+1	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' vpos="vib1"  head='मैंने'>
+1.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+2	((	NP	<fs af='मद,n,m,sg,3,d,0,0' head='मद'>
+2.1	गलत	JJ	<fs af='गलत,adj,any,any,,any,,' name='गलत'>
+2.2	मद	NN	<fs af='मद,n,m,sg,3,d,0,0' name='मद'>
+	))		
+3	((	JJP	<fs af='प्राप्त,adj,any,any,,any,,' head='प्राप्त'>
+3.1	प्राप्त	JJ	<fs af='प्राप्त,adj,any,any,,any,,' name='प्राप्त'>
+	))		
+4	((	VGF	<fs af='कर,v,m,sg,2,,या_है,yA' vpos="tam1_2"  head='किया'>
+4.1	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+4.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+5	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+5.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+6	((	NP	<fs af='वहाँ,adv,,,,,,' head='वहाँ'  poslcat="NM">
+6.1	वहाँ	PRP	<fs af='वहाँ,adv,,,,,,' name='वहाँ'  poslcat="NM">
+	))		
+7	((	NP	<fs af='वह,pn,any,sg,3,o,0_का_बाद,0' vpos="vib1_2_3"  head='उस'>
+7.1	उस	PRP	<fs af='वह,pn,any,sg,3,o,0,0' name='उस'>
+	))		
+8	((	NP	<fs af='सेवा,n,f,sg,3,d,0,0' head='सेवा'>
+8.1	कोई	PRP	<fs af='कोई,pn,any,sg,3,d,0,0' name='कोई'>
+8.2	सेवा	NN	<fs af='सेवा,n,f,sg,3,d,0,0' name='सेवा'>
+	))		
+9	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+9.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+9.2	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+	))		
+</Sentence>			
+यह उत्पाद काफी कठोर है ,इस कंपनी का वर्णन शब्दों में करना मुश्किल है
+<Sentence id="100">
+1	((	NP	<fs af='उत्पाद,n,m,sg,3,d,0,0' head='उत्पाद'>
+1.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+1.2	उत्पाद	NN	<fs af='उत्पाद,n,m,sg,3,d,0,0' name='उत्पाद'>
+	))		
+2	((	JJP	<fs af='कठोर,adj,any,any,,any,,' head='कठोर'>
+2.1	काफी	INTF	<fs af='काफी,adj,any,any,,any,,' name='काफी'>
+2.2	कठोर	JJ	<fs af='कठोर,adj,any,any,,any,,' name='कठोर'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+3.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+4	((	NP	<fs af='कंपनी,n,f,sg,3,d,0_का,0' head='कंपनी'  vpos="vib2_3">
+4.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+4.2	कंपनी	NN	<fs af='कंपनी,n,f,sg,3,d,0,0' name='कंपनी'>
+	))		
+5	((	NP	<fs af='वर्णन,n,m,sg,3,d,0,0' head='वर्णन'>
+5.1	वर्णन	NN	<fs af='वर्णन,n,m,sg,3,d,0,0' name='वर्णन'>
+	))		
+6	((	NP	<fs af='शब्द,n,m,pl,3,o,0_में,0' head='शब्दों'  vpos="vib1_2">
+6.1	शब्दों	NN	<fs af='शब्द,n,m,pl,3,o,0,0' name='शब्दों'>
+	))		
+7	((	VGNN	<fs af='कर,v,m,sg,any,,ना,nA' head='करना'>
+7.1	करना	VM	<fs af='कर,v,m,sg,any,,ना,nA' name='करना'>
+	))		
+8	((	NP	<fs af='मुश्किल,n,f,sg,3,d,0,0' head='मुश्किल'>
+8.1	मुश्किल	NN	<fs af='मुश्किल,n,f,sg,3,d,0,0' name='मुश्किल'>
+	))		
+9	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है2'>
+9.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है2'>
+	))		
+</Sentence>			
+मैंने  केवल जैरी ओर्बच द्वारा यह एक गीत के लिए खरीदा है      #  पहले 2 डीवीडी बेहतर थे
+<Sentence id="101">
+1	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1_RP">
+1.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+1.2	केवल	RP	<fs af='केवल,adv,,,,,,' poslcat="NM"  name='केवल'>
+	))		
+2	((	NP	<fs af='ओर्बच,unk,,,,,0_द्वारा,' poslcat="NM"  vpos="vib2_3"  head='ओर्बच'>
+2.1	जैरी	JJ	<fs af='जैरी,unk,,,,,,' poslcat="NM"  name='जैरी'>
+2.2	ओर्बच	NN	<fs af='ओर्बच,unk,,,,,,' poslcat="NM"  name='ओर्बच'>
+	))		
+3	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+3.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+4	((	NP	<fs af='गीत,n,m,sg,3,d,0_का_लिए,0' head='गीत'  vpos="vib2_3_4">
+4.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+4.2	गीत	NN	<fs af='गीत,n,m,sg,3,d,0,0' name='गीत'>
+	))		
+5	((	NP	<fs af='खरीद,v,m,sg,any,,या,yA' head='खरीदा'  vpos="vib1"  poslcat="NM">
+5.1	खरीदा	NN	<fs af='खरीद,v,m,sg,any,,या,yA' poslcat="NM"  name='खरीदा'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+7	((	NP	<fs af='पहले,adv,,,,,,' head='पहले'>
+7.1	पहले	NST	<fs af='पहले,adv,,,,,,' name='पहले'>
+	))		
+8	((	NP	<fs af='डीवीडी,unk,,,,,,' head='डीवीडी'  poslcat="NM">
+8.1	2	QC	<fs af='2,num,,,,,,' name='2'>
+8.2	डीवीडी	NN	<fs af='डीवीडी,unk,,,,,,' name='डीवीडी'  poslcat="NM">
+	))		
+9	((	JJP	<fs af='बेहतर,adj,any,any,,any,,' head='बेहतर'>
+9.1	बेहतर	JJ	<fs af='बेहतर,adj,any,any,,any,,' name='बेहतर'>
+	))		
+10	((	VGF	<fs af='था,v,m,pl,any,,था,WA' head='थे'>
+10.1	थे	VM	<fs af='था,v,m,pl,any,,था,WA' name='थे'>
+	))		
+</Sentence>			
+इस एक को छोड़कर - मैं लिपमन की किसी भी पुस्तक को कई बार फिर से पढ़ लूँगा- परन्तु यह बहुत बोरिंग और निराशाजनक पुस्तक हैं
+<Sentence id="102">
+1	((	NP	<fs af='एक,adj,any,any,,any,0_को,' head='एक'  vpos="vib2_3">
+1.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+1.2	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+	))		
+2	((	VGF	<fs af='छोड,v,any,any,any,,कर,kara' head='छोड़कर'>
+2.1	छोड़कर	VM	<fs af='छोड,v,any,any,any,,कर,kara' name='छोड़कर'>
+	))		
+3	((	NP	<fs af='मैं,pn,any,sg,1,d,0,0' head='मैं'>
+3.1	मैं	PRP	<fs af='मैं,pn,any,sg,1,d,0,0' name='मैं'>
+	))		
+4	((	NP	<fs af='लिपमन,unk,,,,,0_का,' head='लिपमन'  vpos="vib1_2"  poslcat="NM">
+4.1	लिपमन	NN	<fs af='लिपमन,unk,,,,,,' poslcat="NM"  name='लिपमन'>
+	))		
+5	((	NP	<fs af='किसी,unk,,,,,,' poslcat="NM"  head='किसी'>
+5.1	किसी	PRP	<fs af='किसी,unk,,,,,,' name='किसी'  poslcat="NM">
+5.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+6	((	NP	<fs af='पुस्तक,n,f,sg,3,d,0_को,0' head='पुस्तक'  vpos="vib1_2">
+6.1	पुस्तक	NN	<fs af='पुस्तक,n,f,sg,3,d,0,0' name='पुस्तक'>
+	))		
+7	((	NP	<fs af='बार,n,f,sg,3,d,0,0' head='बार'  poslcat="NM">
+7.1	कई	QF	<fs af='कई,adj,any,any,,d,,' name='कई'>
+7.2	बार	RP	<fs af='बार,n,f,sg,3,d,0,0' poslcat="NM"  name='बार'>
+	))		
+8	((	RBP	<fs af='फिर,adv,,,,,0_से,' vpos="vib1_2"  head='फिर'>
+8.1	फिर	RB	<fs af='फिर,adv,,,,,,' name='फिर'>
+	))		
+9	((	VGNF	<fs af='पढ,v,any,any,any,,0,0' head='पढ़'>
+9.1	पढ़	VM	<fs af='पढ,v,any,any,any,,0,0' name='पढ़'>
+	))		
+10	((	NP	<fs af='&मिनुस्;,punc,,,,,,' head='-2'>
+10.1	लूँगा	XC	<fs af='ले,v,m,sg,1,,गा,gA' poslcat="NM"  name='लूँगा'>
+	))		
+11	((	CCP	<fs af='परंतु,avy,,,,,,' head='परन्तु'>
+11.1	परन्तु	CC	<fs af='परंतु,avy,,,,,,' name='परन्तु'>
+	))		
+12	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+12.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+13	((	NP	<fs af='बोरिंग,unk,,,,,,' head='बोरिंग'  poslcat="NM">
+13.1	बहुत	QF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+13.2	बोरिंग	NN	<fs af='बोरिंग,unk,,,,,,' poslcat="NM"  name='बोरिंग'>
+	))		
+14	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+14.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+	))		
+15	((	NP	<fs af='पुस्तक,n,f,sg,3,d,0,0' head='पुस्तक2'>
+15.1	निराशाजनक	JJ	<fs af='निराशाजनक,n,m,sg,3,d,0,0' poslcat="NM"  name='निराशाजनक'>
+15.2	पुस्तक	NN	<fs af='पुस्तक,n,f,sg,3,d,0,0' name='पुस्तक2'>
+	))		
+16	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+16.1	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+	))		
+</Sentence>			
+इसके साथ जो सॉफ्टवेयर  आता है वह  विअक्स 8500 के लिए सही सॉफ्टवेयर नहीं है
+<Sentence id="103">
+1	((	NP	<fs af='यह,pn,m,pl,3,d,का_साथ,kA' head='इसके'  vpos="vib1_2">
+1.1	इसके	PRP	<fs af='यह,pn,m,pl,3,d,का,kA' name='इसके'>
+	))		
+2	((	NP	<fs af='जो,pn,any,sg,3,d,0,0' head='जो'>
+2.1	जो	PRP	<fs af='जो,pn,any,sg,3,d,0,0' name='जो'>
+	))		
+3	((	NP	<fs af='सॉफ्टवेयर,n,m,sg,3,d,0,0' head='सॉफ्टवेयर'>
+3.1	सॉफ्टवेयर	NN	<fs af='सॉफ्टवेयर,n,m,sg,3,d,0,0' name='सॉफ्टवेयर'>
+	))		
+4	((	VGF	<fs af='आ,v,m,sg,2,,ता_है,wA' vpos="tam1_2"  head='आता'>
+4.1	आता	VM	<fs af='आ,v,m,sg,any,,ता,wA' name='आता'>
+	))		
+5	((	NP	<fs af='वह,pn,any,sg,3,d,0,0' head='वह'>
+5.1	वह	PRP	<fs af='वह,pn,any,sg,3,d,0,0' name='वह'>
+	))		
+6	((	NP	<fs af='8500,num,,,,,0_का_लिए,' head='8500'  vpos="vib2_3_4"  poslcat="NM">
+6.1	विअक्स	JJ	<fs af='विअक्स,unk,,,,,,' name='विअक्स'  poslcat="NM">
+6.2	8500	NN	<fs af='8500,num,,,,,,' poslcat="NM"  name='8500'>
+	))		
+7	((	NP	<fs af='सॉफ्टवेयर,n,m,sg,3,d,0,0' head='सॉफ्टवेयर2'>
+7.1	सही	JJ	<fs af='सह,v,f,sg,any,,या,yA' name='सही'  poslcat="NM">
+7.2	सॉफ्टवेयर	NN	<fs af='सॉफ्टवेयर,n,m,sg,3,d,0,0' name='सॉफ्टवेयर2'>
+	))		
+8	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है2'>
+8.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+8.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है2'>
+	))		
+</Sentence>			
+बहुत ही निराशाजनक - रिवेर्दांस की तरह कुछ भी नहीं है
+<Sentence id="104">
+1	((	NP	<fs af='ही,adv,,,,,,' head='ही'  poslcat="NM">
+1.1	बहुत	QF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+1.2	ही	RP	<fs af='ही,adv,,,,,,' name='ही'  poslcat="NM">
+	))		
+2	((	NP	<fs af='रिवेर्दांस,unk,,,,,0_का_तरह,' head='रिवेर्दांस'  poslcat="NM"  vpos="vib3_4_5">
+2.1	निराशाजनक	XC	<fs af='निराशाजनक,n,m,sg,3,d,0,0' name='निराशाजनक'  poslcat="NM">
+2.3	रिवेर्दांस	NN	<fs af='रिवेर्दांस,unk,,,,,,' poslcat="NM"  name='रिवेर्दांस'>
+	))		
+3	((	NP	<fs af='कुछ,pn,any,sg,3,d,0,0' head='कुछ'>
+3.1	कुछ	PRP	<fs af='कुछ,pn,any,sg,3,d,0,0' name='कुछ'>
+3.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+4	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+4.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+4.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+सहमत है कि यह खूबसूरती से फिल्माया गया था, लेकिन         #      वहाँ एक महान सौदा अनुवाद में खो गया है
+<Sentence id="105">
+1	((	JJP	<fs af='सहमत,n,m,sg,3,d,0,0' head='सहमत'  poslcat="NM">
+1.1	सहमत	JJ	<fs af='सहमत,n,m,sg,3,d,0,0' poslcat="NM"  name='सहमत'>
+	))		
+2	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+2.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+3	((	CCP	<fs af='कि,avy,,,,,,' head='कि'>
+3.1	कि	CC	<fs af='कि,avy,,,,,,' name='कि'>
+	))		
+4	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+4.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+5	((	NP	<fs af='खूबसूरती,n,f,sg,3,d,0_से,0' head='खूबसूरती'  vpos="vib1_2">
+5.1	खूबसूरती	NN	<fs af='खूबसूरती,n,f,sg,3,d,0,0' name='खूबसूरती'>
+	))		
+6	((	VGF	<fs af='फिल्माया,unk,,sg,any,,0_गया_था,' vpos="tam1_2_3"  poslcat="NM"  head='फिल्माया'>
+6.1	फिल्माया	VM	<fs af='फिल्माया,unk,,,,,,' poslcat="NM"  name='फिल्माया'>
+6.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+7	((	CCP	<fs af='लेकिन,avy,,,,,,' head='लेकिन'>
+7.1	लेकिन	CC	<fs af='लेकिन,avy,,,,,,' name='लेकिन'>
+	))		
+8	((	NP	<fs af='वहाँ,adv,,,,,,' head='वहाँ'  poslcat="NM">
+8.1	वहाँ	PRP	<fs af='वहाँ,adv,,,,,,' name='वहाँ'  poslcat="NM">
+	))		
+9	((	NP	<fs af='अनुवाद,n,m,sg,3,d,0_में,0' head='अनुवाद'  vpos="vib4_5">
+9.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+9.2	महान	JJ	<fs af='महान,n,m,sg,3,d,0,0' poslcat="NM"  name='महान'>
+9.3	सौदा	JJ	<fs af='सौदा,n,m,sg,3,d,0,0' poslcat="NM"  name='सौदा'>
+9.4	अनुवाद	NN	<fs af='अनुवाद,n,m,sg,3,d,0,0' name='अनुवाद'>
+	))		
+10	((	VGF	<fs af='खो,v,any,sg,2,,0_गया_है,0' head='खो'  vpos="tam1_2_3">
+10.1	खो	VM	<fs af='खो,v,any,any,any,,0,0' name='खो'>
+	))		
+</Sentence>			
+फ्रांसिस्को सही था , इस फिल्म के बारे में  बुत्त्क्रुस्त के रूप में अच्छी कल्पना है     #
+<Sentence id="106">
+1	((	NP	<fs af='फ्रांसिस्को,unk,,,,,,' head='फ्रांसिस्को'  poslcat="NM">
+1.1	फ्रांसिस्को	NN	<fs af='फ्रांसिस्को,unk,,,,,,' poslcat="NM"  name='फ्रांसिस्को'>
+	))		
+2	((	JJP	<fs af='सह,v,f,sg,any,,या,yA' poslcat="NM"  head='सही'>
+2.1	सही	JJ	<fs af='सह,v,f,sg,any,,या,yA' poslcat="NM"  name='सही'>
+	))		
+3	((	VGF	<fs af='था,v,m,sg,any,,था,WA' head='था'>
+3.1	था	VM	<fs af='था,v,m,sg,any,,था,WA' name='था'>
+3.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+4	((	NP	<fs af='फिल्म,n,f,sg,3,d,0_का_बारे_में,0' head='फिल्म'  vpos="vib2_3_4_5">
+4.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+4.2	फिल्म	NN	<fs af='फिल्म,n,f,sg,3,d,0,0' name='फिल्म'>
+	))		
+5	((	NP	<fs af='बुत्त्क्रुस्त,unk,,,,,0_का,' vpos="vib1_2"  poslcat="NM"  head='बुत्त्क्रुस्त'>
+5.1	बुत्त्क्रुस्त	NN	<fs af='बुत्त्क्रुस्त,unk,,,,,,' name='बुत्त्क्रुस्त'  poslcat="NM">
+	))		
+6	((	NP	<fs af='रूप,n,m,sg,3,d,0_में,0' head='रूप'  vpos="vib1_2">
+6.1	रूप	NN	<fs af='रूप,n,m,sg,3,d,0,0' name='रूप'>
+	))		
+7	((	NP	<fs af='कल्पना,n,f,sg,3,d,0,0' head='कल्पना'>
+7.1	अच्छी	JJ	<fs af='अच्छी,adj,f,any,,any,,' name='अच्छी'>
+7.2	कल्पना	NN	<fs af='कल्पना,n,f,sg,3,d,0,0' name='कल्पना'>
+	))		
+8	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+8.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+मैंने सिर्फ जंक के इस टुकड़े पर 16     #    35 डॉलर बर्बाद किये       #  यह जल्दी आ गया, और व्यर्थ में तेजी से बन गया     #
+<Sentence id="107">
+1	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' head='मैंने'  vpos="vib1">
+1.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+2	((	RBP	<fs af='सिर्फ,adj,any,any,,any,,' head='सिर्फ'  poslcat="NM">
+2.1	सिर्फ	RB	<fs af='सिर्फ,adj,any,any,,any,,' name='सिर्फ'  poslcat="NM">
+	))		
+3	((	NP	<fs af='जंक,unk,,,,,0_का,' vpos="vib1_2"  head='जंक'  poslcat="NM">
+3.1	जंक	NN	<fs af='जंक,unk,,,,,,' poslcat="NM"  name='जंक'>
+	))		
+4	((	NP	<fs af='टुकडा,n,m,pl,,d,0_पर,0' vpos="vib2_3"  head='टुकड़े'>
+4.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+4.2	टुकड़े	NN	<fs af='टुकडा,n,m,pl,,d,0,0' name='टुकड़े'>
+	))		
+5	((	NP	<fs af='डॉलर,n,m,sg,3,d,0,0' head='डॉलर'>
+5.1	16	QC	<fs af='16,num,,,,,,' name='16'>
+5.3	35	QC	<fs af='35,num,,,,,,' name='35'>
+5.4	डॉलर	NN	<fs af='डॉलर,n,m,sg,3,d,0,0' name='डॉलर'>
+	))		
+6	((	JJP	<fs af='बर्बाद,adj,any,any,,any,,' head='बर्बाद'>
+6.1	बर्बाद	JJ	<fs af='बर्बाद,adj,any,any,,any,,' name='बर्बाद'>
+	))		
+7	((	VGF	<fs af='कर,v,m,pl,any,,या,yA' head='किये'>
+7.1	किये	VM	<fs af='कर,v,m,pl,any,,या,yA' name='किये'>
+	))		
+8	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+8.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+9	((	RBP	<fs af='जल्दी,n,f,sg,3,d,0,0' poslcat="NM"  head='जल्दी'>
+9.1	जल्दी	RB	<fs af='जल्दी,n,f,sg,3,d,0,0' name='जल्दी'  poslcat="NM">
+	))		
+10	((	VGF	<fs af='आ,v,any,any,any,,0_गया,0' head='आ'  vpos="tam1_2">
+10.1	आ	VM	<fs af='आ,v,any,any,any,,0,0' name='आ'>
+10.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+11	((	CCP	<fs af='और,avy,,,,,,' head='और'>
+11.1	और	CC	<fs af='और,avy,,,,,,' name='और'>
+	))		
+12	((	NP	<fs af='व्यर्थ,n,m,sg,3,d,0_में,0' head='व्यर्थ'  vpos="vib1_2">
+12.1	व्यर्थ	NN	<fs af='व्यर्थ,n,m,sg,3,d,0,0' name='व्यर्थ'>
+	))		
+13	((	RBP	<fs af='तेजी,unk,,,,,0_से,' vpos="vib1_2"  head='तेजी'  poslcat="NM">
+13.1	तेजी	RB	<fs af='तेजी,unk,,,,,,' poslcat="NM"  name='तेजी'>
+	))		
+14	((	VGF	<fs af='बन,v,any,any,any,,0_गया,0' vpos="tam1_2"  head='बन'>
+14.1	बन	VM	<fs af='बन,v,any,any,any,,0,0' name='बन'>
+	))		
+</Sentence>			
+बीएल-4c मैं मिला नोकिया बैटरी संख्या 0406040703000042032 नकली है
+<Sentence id="108">
+1	((	NP	<fs af='बीएल-4च्,unk,,,,,,' head='बीएल-4च्'  poslcat="NM">
+1.1	बीएल-4च्	NN	<fs af='बीएल-4च्,unk,,,,,,' poslcat="NM"  name='बीएल-4च्'>
+	))		
+2	((	NP	<fs af='मैं,pn,any,sg,1,d,0,0' head='मैं'>
+2.1	मैं	PRP	<fs af='मैं,pn,any,sg,1,d,0,0' name='मैं'>
+	))		
+3	((	VGNF	<fs af='मिला,v,any,any,any,,0_नोकिया,0' head='मिला'  vpos="tam1_2">
+3.1	मिला	VM	<fs af='मिला,v,any,any,any,,0,0' name='मिला'>
+	))		
+4	((	NP	<fs af='संख्या,n,f,sg,3,d,0,0' head='संख्या'>
+4.1	बैटरी	JJ	<fs af='बैटरी,n,f,sg,3,d,0,0' name='बैटरी'  poslcat="NM">
+4.2	संख्या	NN	<fs af='संख्या,n,f,sg,3,d,0,0' name='संख्या'>
+	))		
+5	((	NP	<fs af='नकली,n,f,sg,3,d,0,0' head='नकली'>
+5.1	0406040703000042032	QC	<fs af='0406040703000042032,num,,,,,,' name='0406040703000042032'>
+5.2	नकली	NN	<fs af='नकली,n,f,sg,3,d,0,0' name='नकली'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+6.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+</Sentence>			
+इस कार्यक्रम के कई लोगों को कठिनाइयों के कारण ,  ग्राहक सेवा के लिए दो अलग कॉल करना पड़ा था     #
+<Sentence id="109">
+1	((	NP	<fs af='कार्यक्रम,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head='कार्यक्रम'>
+1.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+1.2	कार्यक्रम	NN	<fs af='कार्यक्रम,n,m,sg,3,d,0,0' name='कार्यक्रम'>
+	))		
+2	((	NP	<fs af='लोग,n,m,pl,3,o,0_को,0' vpos="vib2_3"  head='लोगों'>
+2.1	कई	QF	<fs af='कई,adj,any,any,,d,,' name='कई'>
+2.2	लोगों	NN	<fs af='लोग,n,m,pl,3,o,0,0' name='लोगों'>
+	))		
+3	((	NP	<fs af='कठिनाई,n,f,pl,3,o,0_का,0' vpos="vib1_2"  head='कठिनाइयों'>
+3.1	कठिनाइयों	NN	<fs af='कठिनाई,n,f,pl,3,o,0,0' name='कठिनाइयों'>
+	))		
+4	((	NP	<fs af='कारण,n,m,sg,3,d,0,0' head='कारण'>
+4.1	कारण	NN	<fs af='कारण,n,m,sg,3,d,0,0' name='कारण'>
+4.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+5	((	NP	<fs af='सेवा,n,f,sg,3,d,0_का_लिए,0' head='सेवा'  vpos="vib2_3_4">
+5.1	ग्राहक	JJ	<fs af='ग्राहक,n,m,sg,3,d,0,0' name='ग्राहक'  poslcat="NM">
+5.2	सेवा	NN	<fs af='सेवा,n,f,sg,3,d,0,0' name='सेवा'>
+	))		
+6	((	NP	<fs af='कॉल,unk,,,,,,' poslcat="NM"  head='कॉल'>
+6.1	दो	QC	<fs af='दो,n,m,sg,3,d,0,0' poslcat="NM"  name='दो'>
+6.2	अलग	JJ	<fs af='अलग,adj,any,any,,any,,' name='अलग'>
+6.3	कॉल	NN	<fs af='कॉल,unk,,,,,,' poslcat="NM"  name='कॉल'>
+	))		
+7	((	VGF	<fs af='कर,v,m,sg,any,,ना_पड+या_था,nA' vpos="tam1_2_3"  head='करना'>
+7.1	करना	VM	<fs af='कर,v,m,sg,any,,ना,nA' name='करना'>
+	))		
+</Sentence>			
+विक्रेता द्वारा शिप्पेर में माल लादने  में क्षतिग्रस्त हो गया है      #  रद्द का आदेश!!
+<Sentence id="110">
+1	((	NP	<fs af='विक्रेता,n,m,sg,3,d,0_द्वारा,0' vpos="vib1_2"  head='विक्रेता'>
+1.1	विक्रेता	NN	<fs af='विक्रेता,n,m,sg,3,d,0,0' name='विक्रेता'>
+	))		
+2	((	NP	<fs af='शिप्पेर,unk,,,,,0_में,' poslcat="NM"  head='शिप्पेर'  vpos="vib1_2">
+2.1	शिप्पेर	NN	<fs af='शिप्पेर,unk,,,,,,' poslcat="NM"  name='शिप्पेर'>
+	))		
+3	((	NP	<fs af='माल,n,m,sg,3,d,0,0' head='माल'>
+3.1	माल	NN	<fs af='माल,n,m,sg,3,d,0,0' name='माल'>
+	))		
+4	((	VGNN	<fs af='लाद,v,m,pl,any,,ना_में,nA' vpos="tam1_2"  head='लादने'>
+4.1	लादने	VM	<fs af='लाद,v,m,pl,any,,ना,nA' name='लादने'>
+	))		
+5	((	JJP	<fs af='क्षतिग्रस्त,adj,any,any,,any,,' head='क्षतिग्रस्त'>
+5.1	क्षतिग्रस्त	JJ	<fs af='क्षतिग्रस्त,adj,any,any,,any,,' name='क्षतिग्रस्त'>
+	))		
+6	((	VGF	<fs af='हो,v,any,sg,2,,0_गया_है,0' head='हो'  vpos="tam1_2_3">
+6.1	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+7	((	NP	<fs af='रद्द,n,m,sg,3,d,0_का,0' head='रद्द'  vpos="vib1_2">
+7.1	रद्द	NN	<fs af='रद्द,n,m,sg,3,d,0,0' name='रद्द'>
+	))		
+8	((	NP	<fs af='आदेश,n,m,sg,3,d,0,0' head='आदेश'>
+8.1	आदेश	NN	<fs af='आदेश,n,m,sg,3,d,0,0' name='आदेश'>
+	))		
+</Sentence>			
+मेरे फायरवायर  पोर्ट  के साथ मुसीबत थी       #  मुझे कंपनी से कोई भी मदद नहीं मिली
+<Sentence id="111">
+1	((	NP	<fs af='मेरे,unk,,,,,,' poslcat="NM"  head='मेरे'>
+1.1	मेरे	PRP	<fs af='मेरे,unk,,,,,,' poslcat="NM"  name='मेरे'>
+	))		
+2	((	NP	<fs af='पोर्ट,n,m,sg,3,d,0_का_साथ,0' head='पोर्ट'  vpos="vib2_3_4">
+2.1	फायरवायर	XC	<fs af='फायरवायर,unk,,,,,,' name='फायरवायर'  poslcat="NM">
+2.2	पोर्ट	NNP	<fs af='पोर्ट,n,m,sg,3,d,0,0' name='पोर्ट'>
+	))		
+3	((	NP	<fs af='मुसीबत,n,f,sg,3,d,0,0' head='मुसीबत'>
+3.1	मुसीबत	NN	<fs af='मुसीबत,n,f,sg,3,d,0,0' name='मुसीबत'>
+	))		
+4	((	VGF	<fs af='था,v,f,sg,any,,था,WA' head='थी'>
+4.1	थी	VM	<fs af='था,v,f,sg,any,,था,WA' name='थी'>
+	))		
+5	((	NP	<fs af='मुझे,unk,,,,,,' poslcat="NM"  head='मुझे'>
+5.1	मुझे	PRP	<fs af='मुझे,unk,,,,,,' name='मुझे'  poslcat="NM">
+	))		
+6	((	NP	<fs af='कंपनी,n,f,sg,3,d,0_से,0' vpos="vib1_2"  head='कंपनी'>
+6.1	कंपनी	NN	<fs af='कंपनी,n,f,sg,3,d,0,0' name='कंपनी'>
+	))		
+7	((	NP	<fs af='कोई,pn,any,sg,3,d,0,0' head='कोई'>
+7.1	कोई	PRP	<fs af='कोई,pn,any,sg,3,d,0,0' name='कोई'>
+7.2	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+8	((	NP	<fs af='मदद,n,f,sg,3,d,0,0' head='मदद'>
+8.1	मदद	NN	<fs af='मदद,n,f,sg,3,d,0,0' name='मदद'>
+	))		
+9	((	VGF	<fs af='मिल,v,f,sg,any,,या,yA' head='मिली'>
+9.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+9.2	मिली	VM	<fs af='मिल,v,f,sg,any,,या,yA' name='मिली'>
+	))		
+</Sentence>			
+अन्य चीजें के मिल जाने से है वह इसके खिलाफ जा रही हैं
+<Sentence id="112">
+1	((	NP	<fs af='चीज,n,f,pl,3,d,0_का,0' vpos="vib2_3"  head='चीजें'>
+1.1	अन्य	JJ	<fs af='अन्य,adj,any,any,,any,,' name='अन्य'>
+1.2	चीजें	NN	<fs af='चीज,n,f,pl,3,d,0,0' name='चीजें'>
+	))		
+2	((	VGNN	<fs af='मिल,v,any,any,any,,0_जान+एं_से,0' head='मिल'  vpos="tam1_2_3">
+2.1	मिल	VM	<fs af='मिल,v,any,any,any,,0,0' name='मिल'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+4	((	NP	<fs af='वह,pn,any,sg,3,d,0,0' head='वह'>
+4.1	वह	PRP	<fs af='वह,pn,any,sg,3,d,0,0' name='वह'>
+	))		
+5	((	NP	<fs af='खिलाफ,n,m,sg,3,d,0,0' head='खिलाफ'>
+5.1	इसके	PRP	<fs af='यह,pn,m,pl,3,d,का,kA' name='इसके'>
+5.2	खिलाफ	NN	<fs af='खिलाफ,n,m,sg,3,d,0,0' name='खिलाफ'>
+	))		
+6	((	VGF	<fs af='जा,v,f,pl,1,,0_रह+या_है,0' vpos="tam1_2_3"  head='जा'>
+6.1	जा	VM	<fs af='जा,v,any,any,any,,0,0' name='जा'>
+	))		
+</Sentence>			
+हमने  कुछ पुराने बॉक्स छोड़ दिए है, इसका पता नहीं है     #
+<Sentence id="113">
+1	((	NP	<fs af='हमने,unk,,,,,,' head='हमने'  poslcat="NM">
+1.1	हमने	PRP	<fs af='हमने,unk,,,,,,' name='हमने'  poslcat="NM">
+	))		
+2	((	NP	<fs af='बॉक्स,n,m,sg,3,d,0,0' head='बॉक्स'>
+2.1	कुछ	QF	<fs af='कुछ,adj,any,any,,d,,' name='कुछ'>
+2.2	पुराने	JJ	<fs af='पुराना,adj,m,sg,,o,,' name='पुराने'>
+2.3	बॉक्स	NN	<fs af='बॉक्स,n,m,sg,3,d,0,0' name='बॉक्स'>
+	))		
+3	((	VGF	<fs af='छोड,v,m,sg,2,,0_दे+या_है,0' head='छोड़'  vpos="tam1_2_3">
+3.1	छोड़	VM	<fs af='छोड,v,any,any,any,,0,0' name='छोड़'>
+3.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+4	((	NP	<fs af='यह,pn,m,sg,3,d,का,kA' head='इसका'  vpos="vib1">
+4.1	इसका	PRP	<fs af='यह,pn,m,sg,3,d,का,kA' name='इसका'>
+	))		
+5	((	JJP	<fs af='पता,v,any,any,any,,0,0' poslcat="NM"  head='पता'>
+5.1	पता	JJ	<fs af='पता,v,any,any,any,,0,0' poslcat="NM"  name='पता'>
+	))		
+6	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है2'>
+6.1	नहीं	NEG	<fs af='नहीं,adv,,,,,,' name='नहीं'>
+6.2	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है2'>
+	))		
+</Sentence>			
+संग्रह में गुनगुना प्रविष्टि      #   बोर की एक लोर्री  एक बिट मोटी थी
+<Sentence id="114">
+1	((	NP	<fs af='संग्रह,n,m,sg,3,d,0_में,0' vpos="vib1_2"  head='संग्रह'>
+1.1	संग्रह	NN	<fs af='संग्रह,n,m,sg,3,d,0,0' name='संग्रह'>
+	))		
+2	((	NP	<fs af='प्रविष्टि,n,f,sg,3,d,0,0' head='प्रविष्टि'>
+2.1	गुनगुना	JJ	<fs af='गुनगुना,adj,m,sg,,d,,' name='गुनगुना'>
+2.2	प्रविष्टि	NN	<fs af='प्रविष्टि,n,f,sg,3,d,0,0' name='प्रविष्टि'>
+	))		
+3	((	NP	<fs af='बोर,n,m,sg,3,d,0_का,0' head='बोर'  vpos="vib1_2">
+3.1	बोर	NN	<fs af='बोर,n,m,sg,3,d,0,0' name='बोर'>
+	))		
+4	((	NP	<fs af='लोर्री,unk,,,,,,' poslcat="NM"  head='लोर्री'>
+4.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+4.2	लोर्री	NN	<fs af='लोर्री,unk,,,,,,' name='लोर्री'  poslcat="NM">
+	))		
+5	((	NP	<fs af='बिट,unk,,,,,,' head='बिट'  poslcat="NM">
+5.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक2'>
+5.2	बिट	NN	<fs af='बिट,unk,,,,,,' name='बिट'  poslcat="NM">
+	))		
+6	((	VGF	<fs af='मोटी,adj,f,sg,any,any,0_था,' vpos="tam1_2"  head='मोटी'  poslcat="NM">
+6.1	मोटी	VM	<fs af='मोटी,adj,f,any,,any,,' poslcat="NM"  name='मोटी'>
+	))		
+</Sentence>			
+यह बुरा है! सभी  "10 नए गाने" की तरह, इस गाने ने  भी मुझे बहुत निराश किया      #
+<Sentence id="115">
+1	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+1.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+2	((	JJP	<fs af='बुरा,adj,m,sg,,d,,' head='बुरा'>
+2.1	बुरा	JJ	<fs af='बुरा,adj,m,sg,,d,,' name='बुरा'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है,hE' head='है'>
+3.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+4	((	NP	<fs af='10,num,,,,,,' head='10'>
+4.1	सभी	QF	<fs af='सभी,n,m,sg,3,d,0,0' poslcat="NM"  name='सभी'>
+4.3	10	QC	<fs af='10,num,,,,,,' name='10'>
+	))		
+5	((	JJP	<fs af='नया,adj,m,sg,,o,,' head='नए'>
+5.1	नए	JJ	<fs af='नया,adj,m,sg,,o,,' name='नए'>
+	))		
+6	((	VGF	<fs af='गा,v,m,pl,any,,ना,nA' head='गाने'>
+6.1	गाने	VM	<fs af='गा,v,m,pl,any,,ना,nA' name='गाने'>
+	))		
+7	((	FRAGP	
+7.1	की	PSP	<fs af='का,psp,f,sg,,d,का,kA' name='की'>
+	))		
+8	((	NP	<fs af='तरह,n,m,sg,3,d,0,0' head='तरह'>
+8.1	तरह	NN	<fs af='तरह,n,m,sg,3,d,0,0' name='तरह'>
+8.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+9	((	NP	<fs af='गाना,n,m,pl,3,d,0_ने,0' vpos="vib2_3_RP"  head='गाने2'>
+9.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+9.2	गाने	NN	<fs af='गाना,n,m,pl,3,d,0,0' name='गाने2'>
+9.3	भी	RP	<fs af='भी,avy,,,,,,' name='भी'>
+	))		
+10	((	NP	<fs af='मुझे,unk,,,,,,' head='मुझे'  poslcat="NM">
+10.1	मुझे	PRP	<fs af='मुझे,unk,,,,,,' poslcat="NM"  name='मुझे'>
+	))		
+11	((	NP	<fs af='निराश,n,m,sg,3,d,0,0' head='निराश'>
+11.1	बहुत	QF	<fs af='बहुत,adj,any,any,,any,,' name='बहुत'>
+11.2	निराश	NN	<fs af='निराश,n,m,sg,3,d,0,0' name='निराश'>
+	))		
+12	((	VGF	<fs af='कर,v,m,sg,any,,या,yA' head='किया'>
+12.1	किया	VM	<fs af='कर,v,m,sg,any,,या,yA' name='किया'>
+	))		
+</Sentence>			
+कर्सर इतना छोटा  है की इसे देखने में मुश्किल होती है     #
+<Sentence id="116">
+1	((	NP	<fs af='कर्सर,n,m,sg,3,d,0,0' head='कर्सर'>
+1.1	कर्सर	NN	<fs af='कर्सर,n,m,sg,3,d,0,0' name='कर्सर'>
+	))		
+2	((	JJP	<fs af='छोटा,adj,m,sg,,d,,' head='छोटा'>
+2.1	इतना	QF	<fs af='इतना,adj,m,sg,,d,,' name='इतना'>
+2.2	छोटा	JJ	<fs af='छोटा,adj,m,sg,,d,,' name='छोटा'>
+	))		
+3	((	VGF	<fs af='है,v,any,sg,2,,है_का,hE' vpos="tam1_2"  head='है'>
+3.1	है	VM	<fs af='है,v,any,sg,2,,है,hE' name='है'>
+	))		
+4	((	NP	<fs af='यह,pn,any,sg,3,o,को,ko' head='इसे'  vpos="vib1">
+4.1	इसे	PRP	<fs af='यह,pn,any,sg,3,o,को,ko' name='इसे'>
+	))		
+5	((	VGNN	<fs af='देख,v,m,pl,any,,ना_में,nA' head='देखने'  vpos="tam1_2">
+5.1	देखने	VM	<fs af='देख,v,m,pl,any,,ना,nA' name='देखने'>
+	))		
+6	((	JJP	<fs af='मुश्किल,n,f,sg,3,d,0,0' head='मुश्किल'  poslcat="NM">
+6.1	मुश्किल	JJ	<fs af='मुश्किल,n,f,sg,3,d,0,0' poslcat="NM"  name='मुश्किल'>
+	))		
+7	((	VGF	<fs af='हो,v,f,sg,2,,ता_है,wA' head='होती'  vpos="tam1_2">
+7.1	होती	VM	<fs af='हो,v,f,sg,any,,ता,wA' name='होती'>
+	))		
+</Sentence>			
+हर किसी के "पसंदीदा" डीजे, टिएस्टो  हल्के बकवास की एक ओर  धार हैं      #
+<Sentence id="117">
+1	((	NP	<fs af='किसी,unk,,,,,0_का,' poslcat="NM"  head='किसी'  vpos="vib2_3">
+1.1	हर	QF	<fs af='हर,adj,any,any,,any,,' name='हर'>
+1.2	किसी	PRP	<fs af='किसी,unk,,,,,,' name='किसी'  poslcat="NM">
+	))		
+2	((	NP	<fs af='पसंदीदा,adj,m,sg,,d,,' head='पसंदीदा'  poslcat="NM">
+2.1	पसंदीदा	NN	<fs af='पसंदीदा,adj,m,sg,,d,,' poslcat="NM"  name='पसंदीदा'>
+	))		
+3	((	NP	<fs af='डीजे,unk,,,,,,' poslcat="NM"  head='डीजे'>
+3.1	डीजे	NN	<fs af='डीजे,unk,,,,,,' poslcat="NM"  name='डीजे'>
+3.2	,	SYM	<fs af='&चोम्म;,punc,,,,,,' name=','>
+	))		
+4	((	NP	<fs af='टिएस्टो,unk,,,,,,' poslcat="NM"  head='टिएस्टो'>
+4.1	टिएस्टो	NN	<fs af='टिएस्टो,unk,,,,,,' poslcat="NM"  name='टिएस्टो'>
+	))		
+5	((	NP	<fs af='बकवास,n,m,sg,3,d,0_का,0' vpos="vib2_3"  head='बकवास'>
+5.1	हल्के	JJ	<fs af='हल्का,adj,m,sg,,o,,' name='हल्के'>
+5.2	बकवास	NN	<fs af='बकवास,n,m,sg,3,d,0,0' name='बकवास'>
+	))		
+6	((	NP	<fs af='ओर,adv,,,,,,' head='ओर'>
+6.1	एक	QC	<fs af='एक,adj,any,any,,any,,' name='एक'>
+6.2	ओर	NST	<fs af='ओर,adv,,,,,,' name='ओर'>
+	))		
+7	((	NP	<fs af='धार,n,f,sg,3,d,0,0' head='धार'>
+7.1	धार	NN	<fs af='धार,n,f,sg,3,d,0,0' name='धार'>
+	))		
+8	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+8.1	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+	))		
+</Sentence>			
+इस धीमी गति हब पर मेरे पैसे बर्बाद हो गए         #        #
+<Sentence id="118">
+1	((	NP	<fs af='गति,n,f,sg,3,d,0,0' head='गति'>
+1.1	इस	DEM	<fs af='यह,pn,any,sg,3,o,0,0' name='इस'>
+1.2	धीमी	JJ	<fs af='धीमी,unk,,,,,,' name='धीमी'  poslcat="NM">
+1.3	गति	NN	<fs af='गति,n,f,sg,3,d,0,0' name='गति'>
+	))		
+2	((	NP	<fs af='हब,n,m,sg,3,d,0_पर,0' head='हब'  poslcat="NM"  vpos="vib1_2">
+2.1	हब	PRP	<fs af='हब,n,m,sg,3,d,0,0' name='हब'  poslcat="NM">
+	))		
+3	((	NP	<fs af='पैसा,n,m,pl,3,d,0,0' head='पैसे'>
+3.1	मेरे	PRP	<fs af='मेरे,unk,,,,,,' name='मेरे'  poslcat="NM">
+3.2	पैसे	NN	<fs af='पैसा,n,m,pl,3,d,0,0' name='पैसे'>
+	))		
+4	((	JJP	<fs af='बर्बाद,adj,any,any,,any,,' head='बर्बाद'>
+4.1	बर्बाद	JJ	<fs af='बर्बाद,adj,any,any,,any,,' name='बर्बाद'>
+	))		
+5	((	VGF	<fs af='हो,v,any,any,any,,0_गए,0' head='हो'  vpos="tam1_2">
+5.1	हो	VM	<fs af='हो,v,any,any,any,,0,0' name='हो'>
+	))		
+</Sentence>			
+यह उत्पाद शुरू से ख़राब हैं        #  मैं इससे  काम कर पाने में असमर्थ हूँ
+<Sentence id="119">
+1	((	NP	<fs af='उत्पाद,n,m,sg,3,d,0,0' head='उत्पाद'>
+1.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+1.2	उत्पाद	NN	<fs af='उत्पाद,n,m,sg,3,d,0,0' name='उत्पाद'>
+	))		
+2	((	NP	<fs af='शुरू,avy,,,,,0_से,' vpos="vib1_2"  poslcat="NM"  head='शुरू'>
+2.1	शुरू	NN	<fs af='शुरू,avy,,,,,,' poslcat="NM"  name='शुरू'>
+	))		
+3	((	JJP	<fs af='खराब,adj,any,any,,any,,' head='ख़राब'>
+3.1	ख़राब	JJ	<fs af='खराब,adj,any,any,,any,,' name='ख़राब'>
+	))		
+4	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+4.1	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+	))		
+5	((	NP	<fs af='मैं,pn,any,sg,1,d,0,0' head='मैं'>
+5.1	मैं	PRP	<fs af='मैं,pn,any,sg,1,d,0,0' name='मैं'>
+	))		
+6	((	NP	<fs af='यह,pn,any,sg,3,o,से,se' vpos="vib1"  head='इससे'>
+6.1	इससे	PRP	<fs af='यह,pn,any,sg,3,o,से,se' name='इससे'>
+	))		
+7	((	NP	<fs af='काम,n,m,sg,3,d,0,0' head='काम'>
+7.1	काम	NN	<fs af='काम,n,m,sg,3,d,0,0' name='काम'>
+	))		
+8	((	VGNF	<fs af='कर,v,m,any,any,,0_पा+ना_में,0' head='कर'  vpos="tam1_2_3">
+8.1	कर	VM	<fs af='कर,v,any,any,any,,0,0' name='कर'>
+	))		
+9	((	JJP	<fs af='असमर्थ,adj,any,any,,any,,' head='असमर्थ'>
+9.1	असमर्थ	JJ	<fs af='असमर्थ,adj,any,any,,any,,' name='असमर्थ'>
+	))		
+10	((	VGF	<fs af='है,v,any,sg,1,,है,hE' head='हूँ'>
+10.1	हूँ	VM	<fs af='है,v,any,sg,1,,है,hE' name='हूँ'>
+	))		
+</Sentence>			
+तीन सप्ताह के बाद बैटरी विफल रहती है      #  मैंने यह  वाल्ल्मार्ट से ख़रीदा जहाँ यह  कम खर्चीला हैं
+<Sentence id="120">
+1	((	NP	<fs af='सप्ताह,n,m,sg,3,d,0_का_बाद,0' vpos="vib2_3_4"  head='सप्ताह'>
+1.1	तीन	QC	<fs af='तीन,n,m,sg,3,d,0,0' name='तीन'  poslcat="NM">
+1.2	सप्ताह	NN	<fs af='सप्ताह,n,m,sg,3,d,0,0' name='सप्ताह'>
+	))		
+2	((	NP	<fs af='बैटरी,n,f,sg,3,d,0,0' head='बैटरी'>
+2.1	बैटरी	NN	<fs af='बैटरी,n,f,sg,3,d,0,0' name='बैटरी'>
+	))		
+3	((	JJP	<fs af='विफल,n,m,sg,3,d,0,0' head='विफल'  poslcat="NM">
+3.1	विफल	JJ	<fs af='विफल,n,m,sg,3,d,0,0' name='विफल'  poslcat="NM">
+	))		
+4	((	VGF	<fs af='रह,v,f,sg,2,,ता_है,wA' vpos="tam1_2"  head='रहती'>
+4.1	रहती	VM	<fs af='रह,v,f,sg,any,,ता,wA' name='रहती'>
+	))		
+5	((	NP	<fs af='मैं,pn,any,sg,1,o,ने,ne' vpos="vib1"  head='मैंने'>
+5.1	मैंने	PRP	<fs af='मैं,pn,any,sg,1,o,ने,ne' name='मैंने'>
+	))		
+6	((	NP	<fs af='यह,pn,any,sg,3,d,0,0' head='यह'>
+6.1	यह	PRP	<fs af='यह,pn,any,sg,3,d,0,0' name='यह'>
+	))		
+7	((	NP	<fs af='वाल्ल्मार्ट,unk,,,,,0_से,' vpos="vib1_2"  poslcat="NM"  head='वाल्ल्मार्ट'>
+7.1	वाल्ल्मार्ट	NN	<fs af='वाल्ल्मार्ट,unk,,,,,,' name='वाल्ल्मार्ट'  poslcat="NM">
+	))		
+8	((	NP	<fs af='खरीद,v,m,sg,any,,या,yA' vpos="vib1"  poslcat="NM"  head='ख़रीदा'>
+8.1	ख़रीदा	NN	<fs af='खरीद,v,m,sg,any,,या,yA' poslcat="NM"  name='ख़रीदा'>
+	))		
+9	((	NP	<fs af='जहाँ,adv,,,,,,' head='जहाँ'  poslcat="NM">
+9.1	जहाँ	PRP	<fs af='जहाँ,adv,,,,,,' name='जहाँ'  poslcat="NM">
+	))		
+10	((	NP	<fs af='कम,adj,any,any,,any,,' head='कम'>
+10.1	यह	DEM	<fs af='यह,pn,any,sg,3,d,0,0' name='यह2'>
+10.2	कम	QF	<fs af='कम,adj,any,any,,any,,' name='कम'>
+	))		
+11	((	JJP	<fs af='खर्चीला,adj,m,sg,,d,,' head='खर्चीला'>
+11.1	खर्चीला	JJ	<fs af='खर्चीला,adj,m,sg,,d,,' name='खर्चीला'>
+	))		
+12	((	VGF	<fs af='है,v,any,pl,1,,है,hE' head='हैं'>
+12.1	हैं	VM	<fs af='है,v,any,pl,1,,है,hE' name='हैं'>
+	))		
+</Sentence>			
